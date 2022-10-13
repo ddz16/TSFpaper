@@ -13,7 +13,6 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-01-30|[FEDformer](https://arxiv.org/abs/2201.12740)|ICML 2022|[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/528131016)|[FEDformer](https://github.com/MAZiqing/FEDformer)
 22-02-23|[Preformer](https://arxiv.org/abs/2202.11356)|Arxiv 2022|[Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://zhuanlan.zhihu.com/p/536398013)|None
 22-05-16|[MANF](https://arxiv.org/abs/2205.07493)|Arxiv 2022|Multi-scale Attention Flow for Probabilistic Time Series Forecasting|None
-22-05-18|[FiLM](https://arxiv.org/abs/2205.08897)|Arxiv 2022|FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting|None
 22-05-24|[FreDo](https://arxiv.org/abs/2205.12301)|Arxiv 2022|FreDo: Frequency Domain-based Long-Term Time Series Forecasting|None
 22-05-28|[Non-stationary Transformer](https://arxiv.org/abs/2205.14415)|Arxiv 2022|[Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://zhuanlan.zhihu.com/p/535931701)|None
 22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)|Arxiv 2022|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|None
@@ -25,10 +24,10 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 | Date     | Method                                        | Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
 | -------- | --------------------------------------------- | ---------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| 22-05-26 | [NBeats](https://arxiv.org/abs/2205.13504)   | ICLR 2020 | [N-BEATS: Neural Basis Expansion Analysis For Interpretable Time Series Forecasting](https://zhuanlan.zhihu.com/p/572850227)      | [NBeats](https://github.com/philipperemy/n-beats) |
-| 22-05-26 | [NBeatsX](https://arxiv.org/abs/2104.05522)   | IJoF 2022 | [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://zhuanlan.zhihu.com/p/572955881)      | [NBeatsX](https://github.com/cchallu/nbeatsx) |
-| 22-05-26 | [DEPTS](https://arxiv.org/abs/2203.07681)   | ICLR 2022 | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://zhuanlan.zhihu.com/p/572984932)      | [DEPTS](https://github.com/weifantt/depts) |
-| 22-05-26 | [N-HiTS](https://arxiv.org/abs/2201.12886)   | Arxiv 2022 | [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://zhuanlan.zhihu.com/p/573203887)      | [N-HiTS](https://github.com/cchallu/n-hits) |
+| 19-05-24 | [NBeats](https://arxiv.org/abs/1905.10437)   | ICLR 2020 | [N-BEATS: Neural Basis Expansion Analysis For Interpretable Time Series Forecasting](https://zhuanlan.zhihu.com/p/572850227)      | [NBeats](https://github.com/philipperemy/n-beats) |
+| 21-04-12 | [NBeatsX](https://arxiv.org/abs/2104.05522)   | IJoF 2022 | [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://zhuanlan.zhihu.com/p/572955881)      | [NBeatsX](https://github.com/cchallu/nbeatsx) |
+| 22-01-30 | [N-HiTS](https://arxiv.org/abs/2201.12886)   | Arxiv 2022 | [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://zhuanlan.zhihu.com/p/573203887)      | [N-HiTS](https://github.com/cchallu/n-hits) |
+| 22-05-15 | [DEPTS](https://arxiv.org/abs/2203.07681)   | ICLR 2022 | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://zhuanlan.zhihu.com/p/572984932)      | [DEPTS](https://github.com/weifantt/depts) |
 | 22-05-26 | [DLinear](https://arxiv.org/abs/2205.13504)   | Arxiv 2022 | [Are Transformers Effective for Time Series Forecasting?](https://zhuanlan.zhihu.com/p/569194246)      | [DLinear](https://github.com/cure-lab/DLinear) |
 | 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106) | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
 
@@ -46,6 +45,13 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+
+## Plug and Play.
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
+22-05-18|[FiLM](https://arxiv.org/abs/2205.08897)|NIPS 2022|FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting|[FiLM](https://github.com/tianzhou2011/FiLM)
+
+
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
