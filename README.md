@@ -25,7 +25,11 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 | Date     | Method                                        | Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
 | -------- | --------------------------------------------- | ---------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| 22-05-26 | [DLinear](https://arxiv.org/abs/2205.13504)   | Arxiv 2022 | Are Transformers Effective for Time Series Forecasting?      | [DLinear](https://github.com/cure-lab/DLinear) |
+| 22-05-26 | [NBeats](https://arxiv.org/abs/2205.13504)   | ICLR 2020 | [N-BEATS: Neural Basis Expansion Analysis For Interpretable Time Series Forecasting](https://zhuanlan.zhihu.com/p/572850227)      | [NBeats](https://github.com/philipperemy/n-beats) |
+| 22-05-26 | [NBeatsX](https://arxiv.org/abs/2104.05522)   | IJoF 2022 | [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://zhuanlan.zhihu.com/p/572955881)      | [NBeatsX](https://github.com/cchallu/nbeatsx) |
+| 22-05-26 | [DEPTS](https://arxiv.org/abs/2203.07681)   | ICLR 2022 | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://zhuanlan.zhihu.com/p/572984932)      | [DEPTS](https://github.com/weifantt/depts) |
+| 22-05-26 | [N-HiTS](https://arxiv.org/abs/2201.12886)   | Arxiv 2022 | [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://zhuanlan.zhihu.com/p/573203887)      | [N-HiTS](https://github.com/cchallu/n-hits) |
+| 22-05-26 | [DLinear](https://arxiv.org/abs/2205.13504)   | Arxiv 2022 | [Are Transformers Effective for Time Series Forecasting?](https://zhuanlan.zhihu.com/p/569194246)      | [DLinear](https://github.com/cure-lab/DLinear) |
 | 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106) | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
 
 ## TCN.
