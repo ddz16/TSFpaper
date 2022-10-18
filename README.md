@@ -25,6 +25,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 | Date     | Method                                        | Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
 | -------- | --------------------------------------------- | ---------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| 17-05-25 | [ND](https://arxiv.org/abs/1705.09137)   | TNNLS 2017 | [Neural Decomposition of Time-Series Data for Effective Generalization](https://zhuanlan.zhihu.com/p/574742701)  | None |
 | 19-05-24 | [NBeats](https://arxiv.org/abs/1905.10437)   | ICLR 2020 | [N-BEATS: Neural Basis Expansion Analysis For Interpretable Time Series Forecasting](https://zhuanlan.zhihu.com/p/572850227)      | [NBeats](https://github.com/philipperemy/n-beats) |
 | 21-04-12 | [NBeatsX](https://arxiv.org/abs/2104.05522)   | IJoF 2022 | [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://zhuanlan.zhihu.com/p/572955881)      | [NBeatsX](https://github.com/cchallu/nbeatsx) |
 | 22-01-30 | [N-HiTS](https://arxiv.org/abs/2201.12886)   | Arxiv 2022 | [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://zhuanlan.zhihu.com/p/573203887)      | [N-HiTS](https://github.com/cchallu/n-hits) |
