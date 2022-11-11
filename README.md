@@ -16,7 +16,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 21-06-24|[Autoformer](https://arxiv.org/abs/2106.13008)|NIPS 2021|Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting|[Autoformer](https://github.com/thuml/Autoformer)
 21-10-05|[Pyraformer](https://openreview.net/pdf?id=0EXmFzUn5I)|ICLR 2022|Pyraformer: Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting|[Pyraformer](https://github.com/alipay/Pyraformer)
 22-01-30|[FEDformer](https://arxiv.org/abs/2201.12740)|ICML 2022|[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/528131016)|[FEDformer](https://github.com/MAZiqing/FEDformer)
-22-02-23|[Preformer](https://arxiv.org/abs/2202.11356)|Arxiv 2022|[Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://zhuanlan.zhihu.com/p/536398013)|None
+22-02-23|[Preformer](https://arxiv.org/abs/2202.11356)|Arxiv 2022|[Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://zhuanlan.zhihu.com/p/536398013)|[Preformer](https://github.com/ddz16/Preformer)
 22-04-28|[Triformer](https://arxiv.org/abs/2204.13767)|IJCAI 2022|Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting| None
 22-05-16|[MANF](https://arxiv.org/abs/2205.07493)|Arxiv 2022|Multi-scale Attention Flow for Probabilistic Time Series Forecasting|None
 22-05-24|[FreDo](https://arxiv.org/abs/2205.12301)|Arxiv 2022|FreDo: Frequency Domain-based Long-Term Time Series Forecasting|None
