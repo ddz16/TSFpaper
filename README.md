@@ -17,16 +17,25 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 21-10-05|[Pyraformer](https://openreview.net/pdf?id=0EXmFzUn5I)|ICLR 2022|Pyraformer: Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting|[Pyraformer](https://github.com/alipay/Pyraformer)
 22-01-30|[FEDformer](https://arxiv.org/abs/2201.12740)|ICML 2022|[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/528131016)|[FEDformer](https://github.com/MAZiqing/FEDformer)
 22-02-23|[Preformer](https://arxiv.org/abs/2202.11356)|Arxiv 2022|[Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://zhuanlan.zhihu.com/p/536398013)|[Preformer](https://github.com/ddz16/Preformer)
-22-04-28|[Triformer](https://arxiv.org/abs/2204.13767)|IJCAI 2022|Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting| None
+22-04-28|[Triformer](https://arxiv.org/abs/2204.13767)|[IJCAI 2022|Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting](https://blog.csdn.net/zj_18706809267/article/details/125048492)| [Triformer](https://github.com/razvanc92/triformer)
 22-05-16|[MANF](https://arxiv.org/abs/2205.07493)|Arxiv 2022|Multi-scale Attention Flow for Probabilistic Time Series Forecasting|None
 22-05-24|[FreDo](https://arxiv.org/abs/2205.12301)|Arxiv 2022|FreDo: Frequency Domain-based Long-Term Time Series Forecasting|None
-22-05-28|[Non-stationary Transformer](https://arxiv.org/abs/2205.14415)|Arxiv 2022|[Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://zhuanlan.zhihu.com/p/535931701)|None
-22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)|Arxiv 2022|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|None
+22-05-27|[TDformer](https://arxiv.org/abs/2212.08151)|NIPSW 2022|[First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://zhuanlan.zhihu.com/p/596022160)|[TDformer](https://github.com/BeBeYourLove/TDformer)
+22-05-28|[Non-stationary Transformer](https://arxiv.org/abs/2205.14415)|NIPS 2022|[Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://zhuanlan.zhihu.com/p/535931701)|[Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers)
+22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)|ICLR 2023|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|[Scaleformer](https://github.com/BorealisAI/scaleformer)
 22-08-30|[Persistence Initialization](https://arxiv.org/abs/2208.14236)|Arxiv 2022|[Persistence Initialization: A novel adaptation of the Transformer architecture for Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|None
 22-09-08|[W-Transformers](https://arxiv.org/abs/2209.03945)|Arxiv 2022|[W-Transformers: A Wavelet-based Transformer Framework for Univariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|[w-transformer](https://github.com/capwidow/w-transformer)
+22-11-27|[PatchTST](https://arxiv.org/abs/2211.14730)|ICLR 2023|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://zhuanlan.zhihu.com/p/602332939)|[PatchTST](https://github.com/yuqinie98/patchtst)
+
+
+
 ## RNN.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+17-04-13|[DeepAR](https://arxiv.org/abs/1704.04110)|IJoF 2019|[DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://zhuanlan.zhihu.com/p/542066911)|[DeepAR](https://github.com/brunoklein99/deepar)
+22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)|NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting)
+
+
 ## MLP.
 
 | Date     | Method                                        | Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
@@ -44,6 +53,10 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+| 22-09-22 | [MICN](https://openreview.net/forum?id=zt53IDUR1U) | ICLR 2023 | [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/603468264) | [MICN](https://github.com/whq13018258357/MICN)            |
+| 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | None            |
+
+
 ## GNN.
 
 | Date | Method | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
