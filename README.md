@@ -27,6 +27,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)|ICLR 2023|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|[Scaleformer](https://github.com/BorealisAI/scaleformer)
 22-08-30|[Persistence Initialization](https://arxiv.org/abs/2208.14236)|Arxiv 2022|[Persistence Initialization: A novel adaptation of the Transformer architecture for Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|None
 22-09-08|[W-Transformers](https://arxiv.org/abs/2209.03945)|Arxiv 2022|[W-Transformers: A Wavelet-based Transformer Framework for Univariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|[w-transformer](https://github.com/capwidow/w-transformer)
+22-11-27|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie)|ICLR 2023|Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
 22-11-27|[PatchTST](https://arxiv.org/abs/2211.14730)|ICLR 2023|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://zhuanlan.zhihu.com/p/602332939)|[PatchTST](https://github.com/yuqinie98/patchtst)
 
 
