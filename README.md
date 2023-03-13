@@ -76,8 +76,15 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 21-07-19 | [TAN](https://arxiv.org/abs/2107.09031) | NIPS 2021 | Topological Attention for Time Series Forecasting | [TAN](https://github.com/plus-rkwitt/TAN)   |
+| 21-09-29 | [RevIN](https://openreview.net/forum?id=cGDAkQo1C0p) | ICLR 2022 | Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift | [RevIN](https://github.com/ts-kim/RevIN)   |
 | 22-05-18 |[FiLM](https://arxiv.org/abs/2205.08897)|NIPS 2022|FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting | [FiLM](https://github.com/tianzhou2011/FiLM) |
+| 23-02-22 | [Dish-TS](https://arxiv.org/abs/2302.14829) | AAAI 2023 | Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting | [Dish-TS](https://github.com/weifantt/Dish-TS)   |
 
+
+## Pretrain & Representation.
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
+| 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) | Arxiv 2023 | Power Time Series Forecasting by Pretrained LM | [FPT](https://anonymous.4open.science/r/Pretrained-LM-for-TSForcasting-C561)   |
 
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
