@@ -61,18 +61,22 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | [TimesNet](https://github.com/thuml/TimesNet)          |
 
 
-## GNN.
+## GNN (Spatio-Temporal Modeling).
 
 | Date | Method | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
 | ---- | ------ | ---------- | ------------------------------------------------- | ---- |
 |      |        |            |                                                   |      |
 
-## Normalizing Flow.
+## Generation Model.
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+| 20-02-14 | [MAF](https://arxiv.org/abs/2002.06103) | ICLR 2021 | [Multivariate Probabilitic Time Series Forecasting via Conditioned Normalizing Flows](https://zhuanlan.zhihu.com/p/615795048) | [MAF](https://github.com/zalandoresearch/pytorch-ts)   |
+| 21-01-18 | [TimeGrad](https://arxiv.org/abs/2101.12072) | ICML 2021 | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://zhuanlan.zhihu.com/p/615858953) | [TimeGrad](https://github.com/zalandoresearch/pytorch-ts)   |
+| 21-07-07 | [CSDI](https://arxiv.org/abs/2107.03502) | NIPS 2021 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://zhuanlan.zhihu.com/p/615998087) | [CSDI](https://github.com/ermongroup/csdi)   |
 
-## Plug and Play.
+
+## Plug and Play (Model-Agnostic).
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 21-07-19 | [TAN](https://arxiv.org/abs/2107.09031) | NIPS 2021 | Topological Attention for Time Series Forecasting | [TAN](https://github.com/plus-rkwitt/TAN)   |
