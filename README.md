@@ -51,6 +51,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-05-26 | [DLinear](https://arxiv.org/abs/2205.13504)   | AAAI 2023 | [Are Transformers Effective for Time Series Forecasting?](https://zhuanlan.zhihu.com/p/569194246)      | [DLinear](https://github.com/cure-lab/DLinear) |
 | 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106) | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
 | 22-07-04 | [LightTS](https://arxiv.org/abs/2207.01186) | Arxiv 2022 | Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures | [LightTS](https://tinyurl.com/5993cmus)            |
+| 23-02-09 | [MTS-Mixers](https://arxiv.org/abs/2302.04501) | Arxiv 2023 | MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing | None    |
+| 23-03-10 | [TSMixer](https://arxiv.org/abs/2303.06053) | Arxiv 2023 | TSMixer: An all-MLP Architecture for Time Series Forecasting | None    |
 
 ## TCN.
 
@@ -59,7 +61,14 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 21-06-17 | [SCINet](https://arxiv.org/abs/2106.09305) | NIPS 2022 | [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://mp.weixin.qq.com/s/mHleT4EunD82hmEfHnhkig) | [SCINet](https://github.com/cure-lab/SCINet)         |    
 | 22-09-22 | [MICN](https://openreview.net/forum?id=zt53IDUR1U) | ICLR 2023 | [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/603468264) | [MICN](https://github.com/whq13018258357/MICN)            |
 | 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | [TimesNet](https://github.com/thuml/TimesNet)          |
+| 23-02-23 | [LightCTS](https://arxiv.org/abs/2302.11974) | SIGMOD 2023 | LightCTS: A Lightweight Framework for Correlated Time Series Forecasting | [LightCTS](https://github.com/ai4cts/lightcts)          |
 
+
+## SSM (State Space Model)
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+| 22-09-22 | [SpaceTime](https://arxiv.org/abs/2303.09489) | ICLR 2023 | Effectively Modeling Time Series with Simple Discrete State Spaces | [SpaceTime](https://github.com/hazyresearch/spacetime)   |
+| 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | Arxiv 2022 | Deep Latent State Space Models for Time-Series Generation | None   |
 
 ## GNN (Spatio-Temporal Modeling).
 
@@ -74,6 +83,9 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 20-02-14 | [MAF](https://arxiv.org/abs/2002.06103) | ICLR 2021 | [Multivariate Probabilitic Time Series Forecasting via Conditioned Normalizing Flows](https://zhuanlan.zhihu.com/p/615795048) | [MAF](https://github.com/zalandoresearch/pytorch-ts)   |
 | 21-01-18 | [TimeGrad](https://arxiv.org/abs/2101.12072) | ICML 2021 | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://zhuanlan.zhihu.com/p/615858953) | [TimeGrad](https://github.com/zalandoresearch/pytorch-ts)   |
 | 21-07-07 | [CSDI](https://arxiv.org/abs/2107.03502) | NIPS 2021 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://zhuanlan.zhihu.com/p/615998087) | [CSDI](https://github.com/ermongroup/csdi)   |
+| 22-12-28 | [Hier-Transformer-CNF](https://arxiv.org/abs/2212.13706) | Arxiv 2022 | End-to-End Modeling Hierarchical Time Series Using Autoregressive Transformer and Conditional Normalizing Flow based Reconciliation | None   |
+| 23-01-08 | [D3VAE](https://arxiv.org/abs/2301.03028) | NIPS 2022 | Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement | [D3VAE](https://github.com/paddlepaddle/paddlespatial)   |
+| 23-03-13 | [HyVAE](https://arxiv.org/abs/2303.07048) | Arxiv 2023 | Hybrid Variational Autoencoder for Time Series Forecasting | None   |
 
 
 ## Plug and Play (Model-Agnostic).
@@ -82,7 +94,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 21-07-19 | [TAN](https://arxiv.org/abs/2107.09031) | NIPS 2021 | Topological Attention for Time Series Forecasting | [TAN](https://github.com/plus-rkwitt/TAN)   |
 | 21-09-29 | [RevIN](https://openreview.net/forum?id=cGDAkQo1C0p) | ICLR 2022 | [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://zhuanlan.zhihu.com/p/473553126) | [RevIN](https://github.com/ts-kim/RevIN)   |
 | 22-05-18 |[FiLM](https://arxiv.org/abs/2205.08897)|NIPS 2022|FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting | [FiLM](https://github.com/tianzhou2011/FiLM) |
+| 23-02-18 | [FrAug](https://arxiv.org/abs/2302.09292) | Arxiv 2023 | FrAug: Frequency Domain Augmentation for Time Series Forecasting | [FrAug](https://anonymous.4open.science/r/Fraug-more-results-1785)   |
 | 23-02-22 | [Dish-TS](https://arxiv.org/abs/2302.14829) | AAAI 2023 | [Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting](https://zhuanlan.zhihu.com/p/613566978) | [Dish-TS](https://github.com/weifantt/Dish-TS)   |
+| 23-02-23 | [Adaptive Sampling](https://arxiv.org/abs/2302.11870) | NIPSW 2022 | Adaptive Sampling for Probabilistic Forecasting under Distribution Shift | None   |
 
 
 ## Pretrain & Representation.
