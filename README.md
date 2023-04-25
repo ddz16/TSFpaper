@@ -57,7 +57,9 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106) | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
 | 22-07-04 | [LightTS](https://arxiv.org/abs/2207.01186) | Arxiv 2022 | Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures | [LightTS](https://tinyurl.com/5993cmus)            |
 | 23-02-09 | [MTS-Mixers](https://arxiv.org/abs/2302.04501) | Arxiv 2023 | MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing | None    |
-| 23-03-10 | [TSMixer](https://arxiv.org/abs/2303.06053) | Arxiv 2023 | TSMixer: An all-MLP Architecture for Time Series Forecasting | None    |
+| 23-03-10 | [TSMixer](https://arxiv.org/abs/2303.06053) | Arxiv 2023 | TSMixer: An all-MLP Architecture for Time Series Forecasting | None  |
+| 23-04-17 | [TiDE](https://arxiv.org/abs/2304.08424) | Arxiv 2023 | [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://zhuanlan.zhihu.com/p/624828590) | [TiDE](https://zhuanlan.zhihu.com/p/624828590) |
+
 
 ## TCN.
 
