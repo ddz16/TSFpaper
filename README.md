@@ -8,7 +8,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 15-11-23|[Multi-step](https://ieeexplore.ieee.org/abstract/document/7422387)|ACOMP 2015|Comparison of Strategies for Multi-step-Ahead Prediction of Time Series Using Neural Network|None
 20-09-27|[DL](https://arxiv.org/abs/2004.13408)|Arxiv 2020|Time Series Forecasting With Deep Learning: A Survey|None
-
+22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|Arxiv 2022|Transformers in Time Series: A Survey|None
+23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
 ## Transformer.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
@@ -20,6 +21,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 21-10-05|[Pyraformer](https://openreview.net/pdf?id=0EXmFzUn5I)|ICLR 2022|[Pyraformer: Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting](https://zhuanlan.zhihu.com/p/467765457)|[Pyraformer](https://github.com/alipay/Pyraformer)
 22-01-14|[Preformer](https://arxiv.org/abs/2202.11356)|ICASSP 2023|[Preformer: Predictive Transformer with Multi-Scale Segment-wise Correlations for Long-Term Time Series Forecasting](https://zhuanlan.zhihu.com/p/536398013)|[Preformer](https://github.com/ddz16/Preformer)
 22-01-30|[FEDformer](https://arxiv.org/abs/2201.12740)|ICML 2022|[FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/528131016)|[FEDformer](https://github.com/MAZiqing/FEDformer)
+22-02-03|[ETSformer](https://arxiv.org/abs/2202.01381)|Arxiv 2022|[ETSformer: Exponential Smoothing Transformers for Time-series Forecasting](https://blog.salesforceairesearch.com/etsformer-time-series-forecasting/)|[etsformer](https://github.com/salesforce/etsformer)
 22-04-28|[Triformer](https://arxiv.org/abs/2204.13767)|IJCAI 2022|[Triformer: Triangular, Variable-Specific Attentions for Long Sequence Multivariate Time Series Forecasting](https://blog.csdn.net/zj_18706809267/article/details/125048492)| [Triformer](https://github.com/razvanc92/triformer)
 22-05-27|[TDformer](https://arxiv.org/abs/2212.08151)|NIPSW 2022|[First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://zhuanlan.zhihu.com/p/596022160)|[TDformer](https://github.com/BeBeYourLove/TDformer)
 22-05-28|[Non-stationary Transformer](https://arxiv.org/abs/2205.14415)|NIPS 2022|[Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://zhuanlan.zhihu.com/p/535931701)|[Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers)
