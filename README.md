@@ -39,6 +39,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 17-03-21|[LSTNet](https://arxiv.org/abs/1703.07015)|SIGIR 2018|[Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://zhuanlan.zhihu.com/p/467944750)|[LSTNet](https://github.com/laiguokun/LSTNet) |
 17-04-07|[DA-RNN](https://arxiv.org/abs/1704.02971)|IJCAI 2017| A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction | [DARNN](https://github.com/sunfanyunn/DARNN) |
 17-04-13|[DeepAR](https://arxiv.org/abs/1704.04110)|IJoF 2019|[DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://zhuanlan.zhihu.com/p/542066911)|[DeepAR](https://github.com/brunoklein99/deepar) |
+17-11-29|[MQRNN](https://arxiv.org/abs/1711.11053)|NIPSW 2017|A Multi-Horizon Quantile Recurrent Forecaster|[MQRNN](https://github.com/tianchen101/MQRNN) |
 18-09-06|[MTNet](https://arxiv.org/abs/1809.02105)|AAAI 2019| A Memory-Network Based Solution for Multivariate Time-Series Forecasting |[MTNet](https://github.com/Maple728/MTNet) |
 19-07-01|[MH-RNN](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|KDD 2019| Multi-Horizon Time Series Forecasting with Temporal Attention Learning | None |
 22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)|NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting) |
@@ -53,7 +54,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 21-04-12 | [NBeatsX](https://arxiv.org/abs/2104.05522)   | IJoF 2022 | [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://zhuanlan.zhihu.com/p/572955881)      | [NBeatsX](https://github.com/cchallu/nbeatsx) |
 | 22-01-30 | [N-HiTS](https://arxiv.org/abs/2201.12886)   | AAAI 2023 | [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://zhuanlan.zhihu.com/p/573203887)      | [N-HiTS](https://github.com/cchallu/n-hits) |
 | 22-05-15 | [DEPTS](https://arxiv.org/abs/2203.07681)   | ICLR 2022 | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://zhuanlan.zhihu.com/p/572984932)      | [DEPTS](https://github.com/weifantt/depts) |
-| 22-05-24|[FreDo](https://arxiv.org/abs/2205.12301)|Arxiv 2022|FreDo: Frequency Domain-based Long-Term Time Series Forecasting| None |
+| 22-05-24 | [FreDo](https://arxiv.org/abs/2205.12301)|Arxiv 2022|FreDo: Frequency Domain-based Long-Term Time Series Forecasting| None |
 | 22-05-26 | [DLinear](https://arxiv.org/abs/2205.13504)   | AAAI 2023 | [Are Transformers Effective for Time Series Forecasting?](https://zhuanlan.zhihu.com/p/569194246)      | [DLinear](https://github.com/cure-lab/DLinear) |
 | 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106) | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
 | 22-07-04 | [LightTS](https://arxiv.org/abs/2207.01186) | Arxiv 2022 | Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures | [LightTS](https://tinyurl.com/5993cmus)            |
