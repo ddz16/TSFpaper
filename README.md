@@ -7,6 +7,7 @@ Reading list for research topics in Time Series Forecasting (TSF).
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 15-11-23|[Multi-step](https://ieeexplore.ieee.org/abstract/document/7422387)|ACOMP 2015|Comparison of Strategies for Multi-step-Ahead Prediction of Time Series Using Neural Network|None
+19-06-20|[DL](https://ieeexplore.ieee.org/abstract/document/8742529)| SENSJ 2019|A Review of Deep Learning Models for Time Series Prediction|None
 20-09-27|[DL](https://arxiv.org/abs/2004.13408)|Arxiv 2020|Time Series Forecasting With Deep Learning: A Survey|None
 22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|Arxiv 2022|Transformers in Time Series: A Survey|None
 23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
@@ -15,6 +16,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 19-06-29|[LogTrans](https://arxiv.org/abs/1907.00235)|NIPS 2019|Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting|[flowforecast](https://github.com/AIStream-Peelout/flow-forecast/blob/master/flood_forecast/transformer_xl/transformer_bottleneck.py) |
 19-12-19|[TFT](https://arxiv.org/abs/1912.09363)|IJoF 2021|[Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://www.zhihu.com/question/451816360/answer/2319401126)|[tft](https://github.com/google-research/google-research/tree/master/tft) |
+20-01-23|[InfluTrans](https://arxiv.org/abs/2001.08317)|Arxiv 2020|[Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case](https://towardsdatascience.com/how-to-make-a-pytorch-transformer-for-time-series-forecasting-69e073d4061e)|[influenza_transformer](https://github.com/KasperGroesLudvigsen/influenza_transformer) |
 20-06-05|[AST](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf)|NIPS 2020|Adversarial Sparse Transformer for Time Series Forecasting|[AST](https://github.com/hihihihiwsf/AST)
 20-12-14|[Informer](https://arxiv.org/abs/2012.07436)|AAAI 2021|[Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://zhuanlan.zhihu.com/p/467523291)|[Informer](https://github.com/zhouhaoyi/Informer2020)
 21-06-24|[Autoformer](https://arxiv.org/abs/2106.13008)|NIPS 2021|[Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://zhuanlan.zhihu.com/p/385066440)|[Autoformer](https://github.com/thuml/Autoformer)
@@ -26,6 +28,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-05-27|[TDformer](https://arxiv.org/abs/2212.08151)|NIPSW 2022|[First De-Trend then Attend: Rethinking Attention for Time-Series Forecasting](https://zhuanlan.zhihu.com/p/596022160)|[TDformer](https://github.com/BeBeYourLove/TDformer)
 22-05-28|[Non-stationary Transformer](https://arxiv.org/abs/2205.14415)|NIPS 2022|[Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting](https://zhuanlan.zhihu.com/p/535931701)|[Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers)
 22-06-08|[Scaleformer](https://arxiv.org/abs/2206.04038)|ICLR 2023|[Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting](https://zhuanlan.zhihu.com/p/535556231)|[Scaleformer](https://github.com/BorealisAI/scaleformer)
+22-08-14|[Quatformer](https://dl.acm.org/doi/abs/10.1145/3534678.3539234)|KDD 2022|Learning to Rotate: Quaternion Transformer for Complicated Periodical Time Series Forecasting|[Quatformer](https://github.com/DAMO-DI-ML/KDD2022-Quatformer)
 22-08-30|[Persistence Initialization](https://arxiv.org/abs/2208.14236)|Arxiv 2022|[Persistence Initialization: A novel adaptation of the Transformer architecture for Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|None
 22-09-08|[W-Transformers](https://arxiv.org/abs/2209.03945)|Arxiv 2022|[W-Transformers: A Wavelet-based Transformer Framework for Univariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|[w-transformer](https://github.com/capwidow/w-transformer)
 22-09-22|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie)|ICLR 2023|Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
@@ -40,8 +43,12 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 17-04-07|[DA-RNN](https://arxiv.org/abs/1704.02971)|IJCAI 2017| A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction | [DARNN](https://github.com/sunfanyunn/DARNN) |
 17-04-13|[DeepAR](https://arxiv.org/abs/1704.04110)|IJoF 2019|[DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://zhuanlan.zhihu.com/p/542066911)|[DeepAR](https://github.com/brunoklein99/deepar) |
 17-11-29|[MQRNN](https://arxiv.org/abs/1711.11053)|NIPSW 2017|A Multi-Horizon Quantile Recurrent Forecaster|[MQRNN](https://github.com/tianchen101/MQRNN) |
+18-06-23|[mWDN](https://arxiv.org/abs/1806.08946)|KDD 2018|Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis|[mWDN](https://github.com/yakouyang/Multilevel_Wavelet_Decomposition_Network_Pytorch) |
 18-09-06|[MTNet](https://arxiv.org/abs/1809.02105)|AAAI 2019| A Memory-Network Based Solution for Multivariate Time-Series Forecasting |[MTNet](https://github.com/Maple728/MTNet) |
+19-05-28|[DF-Model](https://arxiv.org/abs/1905.12417)|ICML 2019| Deep Factors for Forecasting | None |
 19-07-01|[MH-RNN](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|KDD 2019| Multi-Horizon Time Series Forecasting with Temporal Attention Learning | None |
+19-07-18|[ESLSTM](https://www.sciencedirect.com/science/article/pii/S0169207019301153)|IJoF 2020|A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting| None |
+19-07-25|[MH-TAL](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|KDD 2019|Multi-Horizon Time Series Forecasting with Temporal Attention Learning| None |
 22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)|NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting) |
 
 
@@ -80,6 +87,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 | 18-05-18 | [DSSM](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting) | NIPS 2018 | Deep State Space Models for Time Series Forecasting | None   |
+| 22-08-19 | [SSSD](https://arxiv.org/abs/2208.09399) | TMLR 2022 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models | [SSSD](https://github.com/AI4HealthUOL/SSSD) |
 | 22-09-22 | [SpaceTime](https://arxiv.org/abs/2303.09489) | ICLR 2023 | Effectively Modeling Time Series with Simple Discrete State Spaces | [SpaceTime](https://github.com/hazyresearch/spacetime)   |
 | 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | Arxiv 2022 | Deep Latent State Space Models for Time-Series Generation | None   |
 
@@ -107,6 +115,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 ## Plug and Play (Model-Agnostic).
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
+| 19-02-21 | [DAIN](https://arxiv.org/abs/1902.07892) | TNNLS 2020 | Deep Adaptive Input Normalization for Time Series Forecasting | [DAIN](https://github.com/passalis/dain)   |
 | 21-07-19 | [TAN](https://arxiv.org/abs/2107.09031) | NIPS 2021 | Topological Attention for Time Series Forecasting | [TAN](https://github.com/plus-rkwitt/TAN)   |
 | 21-09-29 | [RevIN](https://openreview.net/forum?id=cGDAkQo1C0p) | ICLR 2022 | [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://zhuanlan.zhihu.com/p/473553126) | [RevIN](https://github.com/ts-kim/RevIN)   |
 | 22-02-23 | [MQF2](https://arxiv.org/abs/2202.11316) | AISTATS 2022 | Multivariate Quantile Function Forecaster | None   |
@@ -128,3 +137,5 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 ## Other.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
+| 16-12-05 | [TRMF](https://proceedings.neurips.cc/paper_files/paper/2016/file/85422afb467e9456013a2a51d4dff702-Paper.pdf) | NIPS 2016 | Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction | [TRMF](https://github.com/rofuyu/exp-trmf-nips16)   |
+| 17-08-25 | [Prophet](https://peerj.com/preprints/3190/) | TAS 2018 | [Forecasting at Scale](https://facebook.github.io/prophet/) | [Prophet](https://github.com/facebook/prophet)   |
