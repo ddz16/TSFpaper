@@ -1,6 +1,5 @@
 # TSF Paper
-Reading list for research topics in Time Series Forecasting (TSF).
-
+This repository contains a reading list of papers on time series forecasting/prediction (TSF). These papers are mainly categorized according to the type of model.
 
 
 ## Survey.
