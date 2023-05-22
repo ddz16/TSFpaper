@@ -67,6 +67,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-02-09 | [MTS-Mixers](https://arxiv.org/abs/2302.04501) | Arxiv 2023 | MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing | [MTS-Mixers](https://github.com/plumprc/MTS-Mixers)    |
 | 23-03-10 | [TSMixer](https://arxiv.org/abs/2303.06053) | Arxiv 2023 | TSMixer: An all-MLP Architecture for Time Series Forecasting | None  |
 | 23-04-17 | [TiDE](https://arxiv.org/abs/2304.08424) | Arxiv 2023 | [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://zhuanlan.zhihu.com/p/624828590) | [TiDE](https://zhuanlan.zhihu.com/p/624828590) |
+| 23-05-18 | [RTSF](https://arxiv.org/abs/2305.10721) | Arxiv 2023 | Revisiting Long-term Time Series Forecasting: An Investigation on Linear Mapping | [RTSF](https://github.com/plumprc/rtsf) |
 
 
 ## TCN.
@@ -132,6 +133,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
+
 
 ## Other.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
