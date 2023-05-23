@@ -32,7 +32,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-09-08|[W-Transformers](https://arxiv.org/abs/2209.03945)|Arxiv 2022|[W-Transformers: A Wavelet-based Transformer Framework for Univariate Time Series Forecasting](https://zhuanlan.zhihu.com/p/582419707)|[w-transformer](https://github.com/capwidow/w-transformer)
 22-09-22|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie)|ICLR 2023|Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
 22-09-22|[PatchTST](https://arxiv.org/abs/2211.14730)|ICLR 2023|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://zhuanlan.zhihu.com/p/602332939)|[PatchTST](https://github.com/yuqinie98/patchtst)
-
+23-05-20|[CARD](https://arxiv.org/abs/2305.12095)|Arxiv 2023|Make Transformer Great Again for Time Series Forecasting: Channel Aligned Robust Dual Transformer|None
 
 
 ## RNN.
