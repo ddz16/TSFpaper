@@ -120,6 +120,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 19-02-21 | [DAIN](https://arxiv.org/abs/1902.07892) | TNNLS 2020 | Deep Adaptive Input Normalization for Time Series Forecasting | [DAIN](https://github.com/passalis/dain)   |
+| 19-09-19 | [DILATE](https://arxiv.org/abs/1909.09020) | NIPS 2019 | Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models | [DILATE](https://github.com/vincent-leguen/DILATE) |
 | 21-07-19 | [TAN](https://arxiv.org/abs/2107.09031) | NIPS 2021 | Topological Attention for Time Series Forecasting | [TAN](https://github.com/plus-rkwitt/TAN)   |
 | 21-09-29 | [RevIN](https://openreview.net/forum?id=cGDAkQo1C0p) | ICLR 2022 | [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://zhuanlan.zhihu.com/p/473553126) | [RevIN](https://github.com/ts-kim/RevIN)   |
 | 22-02-23 | [MQF2](https://arxiv.org/abs/2202.11316) | AISTATS 2022 | Multivariate Quantile Function Forecaster | None   |
