@@ -134,9 +134,12 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) | Arxiv 2023 | Power Time Series Forecasting by Pretrained LM | [FPT](https://anonymous.4open.science/r/Pretrained-LM-for-TSForcasting-C561)   |
 
+
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
+| 22-10-25 | [WaveBound](https://arxiv.org/abs/2210.14303) | NIPS 2022 | WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting | None |
+| 23-05-25 | [Ensembling](https://arxiv.org/abs/2305.15786) | ICML 2023 | Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting | None |
 
 
 ## Other.
