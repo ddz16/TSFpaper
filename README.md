@@ -37,6 +37,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-09-22|[Crossformer](https://openreview.net/forum?id=vSVLM2j9eie)|ICLR 2023|Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting|[Crossformer](https://github.com/Thinklab-SJTU/Crossformer)
 22-09-22|[PatchTST](https://arxiv.org/abs/2211.14730)|ICLR 2023|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://zhuanlan.zhihu.com/p/602332939)|[PatchTST](https://github.com/yuqinie98/patchtst)
 23-05-20|[CARD](https://arxiv.org/abs/2305.12095)|Arxiv 2023|Make Transformer Great Again for Time Series Forecasting: Channel Aligned Robust Dual Transformer|None
+23-05-24|[JTFT](https://arxiv.org/abs/2305.14649) | Arxiv 2023 | A Joint Time-frequency Domain Transformer for Multivariate Time Series Forecasting | None
 
 
 ## RNN.
@@ -85,6 +86,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-09-22 | [MICN](https://openreview.net/forum?id=zt53IDUR1U) | ICLR 2023 | [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/603468264) | [MICN](https://github.com/whq13018258357/MICN)            |
 | 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | [TimesNet](https://github.com/thuml/TimesNet)          |
 | 23-02-23 | [LightCTS](https://arxiv.org/abs/2302.11974) | SIGMOD 2023 | LightCTS: A Lightweight Framework for Correlated Time Series Forecasting | [LightCTS](https://github.com/ai4cts/lightcts)          |
+| 23-05-25 | [TLNets](https://arxiv.org/abs/2305.15770) | Arxiv 2023 | TLNets: Transformation Learning Networks for long-range time-series prediction | [TLNets](https://github.com/anonymity111222/tlnets)      |
 
 
 ## SSM (State Space Model)
