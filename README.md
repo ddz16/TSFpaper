@@ -89,6 +89,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | [TimesNet](https://github.com/thuml/TimesNet)          |
 | 23-02-23 | [LightCTS](https://arxiv.org/abs/2302.11974) | SIGMOD 2023 | LightCTS: A Lightweight Framework for Correlated Time Series Forecasting | [LightCTS](https://github.com/ai4cts/lightcts)          |
 | 23-05-25 | [TLNets](https://arxiv.org/abs/2305.15770) | Arxiv 2023 | TLNets: Transformation Learning Networks for long-range time-series prediction | [TLNets](https://github.com/anonymity111222/tlnets)      |
+| 23-06-04 | [Cross-LKTCN](https://arxiv.org/abs/2306.02326) | Arxiv 2023 | Cross-LKTCN: Modern Convolution Utilizing Cross-Variable Dependency for Multivariate Time Series Forecasting Dependency for Multivariate Time Series Forecasting | None |
 
 
 ## SSM (State Space Model)
