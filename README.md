@@ -40,6 +40,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 23-05-24|[JTFT](https://arxiv.org/abs/2305.14649) | Arxiv 2023 | A Joint Time-frequency Domain Transformer for Multivariate Time Series Forecasting | None
 23-05-30|[HSTTN](https://arxiv.org/abs/2305.18724) | IJCAI 2023 | Long-term Wind Power Forecasting with Hierarchical Spatial-Temporal Transformer | None
 23-05-30|[Client](https://arxiv.org/abs/2305.18838) | Arxiv 2023 | Client: Cross-variable Linear Integrated Enhanced Transformer for Multivariate Long-Term Time Series Forecasting | [Client](https://github.com/daxin007/client)
+23-05-30|[Taylorformer](https://arxiv.org/abs/2305.19141) | Arxiv 2023 | Taylorformer: Probabilistic Predictions for Time Series and other Processes | [Taylorformer](https://www.dropbox.com/s/vnxuwq7zm7m9bj8/taylorformer.zip?dl=0)
 
 
 ## RNN.
