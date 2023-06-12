@@ -124,6 +124,13 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-06-05 | [WIAE](https://arxiv.org/abs/2306.03782) | Arxiv 2023 | Non-parametric Probabilistic Time Series Forecasting via Innovations Representation | None   |
 
 
+## Time-index.
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+| 17-08-25 | [Prophet](https://peerj.com/preprints/3190/) | TAS 2018 | [Forecasting at Scale](https://facebook.github.io/prophet/) | [Prophet](https://github.com/facebook/prophet)   |
+| 22-07-13 | [DeepTime](https://arxiv.org/abs/2207.06046) | ICML 2023 | [Learning Deep Time-index Models for Time Series Forecasting](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [DeepTime](https://github.com/salesforce/DeepTime) |
+| 23-06-09 | [TimeFlow](https://arxiv.org/abs/2306.05880) | Arxiv 2023 | Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations | None |
+
 
 ## Plug and Play (Model-Agnostic).
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
@@ -157,4 +164,3 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 | 16-12-05 | [TRMF](https://proceedings.neurips.cc/paper_files/paper/2016/file/85422afb467e9456013a2a51d4dff702-Paper.pdf) | NIPS 2016 | Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction | [TRMF](https://github.com/rofuyu/exp-trmf-nips16)   |
-| 17-08-25 | [Prophet](https://peerj.com/preprints/3190/) | TAS 2018 | [Forecasting at Scale](https://facebook.github.io/prophet/) | [Prophet](https://github.com/facebook/prophet)   |
