@@ -1,4 +1,10 @@
 # TSF Paper
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Stars](https://img.shields.io/github/stars/ddz16/TSFpaper)
+[![Visits Badge](https://badges.pufler.dev/visits/ddz16/TSFpaper)](https://badges.pufler.dev/visits/ddz16/TSFpaper)
+
+
 This repository contains a reading list of papers on time series forecasting/prediction (TSF). These papers are mainly categorized according to the type of model.
 
 
