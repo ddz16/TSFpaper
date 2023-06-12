@@ -57,6 +57,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 19-07-18|[ESLSTM](https://www.sciencedirect.com/science/article/pii/S0169207019301153)|IJoF 2020|A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting| None |
 19-07-25|[MH-TAL](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|KDD 2019|Multi-Horizon Time Series Forecasting with Temporal Attention Learning| None |
 22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)|NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting) |
+23-06-02|[RNN-ODE-Adap](https://arxiv.org/abs/2306.01674)|Arxiv 2023|Neural Differential Recurrent Neural Network with Adaptive Time Steps| None |
 
 
 ## MLP.
@@ -120,6 +121,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-05-16 | [LaST](https://openreview.net/pdf?id=C9yUwd72yy) | NIPS 2022 | LaST: Learning Latent Seasonal-Trend Representations for Time Series Forecasting | [LaST](https://github.com/zhycs/LaST)   |
 | 22-12-28 | [Hier-Transformer-CNF](https://arxiv.org/abs/2212.13706) | Arxiv 2022 | End-to-End Modeling Hierarchical Time Series Using Autoregressive Transformer and Conditional Normalizing Flow based Reconciliation | None   |
 | 23-03-13 | [HyVAE](https://arxiv.org/abs/2303.07048) | Arxiv 2023 | Hybrid Variational Autoencoder for Time Series Forecasting | None   |
+| 23-06-05 | [WIAE](https://arxiv.org/abs/2306.03782) | Arxiv 2023 | Non-parametric Probabilistic Time Series Forecasting via Innovations Representation | None   |
 
 
 
