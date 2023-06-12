@@ -5,8 +5,13 @@
 [![Visits Badge](https://badges.pufler.dev/visits/ddz16/TSFpaper)](https://badges.pufler.dev/visits/ddz16/TSFpaper)
 
 
-This repository contains a reading list of papers on time series forecasting/prediction (TSF). These papers are mainly categorized according to the type of model.
+This repository contains a reading list of papers on **Time Series Forecasting/Prediction (TSF)** and **Spatio-Temporal Forecasting/Prediction (STF)**. These papers are mainly categorized according to the type of model.
 
+Each paper may apply to one or several types of forecasting, including univariate time series forecasting, multivariate time series forecasting, and spatio-temporal forecasting, which are also marked in the Type column.
+
++ <a><img src="https://img.shields.io/badge/-Univariate-brightgreen"></a> univariate time series forecasting: $L\times 1 \to H\times 1$ 
++ <a><img src="https://img.shields.io/badge/-Multivariate-red"></a> multivariate time series forecasting: $L\times C \to H\times C$
++ <a><img src="https://img.shields.io/badge/-SpatioTemporal-blue"></a> spatio-temporal forecasting: $N \times L\times C \to N \times H\times C$
 
 ## Survey.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
