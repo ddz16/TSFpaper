@@ -4,14 +4,13 @@
 ![Stars](https://img.shields.io/github/stars/ddz16/TSFpaper)
 [![Visits Badge](https://badges.pufler.dev/visits/ddz16/TSFpaper)](https://badges.pufler.dev/visits/ddz16/TSFpaper)
 
-
 This repository contains a reading list of papers on **Time Series Forecasting/Prediction (TSF)** and **Spatio-Temporal Forecasting/Prediction (STF)**. These papers are mainly categorized according to the type of model.
 
 Each paper may apply to one or several types of forecasting, including univariate time series forecasting, multivariate time series forecasting, and spatio-temporal forecasting, which are also marked in the Type column.
 
-+ ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) univariate time series forecasting: $L\times 1 \to H\times 1$ 
-+ ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) multivariate time series forecasting: $L\times C \to H\times C$
-+ ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) spatio-temporal forecasting: $N \times L\times C \to N \times H\times C$
+* ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) univariate time series forecasting: $L\times 1 \to H\times 1$.
+* ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) multivariate time series forecasting: $L\times C \to H\times C$.
+* ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) spatio-temporal forecasting: $N \times L\times C \to N \times H\times C$.
 
 ## Survey.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
