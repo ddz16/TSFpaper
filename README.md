@@ -8,9 +8,9 @@ This repository contains a reading list of papers on **Time Series Forecasting/P
 
 Each paper may apply to one or several types of forecasting, including univariate time series forecasting, multivariate time series forecasting, and spatio-temporal forecasting, which are also marked in the Type column.
 
-* ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) univariate time series forecasting: $L\times 1 \to H\times 1$.
-* ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) multivariate time series forecasting: $L\times C \to H\times C$.
-* ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) spatio-temporal forecasting: $N \times L\times C \to N \times H\times C$.
+* ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) univariate time series forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;L\times&space;1&space;\to&space;H\times&space;1).
+* ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) multivariate time series forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;L\times&space;C&space;\to&space;H\times&space;C).
+* ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) spatio-temporal forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;N&space;\times&space;L\times&space;C&space;\to&space;N&space;\times&space;H\times&space;C).
 
 ## Survey.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
