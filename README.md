@@ -56,20 +56,20 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 
 ## RNN.
-Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
------|----|-----|-----|-----
-17-03-21|[LSTNet](https://arxiv.org/abs/1703.07015)|SIGIR 2018|[Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://zhuanlan.zhihu.com/p/467944750)|[LSTNet](https://github.com/laiguokun/LSTNet) |
-17-04-07|[DA-RNN](https://arxiv.org/abs/1704.02971)|IJCAI 2017| A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction | [DARNN](https://github.com/sunfanyunn/DARNN) |
-17-04-13|[DeepAR](https://arxiv.org/abs/1704.04110)|IJoF 2019|[DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://zhuanlan.zhihu.com/p/542066911)|[DeepAR](https://github.com/brunoklein99/deepar) |
-17-11-29|[MQRNN](https://arxiv.org/abs/1711.11053)|NIPSW 2017|A Multi-Horizon Quantile Recurrent Forecaster|[MQRNN](https://github.com/tianchen101/MQRNN) |
-18-06-23|[mWDN](https://arxiv.org/abs/1806.08946)|KDD 2018|Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis|[mWDN](https://github.com/yakouyang/Multilevel_Wavelet_Decomposition_Network_Pytorch) |
-18-09-06|[MTNet](https://arxiv.org/abs/1809.02105)|AAAI 2019| A Memory-Network Based Solution for Multivariate Time-Series Forecasting |[MTNet](https://github.com/Maple728/MTNet) |
-19-05-28|[DF-Model](https://arxiv.org/abs/1905.12417)|ICML 2019| Deep Factors for Forecasting | None |
-19-07-01|[MH-RNN](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|KDD 2019| Multi-Horizon Time Series Forecasting with Temporal Attention Learning | None |
-19-07-18|[ESLSTM](https://www.sciencedirect.com/science/article/pii/S0169207019301153)|IJoF 2020|A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting| None |
-19-07-25|[MH-TAL](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|KDD 2019|Multi-Horizon Time Series Forecasting with Temporal Attention Learning| None |
-22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)|NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting) |
-23-06-02|[RNN-ODE-Adap](https://arxiv.org/abs/2306.01674)|Arxiv 2023|Neural Differential Recurrent Neural Network with Adaptive Time Steps| None |
+Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----|-----
+17-03-21|[LSTNet](https://arxiv.org/abs/1703.07015)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |SIGIR 2018|[Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks](https://zhuanlan.zhihu.com/p/467944750)|[LSTNet](https://github.com/laiguokun/LSTNet) |
+17-04-07|[DA-RNN](https://arxiv.org/abs/1704.02971)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |IJCAI 2017| A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction | [DARNN](https://github.com/sunfanyunn/DARNN) |
+17-04-13|[DeepAR](https://arxiv.org/abs/1704.04110)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |IJoF 2019|[DeepAR: Probabilistic Forecasting with Autoregressive Recurrent Networks](https://zhuanlan.zhihu.com/p/542066911)|[DeepAR](https://github.com/brunoklein99/deepar) |
+17-11-29|[MQRNN](https://arxiv.org/abs/1711.11053)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPSW 2017|A Multi-Horizon Quantile Recurrent Forecaster|[MQRNN](https://github.com/tianchen101/MQRNN) |
+18-06-23|[mWDN](https://arxiv.org/abs/1806.08946)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |KDD 2018|Multilevel Wavelet Decomposition Network for Interpretable Time Series Analysis|[mWDN](https://github.com/yakouyang/Multilevel_Wavelet_Decomposition_Network_Pytorch) |
+18-09-06|[MTNet](https://arxiv.org/abs/1809.02105)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |AAAI 2019| A Memory-Network Based Solution for Multivariate Time-Series Forecasting |[MTNet](https://github.com/Maple728/MTNet) |
+19-05-28|[DF-Model](https://arxiv.org/abs/1905.12417)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |ICML 2019| Deep Factors for Forecasting | None |
+19-07-01|[MH-RNN](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|  |KDD 2019| Multi-Horizon Time Series Forecasting with Temporal Attention Learning | None |
+19-07-18|[ESLSTM](https://www.sciencedirect.com/science/article/pii/S0169207019301153)|  |IJoF 2020|A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting| None |
+19-07-25|[MH-TAL](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)|  |KDD 2019|Multi-Horizon Time Series Forecasting with Temporal Attention Learning| None |
+22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting) |
+23-06-02|[RNN-ODE-Adap](https://arxiv.org/abs/2306.01674)|  |Arxiv 2023|Neural Differential Recurrent Neural Network with Adaptive Time Steps| None |
 
 
 ## MLP.
