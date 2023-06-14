@@ -75,14 +75,13 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 | Date     | Method                                        |Type| Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
 | -------- | --------------------------------------------- |-----| ---------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| 17-05-25 | [ND](https://arxiv.org/abs/1705.09137) | | TNNLS 2017 | [Neural Decomposition of Time-Series Data for Effective Generalization](https://zhuanlan.zhihu.com/p/574742701)  | None |
 | 19-05-24 | [NBeats](https://arxiv.org/abs/1905.10437) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICLR 2020 | [N-BEATS: Neural Basis Expansion Analysis For Interpretable Time Series Forecasting](https://zhuanlan.zhihu.com/p/572850227)      | [NBeats](https://github.com/philipperemy/n-beats) |
 | 21-04-12 | [NBeatsX](https://arxiv.org/abs/2104.05522)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)| IJoF 2022 | [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://zhuanlan.zhihu.com/p/572955881)      | [NBeatsX](https://github.com/cchallu/nbeatsx) |
 | 22-01-30 | [N-HiTS](https://arxiv.org/abs/2201.12886)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | AAAI 2023 | [N-HiTS: Neural Hierarchical Interpolation for Time Series Forecasting](https://zhuanlan.zhihu.com/p/573203887)      | [N-HiTS](https://github.com/cchallu/n-hits) |
 | 22-05-15 | [DEPTS](https://arxiv.org/abs/2203.07681)  | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICLR 2022 | [DEPTS: Deep Expansion Learning for Periodic Time Series Forecasting](https://zhuanlan.zhihu.com/p/572984932)      | [DEPTS](https://github.com/weifantt/depts) |
-| 22-05-24 | [FreDo](https://arxiv.org/abs/2205.12301)| |Arxiv 2022|FreDo: Frequency Domain-based Long-Term Time Series Forecasting| None |
+| 22-05-24 | [FreDo](https://arxiv.org/abs/2205.12301)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2022|FreDo: Frequency Domain-based Long-Term Time Series Forecasting| None |
 | 22-05-26 | [DLinear](https://arxiv.org/abs/2205.13504) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | AAAI 2023 | [Are Transformers Effective for Time Series Forecasting?](https://zhuanlan.zhihu.com/p/569194246)      | [DLinear](https://github.com/cure-lab/DLinear) |
-| 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106)|  | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
+| 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
 | 22-07-04 | [LightTS](https://arxiv.org/abs/2207.01186) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2022 | Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures | [LightTS](https://tinyurl.com/5993cmus)            |
 | 23-02-09 | [MTS-Mixers](https://arxiv.org/abs/2302.04501)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing | [MTS-Mixers](https://github.com/plumprc/MTS-Mixers)    |
 | 23-03-10 | [TSMixer](https://arxiv.org/abs/2303.06053)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TSMixer: An all-MLP Architecture for Time Series Forecasting | None  |
@@ -137,11 +136,12 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 
 ## Time-index.
-Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
------|----|-----|-----|-----
-| 17-08-25 | [Prophet](https://peerj.com/preprints/3190/) | TAS 2018 | [Forecasting at Scale](https://facebook.github.io/prophet/) | [Prophet](https://github.com/facebook/prophet)   |
-| 22-07-13 | [DeepTime](https://arxiv.org/abs/2207.06046) | ICML 2023 | [Learning Deep Time-index Models for Time Series Forecasting](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [DeepTime](https://github.com/salesforce/DeepTime) |
-| 23-06-09 | [TimeFlow](https://arxiv.org/abs/2306.05880) | Arxiv 2023 | Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations | None |
+Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|----|-----|-----|-----
+| 17-05-25 | [ND](https://arxiv.org/abs/1705.09137) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | TNNLS 2017 | [Neural Decomposition of Time-Series Data for Effective Generalization](https://zhuanlan.zhihu.com/p/574742701)  | None |
+| 17-08-25 | [Prophet](https://peerj.com/preprints/3190/) | | TAS 2018 | [Forecasting at Scale](https://facebook.github.io/prophet/) | [Prophet](https://github.com/facebook/prophet)   |
+| 22-07-13 | [DeepTime](https://arxiv.org/abs/2207.06046) | | ICML 2023 | [Learning Deep Time-index Models for Time Series Forecasting](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [DeepTime](https://github.com/salesforce/DeepTime) |
+| 23-06-09 | [TimeFlow](https://arxiv.org/abs/2306.05880) | | Arxiv 2023 | Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations | None |
 
 
 ## Plug and Play (Model-Agnostic).
