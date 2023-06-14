@@ -19,6 +19,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 19-06-20|[DL](https://ieeexplore.ieee.org/abstract/document/8742529)| SENSJ 2019|A Review of Deep Learning Models for Time Series Prediction|None
 20-09-27|[DL](https://arxiv.org/abs/2004.13408)|Arxiv 2020|Time Series Forecasting With Deep Learning: A Survey|None
 22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|Arxiv 2022|Transformers in Time Series: A Survey|None
+23-03-25|[GNN](https://arxiv.org/abs/2303.14483)|Arxiv 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
 23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
 
 
