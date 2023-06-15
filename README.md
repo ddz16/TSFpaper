@@ -75,8 +75,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 
 ## MLP.
-
-| Date     | Method                                        |Type| Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
+Date     | Method                                        |Type| Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
 | -------- | --------------------------------------------- |-----| ---------- | ------------------------------------------------------------ | ---------------------------------------------- |
 | 19-05-24 | [NBeats](https://arxiv.org/abs/1905.10437) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICLR 2020 | [N-BEATS: Neural Basis Expansion Analysis For Interpretable Time Series Forecasting](https://zhuanlan.zhihu.com/p/572850227)      | [NBeats](https://github.com/philipperemy/n-beats) |
 | 21-04-12 | [NBeatsX](https://arxiv.org/abs/2104.05522)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)| IJoF 2022 | [Neural basis expansion analysis with exogenous variables: Forecasting electricity prices with NBEATSx](https://zhuanlan.zhihu.com/p/572955881)      | [NBeatsX](https://github.com/cchallu/nbeatsx) |
@@ -96,7 +95,6 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 
 ## TCN.
-
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
 | 19-05-09 | [DeepGLO](https://arxiv.org/abs/1905.03806) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2019 | Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting| [deepglo](https://github.com/rajatsen91/deepglo)         |    
@@ -110,17 +108,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-06-04 | [Cross-LKTCN](https://arxiv.org/abs/2306.02326) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Cross-LKTCN: Modern Convolution Utilizing Cross-Variable Dependency for Multivariate Time Series Forecasting Dependency for Multivariate Time Series Forecasting | None |
 
 
-## SSM (State Space Model)
-Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
------|----|-----|-----|-----
-| 18-05-18 | [DSSM](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting) | NIPS 2018 | Deep State Space Models for Time Series Forecasting | None   |
-| 22-08-19 | [SSSD](https://arxiv.org/abs/2208.09399) | TMLR 2022 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models | [SSSD](https://github.com/AI4HealthUOL/SSSD) |
-| 22-09-22 | [SpaceTime](https://arxiv.org/abs/2303.09489) | ICLR 2023 | Effectively Modeling Time Series with Simple Discrete State Spaces | [SpaceTime](https://github.com/hazyresearch/spacetime)   |
-| 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | ICML 2023 | Deep Latent State Space Models for Time-Series Generation | None   |
-
 ## GNN.
-
-| Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
+Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
 | ---- | ------ | ------ | ---------- | ------------------------------------------------- | ---- |
 | 17-09-14 | [STGCN](https://arxiv.org/abs/1709.04875) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | IJCAI 2018 | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting | [STGCN](https://github.com/VeritasYin/STGCN_IJCAI-18) |
 | 19-05-31 | [Graph WaveNet](https://arxiv.org/abs/1906.00121) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | IJCAI 2019 | Graph WaveNet for Deep Spatial-Temporal Graph Modeling | [Graph-WaveNet](https://github.com/nnzhan/Graph-WaveNet) |
@@ -131,6 +120,16 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 21-03-13 | [StemGNN](https://arxiv.org/abs/2103.07719) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2020 | Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting | [StemGNN](https://github.com/microsoft/StemGNN) |
 | 22-05-16 | [TPGNN](https://openreview.net/forum?id=pMumil2EJh) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2022 | Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks | [TPGNN](https://github.com/zyplanet/TPGNN) |
 | 22-06-18 | [D2STGNN](https://arxiv.org/abs/2206.09112) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2022 | Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting | [D2STGNN](https://github.com/zezhishao/d2stgnn) |  
+
+
+## SSM (State Space Model).
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+| 18-05-18 | [DSSM](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting) | NIPS 2018 | Deep State Space Models for Time Series Forecasting | None   |
+| 22-08-19 | [SSSD](https://arxiv.org/abs/2208.09399) | TMLR 2022 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models | [SSSD](https://github.com/AI4HealthUOL/SSSD) |
+| 22-09-22 | [SpaceTime](https://arxiv.org/abs/2303.09489) | ICLR 2023 | Effectively Modeling Time Series with Simple Discrete State Spaces | [SpaceTime](https://github.com/hazyresearch/spacetime)   |
+| 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | ICML 2023 | Deep Latent State Space Models for Time-Series Generation | None   |
+
 
 ## Generation Model.
 
