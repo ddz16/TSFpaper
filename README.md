@@ -93,17 +93,17 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 ## TCN.
 
-Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
------|----|-----|-----|-----
-| 19-05-09 | [DeepGLO](https://arxiv.org/abs/1905.03806) | NIPS 2019 | Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting| [deepglo](https://github.com/rajatsen91/deepglo)         |    
-| 19-05-22 | [DSANet](https://dl.acm.org/doi/abs/10.1145/3357384.3358132) | CIKM 2019 | DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting | [DSANet](https://github.com/bighuang624/DSANet)         |    
-| 19-12-11 | [MLCNN](https://arxiv.org/abs/1912.05122) | AAAI 2020 | Towards Better Forecasting by Fusing Near and Distant Future Visions | [MLCNN](https://github.com/smallGum/MLCNN-Multivariate-Time-Series)         |   
-| 21-06-17 | [SCINet](https://arxiv.org/abs/2106.09305) | NIPS 2022 | [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://mp.weixin.qq.com/s/mHleT4EunD82hmEfHnhkig) | [SCINet](https://github.com/cure-lab/SCINet)         |    
-| 22-09-22 | [MICN](https://openreview.net/forum?id=zt53IDUR1U) | ICLR 2023 | [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/603468264) | [MICN](https://github.com/whq13018258357/MICN)            |
-| 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | [TimesNet](https://github.com/thuml/TimesNet)          |
-| 23-02-23 | [LightCTS](https://arxiv.org/abs/2302.11974) | SIGMOD 2023 | LightCTS: A Lightweight Framework for Correlated Time Series Forecasting | [LightCTS](https://github.com/ai4cts/lightcts)          |
-| 23-05-25 | [TLNets](https://arxiv.org/abs/2305.15770) | Arxiv 2023 | TLNets: Transformation Learning Networks for long-range time-series prediction | [TLNets](https://github.com/anonymity111222/tlnets)      |
-| 23-06-04 | [Cross-LKTCN](https://arxiv.org/abs/2306.02326) | Arxiv 2023 | Cross-LKTCN: Modern Convolution Utilizing Cross-Variable Dependency for Multivariate Time Series Forecasting Dependency for Multivariate Time Series Forecasting | None |
+Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|----|-----|-----|-----
+| 19-05-09 | [DeepGLO](https://arxiv.org/abs/1905.03806) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2019 | Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting| [deepglo](https://github.com/rajatsen91/deepglo)         |    
+| 19-05-22 | [DSANet](https://dl.acm.org/doi/abs/10.1145/3357384.3358132) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2019 | DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting | [DSANet](https://github.com/bighuang624/DSANet)         |    
+| 19-12-11 | [MLCNN](https://arxiv.org/abs/1912.05122) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2020 | Towards Better Forecasting by Fusing Near and Distant Future Visions | [MLCNN](https://github.com/smallGum/MLCNN-Multivariate-Time-Series)         |   
+| 21-06-17 | [SCINet](https://arxiv.org/abs/2106.09305) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2022 | [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://mp.weixin.qq.com/s/mHleT4EunD82hmEfHnhkig) | [SCINet](https://github.com/cure-lab/SCINet)         |    
+| 22-09-22 | [MICN](https://openreview.net/forum?id=zt53IDUR1U) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2023 | [MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting](https://zhuanlan.zhihu.com/p/603468264) | [MICN](https://github.com/whq13018258357/MICN)            |
+| 22-09-22 | [TimesNet](https://arxiv.org/abs/2210.02186) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2023 | [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://zhuanlan.zhihu.com/p/604100426) | [TimesNet](https://github.com/thuml/TimesNet)          |
+| 23-02-23 | [LightCTS](https://arxiv.org/abs/2302.11974) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | SIGMOD 2023 | LightCTS: A Lightweight Framework for Correlated Time Series Forecasting | [LightCTS](https://github.com/ai4cts/lightcts)          |
+| 23-05-25 | [TLNets](https://arxiv.org/abs/2305.15770) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TLNets: Transformation Learning Networks for long-range time-series prediction | [TLNets](https://github.com/anonymity111222/tlnets)      |
+| 23-06-04 | [Cross-LKTCN](https://arxiv.org/abs/2306.02326) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Cross-LKTCN: Modern Convolution Utilizing Cross-Variable Dependency for Multivariate Time Series Forecasting Dependency for Multivariate Time Series Forecasting | None |
 
 
 ## SSM (State Space Model)
