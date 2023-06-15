@@ -120,7 +120,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 | Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
 | ---- | ------ | ------ | ---------- | ------------------------------------------------- | ---- |
-| 20-05-03 | [MTGNN](https://arxiv.org/abs/2005.01165) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks | [MTGNN](https://github.com/nnzhan/MTGNN)  |
+| 20-05-03 | [MTGNN](https://arxiv.org/abs/2005.01165) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2020 | Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks | [MTGNN](https://github.com/nnzhan/MTGNN)  |
 
 ## Generation Model.
 
