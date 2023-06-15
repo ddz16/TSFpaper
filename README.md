@@ -84,7 +84,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 22-05-26 | [DLinear](https://arxiv.org/abs/2205.13504) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | AAAI 2023 | [Are Transformers Effective for Time Series Forecasting?](https://zhuanlan.zhihu.com/p/569194246)      | [DLinear](https://github.com/cure-lab/DLinear) |
 | 22-06-24 | [TreeDRNet](https://arxiv.org/abs/2206.12106)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2022 | TreeDRNet: A Robust Deep Model for Long Term Time Series Forecasting | None                                           |
 | 22-07-04 | [LightTS](https://arxiv.org/abs/2207.01186) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2022 | Less Is More: Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures | [LightTS](https://tinyurl.com/5993cmus)            |
-| 22-08-10 | [STID](https://arxiv.org/abs/2208.05233) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | CIKM 2022 | Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting |  [STID](https://github.com/zezhishao/stid) |
+| 22-08-10 | [STID](https://arxiv.org/abs/2208.05233) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2022 | Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting |  [STID](https://github.com/zezhishao/stid) |
 | 23-01-30 | [SimST](https://arxiv.org/abs/2301.12603) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | Do We Really Need Graph Neural Networks for Traffic Forecasting? | None |
 | 23-02-09 | [MTS-Mixers](https://arxiv.org/abs/2302.04501)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing | [MTS-Mixers](https://github.com/plumprc/MTS-Mixers)    |
 | 23-03-10 | [TSMixer](https://arxiv.org/abs/2303.06053)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TSMixer: An all-MLP Architecture for Time Series Forecasting | None  |
@@ -118,9 +118,9 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 ## GNN (Spatio-Temporal Modeling).
 
-| Date | Method | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
-| ---- | ------ | ---------- | ------------------------------------------------- | ---- |
-|      |        |            |                                                   |      |
+| Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
+| ---- | ------ | ------ | ---------- | ------------------------------------------------- | ---- |
+| 20-05-03 | [MTGNN](https://arxiv.org/abs/2005.01165) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks | [MTGNN](https://github.com/nnzhan/MTGNN)  |
 
 ## Generation Model.
 
