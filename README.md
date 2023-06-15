@@ -116,11 +116,15 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-09-22 | [SpaceTime](https://arxiv.org/abs/2303.09489) | ICLR 2023 | Effectively Modeling Time Series with Simple Discrete State Spaces | [SpaceTime](https://github.com/hazyresearch/spacetime)   |
 | 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | ICML 2023 | Deep Latent State Space Models for Time-Series Generation | None   |
 
-## GNN (Spatio-Temporal Modeling).
+## GNN.
 
 | Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
 | ---- | ------ | ------ | ---------- | ------------------------------------------------- | ---- |
+| 17-09-14 | [STGCN](https://arxiv.org/abs/1709.04875) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | IJCAI 2018 | Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting | [STGCN](https://github.com/VeritasYin/STGCN_IJCAI-18) |
+| 20-04-03 | [SLCNN](https://ojs.aaai.org/index.php/AAAI/article/view/5470) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | AAAI 2020 | Spatio-Temporal Graph Structure Learning for Traffic Forecasting | None |
 | 20-05-03 | [MTGNN](https://arxiv.org/abs/2005.01165) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2020 | Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks | [MTGNN](https://github.com/nnzhan/MTGNN)  |
+| 21-03-13 | [StemGNN](https://arxiv.org/abs/2103.07719) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2020 | Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting | [StemGNN](https://github.com/microsoft/StemGNN) |
+| 22-05-16 | [TPGNN](https://openreview.net/forum?id=pMumil2EJh) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2022 | Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks | [TPGNN](https://github.com/zyplanet/TPGNN) |
 
 ## Generation Model.
 
