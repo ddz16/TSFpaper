@@ -55,6 +55,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-05-30|[Client](https://arxiv.org/abs/2305.18838) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Client: Cross-variable Linear Integrated Enhanced Transformer for Multivariate Long-Term Time Series Forecasting | [Client](https://github.com/daxin007/client)
 23-05-30|[Taylorformer](https://arxiv.org/abs/2305.19141) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Taylorformer: Probabilistic Predictions for Time Series and other Processes | [Taylorformer](https://www.dropbox.com/s/vnxuwq7zm7m9bj8/taylorformer.zip?dl=0)
 23-06-05|[Corrformer](https://www.nature.com/articles/s42256-023-00667-9) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | NMI 2023 | [Interpretable weather forecasting for worldwide stations with a unified deep model](https://zhuanlan.zhihu.com/p/635902919) | [Corrformer](https://github.com/thuml/Corrformer)
+23-06-14|[GCformer](https://arxiv.org/abs/2306.08325) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting | [GCformer](https://github.com/zyj-111/gcformer)
 
 
 ## RNN.
@@ -105,6 +106,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-02-23 | [LightCTS](https://arxiv.org/abs/2302.11974) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | SIGMOD 2023 | LightCTS: A Lightweight Framework for Correlated Time Series Forecasting | [LightCTS](https://github.com/ai4cts/lightcts)          |
 | 23-05-25 | [TLNets](https://arxiv.org/abs/2305.15770) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TLNets: Transformation Learning Networks for long-range time-series prediction | [TLNets](https://github.com/anonymity111222/tlnets)      |
 | 23-06-04 | [Cross-LKTCN](https://arxiv.org/abs/2306.02326) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Cross-LKTCN: Modern Convolution Utilizing Cross-Variable Dependency for Multivariate Time Series Forecasting Dependency for Multivariate Time Series Forecasting | None |
+| 23-06-12 | [MPPN](https://arxiv.org/abs/2306.06895) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | MPPN: Multi-Resolution Periodic Pattern Network For Long-Term Time Series Forecasting | None |
+
 
 
 ## GNN.
