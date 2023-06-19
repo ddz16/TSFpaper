@@ -92,7 +92,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-04-17 | [TiDE](https://arxiv.org/abs/2304.08424) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://zhuanlan.zhihu.com/p/624828590) | [TiDE](https://zhuanlan.zhihu.com/p/624828590) |
 | 23-05-18 | [RTSF](https://arxiv.org/abs/2305.10721) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Revisiting Long-term Time Series Forecasting: An Investigation on Linear Mapping | [RTSF](https://github.com/plumprc/rtsf) |
 | 23-05-30 | [Koopa](https://arxiv.org/abs/2305.18803) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors](https://zhuanlan.zhihu.com/p/635356173) | None |
-
+| 23-06-14 | [CI-TSMixer](https://arxiv.org/abs/2306.09364) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2023  | TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting | None |
 
 ## TCN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
