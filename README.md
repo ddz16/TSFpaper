@@ -170,6 +170,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-02-18 | [FrAug](https://arxiv.org/abs/2302.09292) | Arxiv 2023 | FrAug: Frequency Domain Augmentation for Time Series Forecasting | [FrAug](https://anonymous.4open.science/r/Fraug-more-results-1785)   |
 | 23-02-22 | [Dish-TS](https://arxiv.org/abs/2302.14829) | AAAI 2023 | [Dish-TS: A General Paradigm for Alleviating Distribution Shift in Time Series Forecasting](https://zhuanlan.zhihu.com/p/613566978) | [Dish-TS](https://github.com/weifantt/Dish-TS)   |
 | 23-02-23 | [Adaptive Sampling](https://arxiv.org/abs/2302.11870) | NIPSW 2022 | Adaptive Sampling for Probabilistic Forecasting under Distribution Shift | None   |
+| 23-04-19 | [RoR](https://arxiv.org/abs/2304.09836) | ICML 2023 | Regions of Reliability in the Evaluation of Multivariate Probabilistic Forecasts | [RoR](https://github.com/ServiceNow/regions-of-reliability) |
 | 23-05-28 | [PALS](https://arxiv.org/abs/2305.18382) | Arxiv 2023 | Adaptive Sparsity Level during Training for Efficient Time Series Forecasting with Transformers | None |
 | 23-06-09 | [FeatureProgramming](https://arxiv.org/abs/2306.06252) | ICML 2023 | Feature Programming for Multivariate Time Series Prediction | [FeatureProgramming](https://github.com/SirAlex900/FeatureProgramming) |
 
