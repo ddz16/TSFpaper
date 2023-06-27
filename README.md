@@ -21,6 +21,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|Arxiv 2022|Transformers in Time Series: A Survey|None
 23-03-25|[GNN](https://arxiv.org/abs/2303.14483)|Arxiv 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
 23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
+23-06-16|[SSL](https://arxiv.org/abs/2306.10125)|Arxiv 2023|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
 
 
 ## Transformer.
@@ -107,6 +108,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-05-25 | [TLNets](https://arxiv.org/abs/2305.15770) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TLNets: Transformation Learning Networks for long-range time-series prediction | [TLNets](https://github.com/anonymity111222/tlnets)      |
 | 23-06-04 | [Cross-LKTCN](https://arxiv.org/abs/2306.02326) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Cross-LKTCN: Modern Convolution Utilizing Cross-Variable Dependency for Multivariate Time Series Forecasting Dependency for Multivariate Time Series Forecasting | None |
 | 23-06-12 | [MPPN](https://arxiv.org/abs/2306.06895) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | MPPN: Multi-Resolution Periodic Pattern Network For Long-Term Time Series Forecasting | None |
+| 23-06-19 | [FDNet](https://arxiv.org/abs/2306.10703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KBS 2023 | FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting | [FDNet](https://github.com/OrigamiSL/FDNet-KBS-2023) |
 
 
 
