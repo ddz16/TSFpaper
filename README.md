@@ -18,10 +18,11 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 15-11-23|[Multi-step](https://ieeexplore.ieee.org/abstract/document/7422387)|ACOMP 2015|Comparison of Strategies for Multi-step-Ahead Prediction of Time Series Using Neural Network|None
 19-06-20|[DL](https://ieeexplore.ieee.org/abstract/document/8742529)| SENSJ 2019|A Review of Deep Learning Models for Time Series Prediction|None
 20-09-27|[DL](https://arxiv.org/abs/2004.13408)|Arxiv 2020|Time Series Forecasting With Deep Learning: A Survey|None
-22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|Arxiv 2022|Transformers in Time Series: A Survey|None
-23-03-25|[GNN](https://arxiv.org/abs/2303.14483)|Arxiv 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
+22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|Arxiv 2022|Transformers in Time Series: A Survey|[PaperList](https://github.com/qingsongedu/time-series-transformers-review)
+23-03-25|[STGNN](https://arxiv.org/abs/2303.14483)|Arxiv 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
 23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
 23-06-16|[SSL](https://arxiv.org/abs/2306.10125)|Arxiv 2023|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
+23-07-07|[GNN](https://arxiv.org/abs/2307.03759)|Arxiv 2023|A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection|[PaperList](https://github.com/KimMeen/Awesome-GNN4TS)
 
 
 ## Transformer.
@@ -58,6 +59,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-05-30|[Taylorformer](https://arxiv.org/abs/2305.19141) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Taylorformer: Probabilistic Predictions for Time Series and other Processes | [Taylorformer](https://www.dropbox.com/s/vnxuwq7zm7m9bj8/taylorformer.zip?dl=0)
 23-06-05|[Corrformer](https://www.nature.com/articles/s42256-023-00667-9) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | NMI 2023 | [Interpretable weather forecasting for worldwide stations with a unified deep model](https://zhuanlan.zhihu.com/p/635902919) | [Corrformer](https://github.com/thuml/Corrformer)
 23-06-14|[GCformer](https://arxiv.org/abs/2306.08325) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting | [GCformer](https://github.com/zyj-111/gcformer)
+23-07-04 | [SageFormer](https://arxiv.org/abs/2307.01616) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting | None 
 
 
 ## RNN.
@@ -95,6 +97,8 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-05-18 | [RTSF](https://arxiv.org/abs/2305.10721) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Revisiting Long-term Time Series Forecasting: An Investigation on Linear Mapping | [RTSF](https://github.com/plumprc/rtsf) |
 | 23-05-30 | [Koopa](https://arxiv.org/abs/2305.18803) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors](https://zhuanlan.zhihu.com/p/635356173) | None |
 | 23-06-14 | [CI-TSMixer](https://arxiv.org/abs/2306.09364) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2023  | TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting | None |
+| 23-07-06 | [FITS](https://arxiv.org/abs/2307.03756) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023  | FITS: Modeling Time Series with 10k Parameters | [FITS](https://anonymous.4open.science/r/FITS) |
+
 
 ## TCN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -125,6 +129,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 21-03-13 | [StemGNN](https://arxiv.org/abs/2103.07719) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2020 | Spectral Temporal Graph Neural Network for Multivariate Time-series Forecasting | [StemGNN](https://github.com/microsoft/StemGNN) |
 | 22-05-16 | [TPGNN](https://openreview.net/forum?id=pMumil2EJh) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2022 | Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks | [TPGNN](https://github.com/zyplanet/TPGNN) |
 | 22-06-18 | [D2STGNN](https://arxiv.org/abs/2206.09112) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2022 | Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting | [D2STGNN](https://github.com/zezhishao/d2stgnn) |  
+| 22-07-10 | [NexuSQN](https://arxiv.org/abs/2307.01482) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | Nexus sine qua non: Essentially connected neural networks for spatial-temporal forecasting of multivariate time series | None |
 
 
 ## SSM (State Space Model).
