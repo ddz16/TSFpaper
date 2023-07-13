@@ -60,7 +60,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-06-05|[Corrformer](https://www.nature.com/articles/s42256-023-00667-9) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | NMI 2023 | [Interpretable weather forecasting for worldwide stations with a unified deep model](https://zhuanlan.zhihu.com/p/635902919) | [Corrformer](https://github.com/thuml/Corrformer)
 23-06-14|[GCformer](https://arxiv.org/abs/2306.08325) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting | [GCformer](https://github.com/zyj-111/gcformer)
 23-07-04 | [SageFormer](https://arxiv.org/abs/2307.01616) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting | None 
-
+23-07-10 | [DifFormer](https://ieeexplore.ieee.org/abstract/document/10177239) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | TPAMI 2023 | DifFormer: Multi-Resolutional Differencing Transformer With Dynamic Ranging for Time Series Analysis | None
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
