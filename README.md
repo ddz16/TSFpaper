@@ -61,6 +61,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-06-14|[GCformer](https://arxiv.org/abs/2306.08325) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | GCformer: An Efficient Framework for Accurate and Scalable Long-Term Multivariate Time Series Forecasting | [GCformer](https://github.com/zyj-111/gcformer)
 23-07-04 | [SageFormer](https://arxiv.org/abs/2307.01616) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | SageFormer: Series-Aware Graph-Enhanced Transformers for Multivariate Time Series Forecasting | None 
 23-07-10 | [DifFormer](https://ieeexplore.ieee.org/abstract/document/10177239) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | TPAMI 2023 | DifFormer: Multi-Resolutional Differencing Transformer With Dynamic Ranging for Time Series Analysis | None
+23-07-27 | [HUTFormer](https://arxiv.org/abs/2307.14596) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting | None
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
