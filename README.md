@@ -2,7 +2,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/ddz16/TSFpaper)
-[![Visits Badge](https://badges.pufler.dev/visits/ddz16/TSFpaper)](https://badges.pufler.dev/visits/ddz16/TSFpaper)
 
 This repository contains a reading list of papers on **Time Series Forecasting/Prediction (TSF)** and **Spatio-Temporal Forecasting/Prediction (STF)**. These papers are mainly categorized according to the type of model. **This repository is still being continuously improved. If you have found any relevant papers that need to be included in this repository, please feel free to submit a pull request (PR) or open an issue.**
 
