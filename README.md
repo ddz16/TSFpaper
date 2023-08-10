@@ -62,6 +62,9 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-07-10 | [DifFormer](https://ieeexplore.ieee.org/abstract/document/10177239) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | TPAMI 2023 | DifFormer: Multi-Resolutional Differencing Transformer With Dynamic Ranging for Time Series Analysis | None
 23-07-27 | [HUTFormer](https://arxiv.org/abs/2307.14596) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting | None
 23-08-07 | [DSformer](https://arxiv.org/abs/2308.03274) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2023 | DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction | None
+23-08-09 | [SBT](https://arxiv.org/abs/2308.04637) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2023 | Sparse Binary Transformers for Multivariate Time Series Modeling | None
+23-08-09 | [PETformer](https://arxiv.org/abs/2308.04791) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer | None
+
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
