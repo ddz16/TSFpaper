@@ -80,6 +80,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 19-07-25|[MH-TAL](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |KDD 2019|Multi-Horizon Time Series Forecasting with Temporal Attention Learning| None |
 22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting) |
 23-06-02|[RNN-ODE-Adap](https://arxiv.org/abs/2306.01674)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2023|Neural Differential Recurrent Neural Network with Adaptive Time Steps| [RNN_ODE_Adap](https://github.com/Yixuan-Tan/RNN_ODE_Adap) |
+23-08-22|[SegRNN](https://arxiv.org/abs/2308.11200)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2023| SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting| None |
 
 
 ## MLP.
