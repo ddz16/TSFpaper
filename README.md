@@ -1,4 +1,4 @@
-# TSF Paper
+# Awesome Time Series Forecasting/Prediction Papers
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/ddz16/TSFpaper)
