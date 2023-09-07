@@ -143,6 +143,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 | 18-05-18 | [DSSM](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting) | NIPS 2018 | Deep State Space Models for Time Series Forecasting | None   |
+| 19-08-10 | [DSSMF](https://arxiv.org/abs/2102.00397) | IJCAI 2019 | Learning Interpretable Deep State Space Model for Probabilistic Time Series Forecasting | None   |
 | 22-08-19 | [SSSD](https://arxiv.org/abs/2208.09399) | TMLR 2022 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models | [SSSD](https://github.com/AI4HealthUOL/SSSD) |
 | 22-09-22 | [SpaceTime](https://arxiv.org/abs/2303.09489) | ICLR 2023 | Effectively Modeling Time Series with Simple Discrete State Spaces | [SpaceTime](https://github.com/hazyresearch/spacetime)   |
 | 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | ICML 2023 | Deep Latent State Space Models for Time-Series Generation | None   |
