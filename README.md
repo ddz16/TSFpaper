@@ -11,7 +11,7 @@ Each paper may apply to one or several types of forecasting, including univariat
 * ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) multivariate time series forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;L\times&space;C&space;\to&space;H\times&space;C), where C is the number of variables (channels).
 * ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) spatio-temporal forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;N&space;\times&space;L\times&space;C&space;\to&space;N&space;\times&space;H\times&space;C), where N is the spatial dimension (number of measurement points).
 
-**I have marked some recommended papers with 🌟.**
+🚩 **I have marked some recommended papers with 🌟 (Just my personal preference 😉).**
 
 ## Survey.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
