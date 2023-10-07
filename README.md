@@ -66,6 +66,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-08-07 | [DSformer](https://arxiv.org/abs/2308.03274) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2023 | DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction | None
 23-08-09 | [SBT](https://arxiv.org/abs/2308.04637) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2023 | Sparse Binary Transformers for Multivariate Time Series Modeling | None
 23-08-09 | [PETformer](https://arxiv.org/abs/2308.04791) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer | None
+23-10-02 | [TACTiS-2](https://browse.arxiv.org/abs/2310.01327)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series | None
+23-10-03 | [PrACTiS](https://browse.arxiv.org/abs/2310.01720)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PrACTiS: Perceiver-Attentional Copulas for Time Series | None
 
 
 ## RNN.
@@ -109,7 +111,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-08-25 | [TFDNet](https://arxiv.org/abs/2308.13386) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting | None |
 
 
-## TCN.
+## TCN/CNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
 | 19-05-09 | [DeepGLO](https://arxiv.org/abs/1905.03806)🌟 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2019 | Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting| [deepglo](https://github.com/rajatsen91/deepglo)         |    
@@ -123,7 +125,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-06-04 | [Cross-LKTCN](https://arxiv.org/abs/2306.02326) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Cross-LKTCN: Modern Convolution Utilizing Cross-Variable Dependency for Multivariate Time Series Forecasting Dependency for Multivariate Time Series Forecasting | None |
 | 23-06-12 | [MPPN](https://arxiv.org/abs/2306.06895) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | MPPN: Multi-Resolution Periodic Pattern Network For Long-Term Time Series Forecasting | None |
 | 23-06-19 | [FDNet](https://arxiv.org/abs/2306.10703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KBS 2023 | FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting | [FDNet](https://github.com/OrigamiSL/FDNet-KBS-2023) |
-
+| 23-10-01 | [PatchMixer](https://browse.arxiv.org/abs/2310.00655) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting | None |
 
 
 ## GNN.
