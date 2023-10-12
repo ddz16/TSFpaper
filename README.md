@@ -201,7 +201,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 20-10-06 | [TST](https://arxiv.org/abs/2010.02803) | KDD 2021 | A Transformer-based Framework for Multivariate Time Series Representation Learning | [mvts_transformer](https://github.com/gzerveas/mvts_transformer)   |
-| 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) | Arxiv 2023 | Power Time Series Forecasting by Pretrained LM | [FPT](https://anonymous.4open.science/r/Pretrained-LM-for-TSForcasting-C561)   |
+| 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) | NIPS 2023 | One Fits All:Power General Time Series Analysis by Pretrained LM | [FPT](https://anonymous.4open.science/r/Pretrained-LM-for-TSForcasting-C561)   |
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-08-16 | [TEST](https://arxiv.org/abs/2308.08241) | Arxiv 2023 | TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series | None |
 | 23-08-16 | [LLM4TS](https://arxiv.org/abs/2308.08469) | Arxiv 2023 | LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs | None |
@@ -210,7 +210,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----|-----
 | 22-02-23 | [FSNet](https://openreview.net/pdf?id=q-PbpHD3EOk) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2023 | Learning Fast and Slow for Online Time Series Forecasting | [FSNet](https://github.com/salesforce/fsnet)   |
-| 23-09-22 | [OneNet](https://arxiv.org/abs/2309.12659) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling | [OneNet](https://github.com/yfzhang114/OneNet)   |
+| 23-09-22 | [OneNet](https://arxiv.org/abs/2309.12659) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling | [One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)   |
 | 23-09-25 | [MemDA](https://arxiv.org/abs/2309.14216) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | CIKM 2023 | MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation |  None  |
 
 ## Theory.
