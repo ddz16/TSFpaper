@@ -207,7 +207,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 20-10-06 | [TST](https://arxiv.org/abs/2010.02803) | KDD 2021 | A Transformer-based Framework for Multivariate Time Series Representation Learning | [mvts_transformer](https://github.com/gzerveas/mvts_transformer)   |
 | 22-06-18 | [STEP](https://arxiv.org/abs/2206.09113) | KDD 2022 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting | [STEP](https://github.com/zezhishao/step)   |
 | 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) | NIPS 2023 | One Fits All:Power General Time Series Analysis by Pretrained LM | [One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)   |
-| 23-05-17 | [LLMTime][https://arxiv.org/abs/2310.07820] | NIPS 2023 | Large Language Models Are Zero-Shot Time Series Forecasters | [LLMTime](https://github.com/ngruver/llmtime) |
+| 23-05-17 | [LLMTime](https://arxiv.org/abs/2310.07820) | NIPS 2023 | Large Language Models Are Zero-Shot Time Series Forecasters | [LLMTime](https://github.com/ngruver/llmtime) |
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-08-16 | [TEST](https://arxiv.org/abs/2308.08241) | Arxiv 2023 | TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series | None |
 | 23-08-16 | [LLM4TS](https://arxiv.org/abs/2308.08469) | Arxiv 2023 | LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs | None |
