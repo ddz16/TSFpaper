@@ -107,7 +107,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-03-10 | [TSMixer](https://arxiv.org/abs/2303.06053)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TSMixer: An all-MLP Architecture for Time Series Forecasting | None  |
 | 23-04-17 | [TiDE](https://arxiv.org/abs/2304.08424)🌟 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://zhuanlan.zhihu.com/p/624828590) | [TiDE](https://zhuanlan.zhihu.com/p/624828590) |
 | 23-05-18 | [RTSF](https://arxiv.org/abs/2305.10721) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Revisiting Long-term Time Series Forecasting: An Investigation on Linear Mapping | [RTSF](https://github.com/plumprc/rtsf) |
-| 23-05-30 | [Koopa](https://arxiv.org/abs/2305.18803)🌟 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors](https://zhuanlan.zhihu.com/p/635356173) | None |
+| 23-05-30 | [Koopa](https://arxiv.org/abs/2305.18803)🌟 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | [Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors](https://zhuanlan.zhihu.com/p/635356173) | [Koopa](https://github.com/thuml/Koopa) |
 | 23-06-14 | [CI-TSMixer](https://arxiv.org/abs/2306.09364) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2023  | TSMixer: Lightweight MLP-Mixer Model for Multivariate Time Series Forecasting | None |
 | 23-07-06 | [FITS](https://arxiv.org/abs/2307.03756) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023  | FITS: Modeling Time Series with 10k Parameters | [FITS](https://anonymous.4open.science/r/FITS) |
 | 23-08-14 | [ST-MLP](https://arxiv.org/abs/2308.07496) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023  | ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting | None |
@@ -207,11 +207,14 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 20-10-06 | [TST](https://arxiv.org/abs/2010.02803) | KDD 2021 | A Transformer-based Framework for Multivariate Time Series Representation Learning | [mvts_transformer](https://github.com/gzerveas/mvts_transformer)   |
 | 22-06-18 | [STEP](https://arxiv.org/abs/2206.09113) | KDD 2022 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting | [STEP](https://github.com/zezhishao/step)   |
 | 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) | NIPS 2023 | One Fits All:Power General Time Series Analysis by Pretrained LM | [One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)   |
+| 23-05-17 | (LLMTime)[https://arxiv.org/abs/2310.07820] | NIPS 2023 | Large Language Models Are Zero-Shot Time Series Forecasters | [LLMTime](https://github.com/ngruver/llmtime) |
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-08-16 | [TEST](https://arxiv.org/abs/2308.08241) | Arxiv 2023 | TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series | None |
 | 23-08-16 | [LLM4TS](https://arxiv.org/abs/2308.08469) | Arxiv 2023 | LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs | None |
 | 23-10-03 | [Time-LLM](https://arxiv.org/abs/2310.01728) | Arxiv 2023 | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models | None |
 | 23-10-08 | [TEMPO](https://arxiv.org/abs/2310.04948) | Arxiv 2023 | TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting | None |
+| 23-10-12 | [Lag-Llama](https://arxiv.org/abs/2310.08278) | Arxiv 2023 | Lag-Llama: Towards Foundation Models for Time Series Forecasting | [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts) |
+
 
 ## Online.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
