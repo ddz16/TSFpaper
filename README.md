@@ -10,8 +10,17 @@ Each paper may apply to one or several types of forecasting, including univariat
 * ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) univariate time series forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;L\times&space;1&space;\to&space;H\times&space;1), where L is the history length, H is the prediction horizon length.
 * ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) multivariate time series forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;L\times&space;C&space;\to&space;H\times&space;C), where C is the number of variables (channels).
 * ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) spatio-temporal forecasting: ![](https://latex.codecogs.com/svg.image?\inline&space;N&space;\times&space;L\times&space;C&space;\to&space;N&space;\times&space;H\times&space;C), where N is the spatial dimension (number of measurement points).
+* ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) irregular time series: observation/sampling times are irregular.
 
+
+## Some Additional Information.
 🚩 **I have marked some recommended papers with 🌟 (Just my personal preference 😉).**
+
+🚩 **I have added a new category ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange): models specifically designed for irregular time series.**
+
+🚩 **I also recommend you to check out some other GitHub repositories about awesome time series papers: [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review), [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers), [time-series-papers](https://github.com/xiyuanzh/time-series-papers), [deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series).**
+
+🚩 **There are also some popular toolkits or code libraries that integrate many time series models: [Time-Series-Library](https://github.com/thuml/Time-Series-Library), [Prophet](https://github.com/facebook/prophet), [Darts](https://github.com/unit8co/darts), [Kats](https://github.com/facebookresearch/Kats), [tsai](https://github.com/timeseriesAI/tsai), [GluonTS](https://github.com/awslabs/gluonts), [PyTorchForecasting](https://github.com/jdb78/pytorch-forecasting), [tslearn](https://github.com/tslearn-team/tslearn), [AutoGluon](https://github.com/autogluon/autogluon), [flow-forecast](https://github.com/AIStream-Peelout/flow-forecast), [PyFlux](https://github.com/RJT1990/pyflux).**
 
 ## Survey.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -56,6 +65,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 22-09-22|[PatchTST](https://arxiv.org/abs/2211.14730)🌟 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |ICLR 2023|[A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://zhuanlan.zhihu.com/p/602332939)|[PatchTST](https://github.com/yuqinie98/patchtst)
 22-11-29|[AirFormer](https://arxiv.org/abs/2211.15979)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | AAAI 2023 |AirFormer: Predicting Nationwide Air Quality in China with Transformers | [AirFormer](https://github.com/yoshall/airformer)
 23-01-19|[PDFormer](https://arxiv.org/abs/2301.07945)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | AAAI 2023 | PDFormer: Propagation Delay-Aware Dynamic Long-Range Transformer for Traffic Flow Prediction | [PDFormer](https://github.com/BUAABIGSCity/PDFormer)
+23-03-01|[ViTST](https://arxiv.org/abs/2303.12799)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2023 | Time Series as Images: Vision Transformer for Irregularly Sampled Time Series |[ViTST](https://github.com/Leezekun/ViTST)
 23-05-20|[CARD](https://arxiv.org/abs/2305.12095)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2023|Make Transformer Great Again for Time Series Forecasting: Channel Aligned Robust Dual Transformer|None
 23-05-24|[JTFT](https://arxiv.org/abs/2305.14649) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | A Joint Time-frequency Domain Transformer for Multivariate Time Series Forecasting | None
 23-05-30|[HSTTN](https://arxiv.org/abs/2305.18724) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | IJCAI 2023 | Long-term Wind Power Forecasting with Hierarchical Spatial-Temporal Transformer | None
@@ -72,6 +82,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-10-02 | [TACTiS-2](https://browse.arxiv.org/abs/2310.01327)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series | None
 23-10-03 | [PrACTiS](https://browse.arxiv.org/abs/2310.01720)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PrACTiS: Perceiver-Attentional Copulas for Time Series | None
 23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
+23-10-26 | [ContiFormer](https://seqml.github.io/contiformer/)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2023 | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | None
 
 
 ## RNN.
@@ -86,9 +97,11 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 19-05-28|[DF-Model](https://arxiv.org/abs/1905.12417)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |ICML 2019| Deep Factors for Forecasting | None |
 19-07-18|[ESLSTM](https://www.sciencedirect.com/science/article/pii/S0169207019301153)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |IJoF 2020|A hybrid method of exponential smoothing and recurrent neural networks for time series forecasting| None |
 19-07-25|[MH-TAL](https://dl.acm.org/doi/abs/10.1145/3292500.3330662)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |KDD 2019|Multi-Horizon Time Series Forecasting with Temporal Attention Learning| None |
+21-11-22|[CRU](https://arxiv.org/abs/2111.11344) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | ICML 2022 | Modeling Irregular Time Series with Continuous Recurrent Units | [CRU](https://github.com/boschresearch/continuous-recurrent-units)
 22-05-16|[C2FAR](https://openreview.net/forum?id=lHuPdoHBxbg)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2022|[C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting](https://zhuanlan.zhihu.com/p/600602517)|[C2FAR](https://github.com/huaweicloud/c2far_forecasting) |
 23-06-02|[RNN-ODE-Adap](https://arxiv.org/abs/2306.01674)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2023|Neural Differential Recurrent Neural Network with Adaptive Time Steps| [RNN_ODE_Adap](https://github.com/Yixuan-Tan/RNN_ODE_Adap) |
 23-08-22|[SegRNN](https://arxiv.org/abs/2308.11200)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2023| SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting| None |
+23-10-05|[PA-RNN](https://arxiv.org/abs/2310.03243)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| Sparse Deep Learning for Time Series Data: Theory and Applications | None |
 
 
 ## MLP.
@@ -170,7 +183,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-03-13 | [HyVAE](https://arxiv.org/abs/2303.07048) | Arxiv 2023 | Hybrid Variational Autoencoder for Time Series Forecasting | None   |
 | 23-06-05 | [WIAE](https://arxiv.org/abs/2306.03782) | Arxiv 2023 | Non-parametric Probabilistic Time Series Forecasting via Innovations Representation | None   |
 | 23-06-08 | [TimeDiff](https://arxiv.org/abs/2306.05043)🌟 | ICML 2023 | Non-autoregressive Conditional Diffusion Models for Time Series Prediction | None |
-| 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | Arxiv 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | None |
+| 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | NIPS 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | None |
 
 
 ## Time-index.
@@ -207,6 +220,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 20-10-06 | [TST](https://arxiv.org/abs/2010.02803) | KDD 2021 | A Transformer-based Framework for Multivariate Time Series Representation Learning | [mvts_transformer](https://github.com/gzerveas/mvts_transformer)   |
 | 22-06-18 | [STEP](https://arxiv.org/abs/2206.09113) | KDD 2022 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting | [STEP](https://github.com/zezhishao/step)   |
+| 23-02-02 | [SimMTM](https://arxiv.org/abs/2302.00861) | NIPS 2023 | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | [SimMTM](https://github.com/thuml/simmtm)
 | 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) 🌟 | NIPS 2023 | [One Fits All:Power General Time Series Analysis by Pretrained LM](https://zhuanlan.zhihu.com/p/661884836) | [One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)   |
 | 23-05-17 | [LLMTime](https://arxiv.org/abs/2310.07820) | NIPS 2023 | [Large Language Models Are Zero-Shot Time Series Forecasters](https://zhuanlan.zhihu.com/p/661526823) | [LLMTime](https://github.com/ngruver/llmtime) |
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
