@@ -71,7 +71,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-08-09 | [PETformer](https://arxiv.org/abs/2308.04791) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer | None
 23-10-02 | [TACTiS-2](https://browse.arxiv.org/abs/2310.01327)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series | None
 23-10-03 | [PrACTiS](https://browse.arxiv.org/abs/2310.01720)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PrACTiS: Perceiver-Attentional Copulas for Time Series | None
-23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | iTransformer: Inverted Transformers Are Effective for Time Series Forecasting | [iTransformer](https://github.com/lucidrains/iTransformer)
+23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | iTransformer: Inverted Transformers Are Effective for Time Series Forecasting | [iTransformer](https://github.com/thuml/iTransformer)
 
 
 ## RNN.
