@@ -214,6 +214,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-07-18 | [Look_Ahead](https://dl.acm.org/doi/abs/10.1145/3539618.3592013) | SIGIR 2023 | Look Ahead: Improving the Accuracy of Time-Series Forecasting by Previewing Future Time Features | [Look_Ahead](https://github.com/sunsunmin/Look_Ahead) |
 | 23-09-14 | [QFCV](https://arxiv.org/abs/2309.07435) | Arxiv 2023 | Uncertainty Intervals for Prediction Errors in Time Series Forecasting | [QFCV](https://github.com/huixu18/qfcv) |
 | 23-10-09 | [PeTS](https://arxiv.org/abs/2310.06077) | Arxiv 2023 | Performative Time-Series Forecasting | [PeTS](https://github.com/adityalab/pets) |
+| 23-10-23 | [EDAIN](https://arxiv.org/abs/2310.14720) | Arxiv 2023 | Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks | [EDAIN](https://github.com/marcusGH/edain_paper) |
 
 ## Pretrain & Representation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
