@@ -83,7 +83,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-10-03 | [PrACTiS](https://browse.arxiv.org/abs/2310.01720)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PrACTiS: Perceiver-Attentional Copulas for Time Series | None
 23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
 23-10-26 | [ContiFormer](https://seqml.github.io/contiformer/)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2023 | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | None
-
+23-10-31 | [BasisFormer](https://arxiv.org/abs/2310.20496)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis | [basisformer](https://github.com/nzl5116190/basisformer)
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -143,7 +143,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-06-12 | [MPPN](https://arxiv.org/abs/2306.06895) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | MPPN: Multi-Resolution Periodic Pattern Network For Long-Term Time Series Forecasting | None |
 | 23-06-19 | [FDNet](https://arxiv.org/abs/2306.10703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KBS 2023 | FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting | [FDNet](https://github.com/OrigamiSL/FDNet-KBS-2023) |
 | 23-10-01 | [PatchMixer](https://browse.arxiv.org/abs/2310.00655) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting | [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) |
-
+| 23-11-01 | [WinNet](https://arxiv.org/abs/2311.00214) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | WinNet:time series forecasting with a window-enhanced period extracting and interacting | None |
 
 ## GNN.
 Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
@@ -232,6 +232,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-10-08 | [TEMPO](https://arxiv.org/abs/2310.04948) | Arxiv 2023 | TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting | None |
 | 23-10-12 | [Lag-Llama](https://arxiv.org/abs/2310.08278) | Arxiv 2023 | Lag-Llama: Towards Foundation Models for Time Series Forecasting | [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts) |
 | 23-10-15 | [UniTime](https://arxiv.org/abs/2310.09751) | Arxiv 2023 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting | None |
+| 23-11-03 | [ForecastPFN](https://arxiv.org/abs/2311.01933) | NIPS 2023 | ForecastPFN: Synthetically-Trained Zero-Shot Forecasting | [ForecastPFN](https://github.com/abacusai/forecastpfn) |
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
