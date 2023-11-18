@@ -85,6 +85,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
 23-10-26 | [ContiFormer](https://seqml.github.io/contiformer/)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2023 | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | None
 23-10-31 | [BasisFormer](https://arxiv.org/abs/2310.20496)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis | [basisformer](https://github.com/nzl5116190/basisformer)
+23-11-07 | [MTST](https://arxiv.org/abs/2311.04147)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Multi-resolution Time-Series Transformer for Long-term Forecasting | None
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -127,7 +128,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-07-06 | [FITS](https://arxiv.org/abs/2307.03756) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023  | FITS: Modeling Time Series with 10k Parameters | [FITS](https://anonymous.4open.science/r/FITS) |
 | 23-08-14 | [ST-MLP](https://arxiv.org/abs/2308.07496) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023  | ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting | None |
 | 23-08-25 | [TFDNet](https://arxiv.org/abs/2308.13386) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting | None |
-
+| 23-11-10 | [FreTS](https://arxiv.org/abs/2311.06184) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | Frequency-domain MLPs are More Effective Learners in Time Series Forecasting | [FreTS](https://github.com/aikunyi/FreTS)
 
 ## TCN/CNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -159,7 +160,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 22-05-16 | [TPGNN](https://openreview.net/forum?id=pMumil2EJh) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2022 | Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks | [TPGNN](https://github.com/zyplanet/TPGNN) |
 | 22-06-18 | [D2STGNN](https://arxiv.org/abs/2206.09112) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2022 | Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting | [D2STGNN](https://github.com/zezhishao/d2stgnn) |  
 | 23-07-10 | [NexuSQN](https://arxiv.org/abs/2307.01482) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | Nexus sine qua non: Essentially connected neural networks for spatial-temporal forecasting of multivariate time series | None |
-
+| 23-11-10 | [FourierGNN](https://arxiv.org/abs/2311.06190) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective | [FourierGNN](https://github.com/aikunyi/FourierGNN) |
 
 ## SSM (State Space Model).
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
