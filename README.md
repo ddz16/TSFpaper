@@ -104,6 +104,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-06-02|[RNN-ODE-Adap](https://arxiv.org/abs/2306.01674)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2023|Neural Differential Recurrent Neural Network with Adaptive Time Steps| [RNN_ODE_Adap](https://github.com/Yixuan-Tan/RNN_ODE_Adap) |
 23-08-22|[SegRNN](https://arxiv.org/abs/2308.11200)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2023| SegRNN: Segment Recurrent Neural Network for Long-Term Time Series Forecasting| None |
 23-10-05|[PA-RNN](https://arxiv.org/abs/2310.03243)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| Sparse Deep Learning for Time Series Data: Theory and Applications | None |
+23-11-03|[WITRAN](https://openreview.net/forum?id=y08bkEtNBK)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting | [WITRAN](https://github.com/Water2sea/WITRAN) |
 
 
 ## MLP.
