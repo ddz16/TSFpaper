@@ -147,6 +147,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-06-19 | [FDNet](https://arxiv.org/abs/2306.10703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KBS 2023 | FDNet: Focal Decomposed Network for Efficient, Robust and Practical Time Series Forecasting | [FDNet](https://github.com/OrigamiSL/FDNet-KBS-2023) |
 | 23-10-01 | [PatchMixer](https://browse.arxiv.org/abs/2310.00655) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | PatchMixer: A Patch-Mixing Architecture for Long-Term Time Series Forecasting | [PatchMixer](https://github.com/Zeying-Gong/PatchMixer) |
 | 23-11-01 | [WinNet](https://arxiv.org/abs/2311.00214) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | WinNet:time series forecasting with a window-enhanced period extracting and interacting | None |
+| 23-11-27 | [ModernTCN](https://openreview.net/forum?id=vpJMJerXHU) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://zhuanlan.zhihu.com/p/668946041) | None |
 
 ## GNN.
 Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
