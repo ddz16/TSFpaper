@@ -88,6 +88,10 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-10-31 | [BasisFormer](https://arxiv.org/abs/2310.20496)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis | [basisformer](https://github.com/nzl5116190/basisformer)
 23-11-07 | [MTST](https://arxiv.org/abs/2311.04147)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Multi-resolution Time-Series Transformer for Long-term Forecasting | None
 23-11-30 | [MultiResFormer](https://arxiv.org/abs/2311.18780)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | MultiResFormer: Transformer with Adaptive Multi-Resolution Modeling for General Time Series Forecasting | None
+23-12-10 | [FPPformer](https://arxiv.org/abs/2312.05792)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | IOT 2023 | Take an Irregular Route: Enhance the Decoder of Time-Series Forecasting Transformer | [FPPformer](https://github.com/OrigamiSL/FPPformer)
+23-12-11 | [Dozerformer](https://arxiv.org/abs/2312.06874)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Dozerformer: Sequence Adaptive Sparse Transformer for Multivariate Time Series Forecasting | None
+23-12-11 | [CSformer](https://arxiv.org/abs/2312.06220)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting | None
+
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -166,6 +170,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 22-06-18 | [D2STGNN](https://arxiv.org/abs/2206.09112) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2022 | Decoupled Dynamic Spatial-Temporal Graph Neural Network for Traffic Forecasting | [D2STGNN](https://github.com/zezhishao/d2stgnn) |  
 | 23-07-10 | [NexuSQN](https://arxiv.org/abs/2307.01482) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | Nexus sine qua non: Essentially connected neural networks for spatial-temporal forecasting of multivariate time series | None |
 | 23-11-10 | [FourierGNN](https://arxiv.org/abs/2311.06190) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective | [FourierGNN](https://github.com/aikunyi/FourierGNN) |
+| 23-12-05 | [SAMSGL](https://arxiv.org/abs/2312.02646) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | TETCI 2023 | SAMSGL: Series-Aligned Multi-Scale Graph Learning for Spatio-Temporal Forecasting | None |
 
 ## SSM (State Space Model).
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
