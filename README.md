@@ -14,13 +14,15 @@ Each paper may apply to one or several types of forecasting, including univariat
 
 
 ## Some Additional Information.
-🚩 **I have marked some recommended papers with 🌟 (Just my personal preference 😉).**
+🚩 2023/11/1: **I have marked some recommended papers with 🌟 (Just my personal preference 😉).**
 
-🚩 **I have added a new category ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange): models specifically designed for irregular time series.**
+🚩 2023/11/1: **I have added a new category ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange): models specifically designed for irregular time series.**
 
-🚩 **I also recommend you to check out some other GitHub repositories about awesome time series papers: [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review), [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers), [time-series-papers](https://github.com/xiyuanzh/time-series-papers), [deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series).**
+🚩 2023/11/1: **I also recommend you to check out some other GitHub repositories about awesome time series papers: [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review), [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers), [time-series-papers](https://github.com/xiyuanzh/time-series-papers), [deep-learning-time-series](https://github.com/Alro10/deep-learning-time-series).**
 
-🚩 **There are some popular toolkits or code libraries that integrate many time series models: [Time-Series-Library](https://github.com/thuml/Time-Series-Library), [Prophet](https://github.com/facebook/prophet), [Darts](https://github.com/unit8co/darts), [Kats](https://github.com/facebookresearch/Kats), [tsai](https://github.com/timeseriesAI/tsai), [GluonTS](https://github.com/awslabs/gluonts), [PyTorchForecasting](https://github.com/jdb78/pytorch-forecasting), [tslearn](https://github.com/tslearn-team/tslearn), [AutoGluon](https://github.com/autogluon/autogluon), [flow-forecast](https://github.com/AIStream-Peelout/flow-forecast), [PyFlux](https://github.com/RJT1990/pyflux).**
+🚩 2023/11/3: **There are some popular toolkits or code libraries that integrate many time series models: [Time-Series-Library](https://github.com/thuml/Time-Series-Library), [Prophet](https://github.com/facebook/prophet), [Darts](https://github.com/unit8co/darts), [Kats](https://github.com/facebookresearch/Kats), [tsai](https://github.com/timeseriesAI/tsai), [GluonTS](https://github.com/awslabs/gluonts), [PyTorchForecasting](https://github.com/jdb78/pytorch-forecasting), [tslearn](https://github.com/tslearn-team/tslearn), [AutoGluon](https://github.com/autogluon/autogluon), [flow-forecast](https://github.com/AIStream-Peelout/flow-forecast), [PyFlux](https://github.com/RJT1990/pyflux).**
+
+🚩 2023/12/28: **Since the topic of LLM(Large Language Model)+TS(Time Series) has been popular recently, I have introduced a category (LLM) to include related papers. This is distinguished from the Pretrain category. Pretrain mainly contains papers which design agent tasks (contrastive or generative) suitable for time series, and only use large-scale time series data for pre-training.**
 
 ## Survey.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -231,17 +233,10 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-10-23 | [EDAIN](https://arxiv.org/abs/2310.14720) | Arxiv 2023 | Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks | [EDAIN](https://github.com/marcusGH/edain_paper) |
 | 23-11-19 | [TimeSQL](https://arxiv.org/abs/2311.11285) | Arxiv 2023 | TimeSQL: Improving Multivariate Time Series Forecasting with Multi-Scale Patching and Smooth Quadratic Loss | None |
 
-## Pretrain & Representation.
+## LLM (Large Language Model).
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
------|----|-----|-----|-----
-| 20-10-06 | [TST](https://arxiv.org/abs/2010.02803) | KDD 2021 | A Transformer-based Framework for Multivariate Time Series Representation Learning | [mvts_transformer](https://github.com/gzerveas/mvts_transformer)   |
-| 21-09-29 | [CoST](https://openreview.net/forum?id=PilZY3omXV2) | ICLR 2022 | CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting | [CoST](https://github.com/salesforce/CoST)   |
-| 22-05-16 | [LaST](https://openreview.net/pdf?id=C9yUwd72yy) | NIPS 2022 | LaST: Learning Latent Seasonal-Trend Representations for Time Series Forecasting | [LaST](https://github.com/zhycs/LaST)   |
-| 22-06-18 | [STEP](https://arxiv.org/abs/2206.09113) | KDD 2022 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting | [STEP](https://github.com/zezhishao/step)   |
-| 23-02-02 | [SimMTM](https://arxiv.org/abs/2302.00861) | NIPS 2023 | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | [SimMTM](https://github.com/thuml/simmtm)
 | 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) 🌟 | NIPS 2023 | [One Fits All: Power General Time Series Analysis by Pretrained LM](https://zhuanlan.zhihu.com/p/661884836) | [One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)   |
 | 23-05-17 | [LLMTime](https://arxiv.org/abs/2310.07820) | NIPS 2023 | [Large Language Models Are Zero-Shot Time Series Forecasters](https://zhuanlan.zhihu.com/p/661526823) | [LLMTime](https://github.com/ngruver/llmtime) |
-| 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-08-16 | [TEST](https://arxiv.org/abs/2308.08241) | Arxiv 2023 | TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series | None |
 | 23-08-16 | [LLM4TS](https://arxiv.org/abs/2308.08469) | Arxiv 2023 | LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs | None |
 | 23-10-03 | [Time-LLM](https://arxiv.org/abs/2310.01728) | Arxiv 2023 | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models | None |
@@ -250,6 +245,17 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-10-15 | [UniTime](https://arxiv.org/abs/2310.09751) | Arxiv 2023 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting | None |
 | 23-11-03 | [ForecastPFN](https://arxiv.org/abs/2311.01933) | NIPS 2023 | ForecastPFN: Synthetically-Trained Zero-Shot Forecasting | [ForecastPFN](https://github.com/abacusai/forecastpfn) |
 | 23-11-24 | [FPT++](https://arxiv.org/abs/2311.14782) 🌟 | Arxiv 2023 | One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors | [GPT4TS_Adapter](https://github.com/PSacfc/GPT4TS_Adapter) |
+
+
+## Pretrain & Representation.
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
+| 20-10-06 | [TST](https://arxiv.org/abs/2010.02803) | KDD 2021 | A Transformer-based Framework for Multivariate Time Series Representation Learning | [mvts_transformer](https://github.com/gzerveas/mvts_transformer)   |
+| 21-09-29 | [CoST](https://openreview.net/forum?id=PilZY3omXV2) | ICLR 2022 | CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting | [CoST](https://github.com/salesforce/CoST)   |
+| 22-05-16 | [LaST](https://openreview.net/pdf?id=C9yUwd72yy) | NIPS 2022 | LaST: Learning Latent Seasonal-Trend Representations for Time Series Forecasting | [LaST](https://github.com/zhycs/LaST)   |
+| 22-06-18 | [STEP](https://arxiv.org/abs/2206.09113) | KDD 2022 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting | [STEP](https://github.com/zezhishao/step)   |
+| 23-02-02 | [SimMTM](https://arxiv.org/abs/2302.00861) | NIPS 2023 | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | [SimMTM](https://github.com/thuml/simmtm)
+| 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
 
 ## Domain Adaptation.
