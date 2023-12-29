@@ -256,8 +256,10 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 22-05-16 | [LaST](https://openreview.net/pdf?id=C9yUwd72yy) | NIPS 2022 | LaST: Learning Latent Seasonal-Trend Representations for Time Series Forecasting | [LaST](https://github.com/zhycs/LaST)   |
 | 22-06-18 | [STEP](https://arxiv.org/abs/2206.09113) | KDD 2022 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting | [STEP](https://github.com/zezhishao/step)   |
 | 23-02-02 | [SimMTM](https://arxiv.org/abs/2302.00861) | NIPS 2023 | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | [SimMTM](https://github.com/thuml/simmtm)
+| 23-03-01 | [TimeMAE](https://arxiv.org/abs/2303.00320) | Arxiv 2023 | TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders | [TimeMAE](https://github.com/Mingyue-Cheng/TimeMAE)
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
+
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
