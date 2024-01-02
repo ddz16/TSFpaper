@@ -176,6 +176,9 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 23-07-10 | [NexuSQN](https://arxiv.org/abs/2307.01482) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | Nexus sine qua non: Essentially connected neural networks for spatial-temporal forecasting of multivariate time series | None |
 | 23-11-10 | [FourierGNN](https://arxiv.org/abs/2311.06190) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective | [FourierGNN](https://github.com/aikunyi/FourierGNN) |
 | 23-12-05 | [SAMSGL](https://arxiv.org/abs/2312.02646) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | TETCI 2023 | SAMSGL: Series-Aligned Multi-Scale Graph Learning for Spatio-Temporal Forecasting | None |
+| 23-12-27 | [TGCRN](https://arxiv.org/abs/2312.16403) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICDE 2024 | Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting | None |
+| 23-12-31 | [MSGNet](https://arxiv.org/abs/2401.00423) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting | [MSGNet](https://github.com/YoZhibo/MSGNet) |
+
 
 ## SSM (State Space Model).
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -259,7 +262,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-03-01 | [TimeMAE](https://arxiv.org/abs/2303.00320) | Arxiv 2023 | TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders | [TimeMAE](https://github.com/Mingyue-Cheng/TimeMAE)
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
-
+| 23-12-27 | [PITS](https://arxiv.org/abs/2312.16427) | NIPSW 2023 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
