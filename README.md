@@ -38,7 +38,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 23-07-07|[GNN](https://arxiv.org/abs/2307.03759)|Arxiv 2023|A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection|[PaperList](https://github.com/KimMeen/Awesome-GNN4TS)
 23-10-09|[BasicTS](https://arxiv.org/abs/2310.06119)|Arxiv 2023|Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis|Benchmark
 23-10-11|[ProbTS](https://arxiv.org/abs/2310.07446)|Arxiv 2023|ProbTS: A Unified Toolkit to Probe Deep Time-series Forecasting|Toolkit
-
+23-12-28|[TSPP](https://arxiv.org/abs/2312.17100)|Arxiv 2023|TSPP: A Unified Benchmarking Tool for Time-series Forecasting|[TSPP](https://github.com/NVIDIA/DeepLearningExamples)
 
 ## Transformer.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -93,7 +93,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-12-10 | [FPPformer](https://arxiv.org/abs/2312.05792)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | IOT 2023 | Take an Irregular Route: Enhance the Decoder of Time-Series Forecasting Transformer | [FPPformer](https://github.com/OrigamiSL/FPPformer)
 23-12-11 | [Dozerformer](https://arxiv.org/abs/2312.06874)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | Dozerformer: Sequence Adaptive Sparse Transformer for Multivariate Time Series Forecasting | None
 23-12-11 | [CSformer](https://arxiv.org/abs/2312.06220)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting | None
-
+23-12-23 | [MASTER](https://arxiv.org/abs/2312.15235)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | MASTER: Market-Guided Stock Transformer for Stock Price Forecasting | [MASTER](https://github.com/SJTU-Quant/MASTER)
+23-12-30 | [PCA+former](https://arxiv.org/abs/2401.00230)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Transformer Multivariate Forecasting: Less is More? | None
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -114,7 +115,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-10-05|[PA-RNN](https://arxiv.org/abs/2310.03243)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| Sparse Deep Learning for Time Series Data: Theory and Applications | None |
 23-11-03|[WITRAN](https://openreview.net/forum?id=y08bkEtNBK)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting | [WITRAN](https://github.com/Water2sea/WITRAN) |
 23-12-14|[DAN](https://arxiv.org/abs/2312.08763)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |AAAI 2024| Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting | [DAN](https://github.com/davidanastasiu/dan) |
-
+23-12-22|[SutraNets](https://arxiv.org/abs/2312.14880)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| SutraNets: Sub-series Autoregressive Networks for Long-Sequence, Probabilistic Forecasting | None |
 
 ## MLP.
 Date     | Method                                        |Type| Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
@@ -177,6 +178,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 23-11-10 | [FourierGNN](https://arxiv.org/abs/2311.06190) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | FourierGNN: Rethinking Multivariate Time Series Forecasting from a Pure Graph Perspective | [FourierGNN](https://github.com/aikunyi/FourierGNN) |
 | 23-12-05 | [SAMSGL](https://arxiv.org/abs/2312.02646) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | TETCI 2023 | SAMSGL: Series-Aligned Multi-Scale Graph Learning for Spatio-Temporal Forecasting | None |
 | 23-12-27 | [TGCRN](https://arxiv.org/abs/2312.16403) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICDE 2024 | Learning Time-aware Graph Structures for Spatially Correlated Time Series Forecasting | None |
+| 23-12-27 | [FCDNet](https://arxiv.org/abs/2312.16450) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting | [FCDNet](https://github.com/oncecwj/fcdnet) |
 | 23-12-31 | [MSGNet](https://arxiv.org/abs/2401.00423) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting | [MSGNet](https://github.com/YoZhibo/MSGNet) |
 
 
@@ -262,7 +264,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-03-01 | [TimeMAE](https://arxiv.org/abs/2303.00320) | Arxiv 2023 | TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders | [TimeMAE](https://github.com/Mingyue-Cheng/TimeMAE)
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
+| 23-12-25 | [TimesURL](https://arxiv.org/abs/2312.15709) | AAAI 2024 | TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning | None |
 | 23-12-27 | [PITS](https://arxiv.org/abs/2312.16427) | NIPSW 2023 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
+
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
