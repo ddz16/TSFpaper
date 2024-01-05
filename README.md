@@ -245,7 +245,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-05-17 | [LLMTime](https://arxiv.org/abs/2310.07820) | NIPS 2023 | [Large Language Models Are Zero-Shot Time Series Forecasters](https://zhuanlan.zhihu.com/p/661526823) | [LLMTime](https://github.com/ngruver/llmtime) |
 | 23-08-16 | [TEST](https://arxiv.org/abs/2308.08241) | Arxiv 2023 | TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series | None |
 | 23-08-16 | [LLM4TS](https://arxiv.org/abs/2308.08469) | Arxiv 2023 | LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs | None |
-| 23-10-03 | [Time-LLM](https://arxiv.org/abs/2310.01728) | Arxiv 2023 | Time-LLM: Time Series Forecasting by Reprogramming Large Language Models | None |
+| 23-10-03 | [Time-LLM](https://arxiv.org/abs/2310.01728) | Arxiv 2023 | [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://zhuanlan.zhihu.com/p/676256783) | None |
 | 23-10-08 | [TEMPO](https://arxiv.org/abs/2310.04948) | Arxiv 2023 | TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting | None |
 | 23-10-12 | [Lag-Llama](https://arxiv.org/abs/2310.08278) | Arxiv 2023 | Lag-Llama: Towards Foundation Models for Time Series Forecasting | [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts) |
 | 23-10-15 | [UniTime](https://arxiv.org/abs/2310.09751) | Arxiv 2023 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting | None |
