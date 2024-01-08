@@ -141,7 +141,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 23-08-25 | [TFDNet](https://arxiv.org/abs/2308.13386) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TFDNet: Time-Frequency Enhanced Decomposed Network for Long-term Time Series Forecasting | None |
 | 23-11-10 | [FreTS](https://arxiv.org/abs/2311.06184) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | Frequency-domain MLPs are More Effective Learners in Time Series Forecasting | [FreTS](https://github.com/aikunyi/FreTS)
 | 23-12-22 | [STL](https://arxiv.org/abs/2312.14869) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023  | Spatiotemporal-Linear: Towards Universal Multivariate Time Series Forecasting | None |
-
+| 24-01-04 | [U-Mixer](https://arxiv.org/abs/2401.02236) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting | None |
 
 ## TCN/CNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
