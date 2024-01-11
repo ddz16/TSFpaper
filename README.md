@@ -241,7 +241,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 ## LLM (Large Language Model).
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
-| 22-09-20 | [PromptCast](https://arxiv.org/abs/2210.08964) | TKDE 2023 | PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting | [PromptCast](https://github.com/HaoUNSW/PISA) |
+| 22-09-20 | [PromptCast](https://arxiv.org/abs/2210.08964) | TKDE 2023 | PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting | [PISA](https://github.com/HaoUNSW/PISA) |
 | 23-02-23 | [FPT](https://arxiv.org/abs/2302.11939) 🌟 | NIPS 2023 | [One Fits All: Power General Time Series Analysis by Pretrained LM](https://zhuanlan.zhihu.com/p/661884836) | [One-Fits-All](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)   |
 | 23-05-17 | [LLMTime](https://arxiv.org/abs/2310.07820) | NIPS 2023 | [Large Language Models Are Zero-Shot Time Series Forecasters](https://zhuanlan.zhihu.com/p/661526823) | [LLMTime](https://github.com/ngruver/llmtime) |
 | 23-08-16 | [TEST](https://arxiv.org/abs/2308.08241) | Arxiv 2023 | TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series | None |
