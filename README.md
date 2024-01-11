@@ -32,13 +32,14 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 20-09-27|[DL](https://arxiv.org/abs/2004.13408)|Arxiv 2020|Time Series Forecasting With Deep Learning: A Survey|None
 22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|IJCAI 2023|Transformers in Time Series: A Survey|[PaperList](https://github.com/qingsongedu/time-series-transformers-review)
 23-03-25|[STGNN](https://arxiv.org/abs/2303.14483)|Arxiv 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
-23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
+23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|Diffusion
 23-06-16|[SSL](https://arxiv.org/abs/2306.10125)|Arxiv 2023|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
 23-06-20|[OpenSTL](https://arxiv.org/abs/2306.11249)|NIPS 2023|OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning|[Benchmark](https://github.com/chengtan9907/OpenSTL)
 23-07-07|[GNN](https://arxiv.org/abs/2307.03759)|Arxiv 2023|A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection|[PaperList](https://github.com/KimMeen/Awesome-GNN4TS)
 23-10-09|[BasicTS](https://arxiv.org/abs/2310.06119)|Arxiv 2023|Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis|Benchmark
 23-10-11|[ProbTS](https://arxiv.org/abs/2310.07446)|Arxiv 2023|ProbTS: A Unified Toolkit to Probe Deep Time-series Forecasting|Toolkit
 23-12-28|[TSPP](https://arxiv.org/abs/2312.17100)|Arxiv 2023|TSPP: A Unified Benchmarking Tool for Time-series Forecasting|[TSPP](https://github.com/NVIDIA/DeepLearningExamples)
+24-01-05|[Diffusion](https://arxiv.org/abs/2401.03006)|Arxiv 2024|The Rise of Diffusion Models in Time-Series Forecasting|None
 
 ## Transformer.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -267,6 +268,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
 | 23-12-25 | [TimesURL](https://arxiv.org/abs/2312.15709) | AAAI 2024 | TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning | None |
 | 23-12-27 | [PITS](https://arxiv.org/abs/2312.16427) | NIPSW 2023 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
+| 24-01-08 | [TTMs](https://arxiv.org/abs/2401.03955) | Arxiv 2024 | TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series | None |
 
 
 ## Domain Adaptation.
@@ -280,6 +282,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 22-02-23 | [FSNet](https://openreview.net/pdf?id=q-PbpHD3EOk) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2023 | Learning Fast and Slow for Online Time Series Forecasting | [FSNet](https://github.com/salesforce/fsnet)   |
 | 23-09-22 | [OneNet](https://arxiv.org/abs/2309.12659) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2023 | OneNet: Enhancing Time Series Forecasting Models under Concept Drift by Online Ensembling | [OneNet](https://github.com/yfzhang114/OneNet)   |
 | 23-09-25 | [MemDA](https://arxiv.org/abs/2309.14216) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | CIKM 2023 | MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation |  None  |
+| 24-01-08 | [ADCSD](https://arxiv.org/abs/2401.04148) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting | [ADCSD](https://github.com/Pengxin-Guo/ADCSD)  |
 
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
