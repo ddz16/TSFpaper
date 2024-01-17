@@ -84,7 +84,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-08-07 | [DSformer](https://arxiv.org/abs/2308.03274) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2023 | DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction | None
 23-08-09 | [SBT](https://arxiv.org/abs/2308.04637) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2023 | Sparse Binary Transformers for Multivariate Time Series Modeling | None
 23-08-09 | [PETformer](https://arxiv.org/abs/2308.04791) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PETformer: Long-term Time Series Forecasting via Placeholder-enhanced Transformer | None
-23-10-02 | [TACTiS-2](https://browse.arxiv.org/abs/2310.01327)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series | None
+23-10-02 | [TACTiS-2](https://browse.arxiv.org/abs/2310.01327)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series | None
 23-10-03 | [PrACTiS](https://browse.arxiv.org/abs/2310.01720)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | PrACTiS: Perceiver-Attentional Copulas for Time Series | None
 23-10-10 | [iTransformer](https://arxiv.org/abs/2310.06625)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [iTransformer: Inverted Transformers Are Effective for Time Series Forecasting](https://zhuanlan.zhihu.com/p/662250788) | [iTransformer](https://github.com/thuml/iTransformer)
 23-10-26 | [ContiFormer](https://seqml.github.io/contiformer/)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2023 | ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling | None
@@ -284,6 +284,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-01-08 | [TTMs](https://arxiv.org/abs/2401.03955) | Arxiv 2024 | TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series | None |
 | 24-01-16 | [SoftCLT](https://openreview.net/forum?id=pAsQSWlDUf) | ICLR 2024 | Soft Contrastive Learning for Time Series | None |
 | 24-01-16 | [PITS](https://openreview.net/forum?id=WS7GuBDFa2) | ICLR 2024 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
+| 24-01-16 | [T-Rep](https://openreview.net/forum?id=3y2TfP966N) | ICLR 2024 | T-Rep: Representation Learning for Time Series using Time-Embeddings | None |
+
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
