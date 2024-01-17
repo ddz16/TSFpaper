@@ -269,7 +269,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-12-25 | [TimesURL](https://arxiv.org/abs/2312.15709) | AAAI 2024 | TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning | None |
 | 23-12-27 | [PITS](https://arxiv.org/abs/2312.16427) | NIPSW 2023 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
 | 24-01-08 | [TTMs](https://arxiv.org/abs/2401.03955) | Arxiv 2024 | TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series | None |
-
+| 24-01-16 | [SoftCLT](https://openreview.net/forum?id=pAsQSWlDUf) | ICLR 2024 | Soft Contrastive Learning for Time Series | None |
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
