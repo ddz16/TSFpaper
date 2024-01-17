@@ -96,6 +96,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-12-11 | [CSformer](https://arxiv.org/abs/2312.06220)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Dance of Channel and Sequence: An Efficient Attention-Based Approach for Multivariate Time Series Forecasting | None
 23-12-23 | [MASTER](https://arxiv.org/abs/2312.15235)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | MASTER: Market-Guided Stock Transformer for Stock Price Forecasting | [MASTER](https://github.com/SJTU-Quant/MASTER)
 23-12-30 | [PCA+former](https://arxiv.org/abs/2401.00230)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | Transformer Multivariate Forecasting: Less is More? | None
+24-01-16 | [PDF](https://openreview.net/forum?id=dp27P5HBBt)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICLR 2024 | Periodicity Decoupling Framework for Long-term Series Forecasting | None
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -199,7 +200,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 20-02-14 | [MAF](https://arxiv.org/abs/2002.06103)🌟 | ICLR 2021 | [Multivariate Probabilitic Time Series Forecasting via Conditioned Normalizing Flows](https://zhuanlan.zhihu.com/p/615795048) | [MAF](https://github.com/zalandoresearch/pytorch-ts)   |
 | 21-01-18 | [TimeGrad](https://arxiv.org/abs/2101.12072)🌟 | ICML 2021 | [Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting](https://zhuanlan.zhihu.com/p/615858953) | [TimeGrad](https://github.com/zalandoresearch/pytorch-ts)   |
 | 21-07-07 | [CSDI](https://arxiv.org/abs/2107.03502) | NIPS 2021 | [CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation](https://zhuanlan.zhihu.com/p/615998087) | [CSDI](https://github.com/ermongroup/csdi)   |
-| 22-05-16 | [MANF](https://arxiv.org/abs/2205.07493)|Arxiv 2022|Multi-scale Attention Flow for Probabilistic Time Series Forecasting| None |
+| 22-05-16 | [MANF](https://arxiv.org/abs/2205.07493)| Arxiv 2022 |Multi-scale Attention Flow for Probabilistic Time Series Forecasting| None |
 | 22-05-16 | [D3VAE](https://arxiv.org/abs/2301.03028) | NIPS 2022 | Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement | [D3VAE](https://github.com/paddlepaddle/paddlespatial)   |
 | 22-12-28 | [Hier-Transformer-CNF](https://arxiv.org/abs/2212.13706) | Arxiv 2022 | End-to-End Modeling Hierarchical Time Series Using Autoregressive Transformer and Conditional Normalizing Flow based Reconciliation | None   |
 | 23-03-13 | [HyVAE](https://arxiv.org/abs/2303.07048) | Arxiv 2023 | Hybrid Variational Autoencoder for Time Series Forecasting | None   |
@@ -208,6 +209,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | NIPS 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | [TSDiff](https://github.com/amazon-science/unconditional-time-series-diffusion) |
 | 24-01-16 | [FTS-Diffusion](https://openreview.net/forum?id=CdjnzWsQax) | ICLR 2024 | Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns | None |
 | 24-01-16 | [MG-TSD](https://openreview.net/forum?id=CZiY6OLktd) | ICLR 2024 | MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process | None |
+| 24-01-16 | [TMDM](https://openreview.net/forum?id=qae04YACHs) | ICLR 2024 | Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting | None |
 
 
 ## Time-index.
