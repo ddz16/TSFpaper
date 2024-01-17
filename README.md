@@ -206,6 +206,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-06-05 | [WIAE](https://arxiv.org/abs/2306.03782) | Arxiv 2023 | Non-parametric Probabilistic Time Series Forecasting via Innovations Representation | None   |
 | 23-06-08 | [TimeDiff](https://arxiv.org/abs/2306.05043)🌟 | ICML 2023 | Non-autoregressive Conditional Diffusion Models for Time Series Prediction | None |
 | 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | NIPS 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | [TSDiff](https://github.com/amazon-science/unconditional-time-series-diffusion) |
+| 24-01-16 | [FTS-Diffusion](https://openreview.net/forum?id=CdjnzWsQax) | ICLR 2024 | Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns | None |
+| 24-01-16 | [MG-TSD](https://openreview.net/forum?id=CZiY6OLktd) | ICLR 2024 | MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process | None |
 
 
 ## Time-index.
