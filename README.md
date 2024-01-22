@@ -121,6 +121,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-11-03|[WITRAN](https://openreview.net/forum?id=y08bkEtNBK)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting | [WITRAN](https://github.com/Water2sea/WITRAN) |
 23-12-14|[DAN](https://arxiv.org/abs/2312.08763)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |AAAI 2024| Learning from Polar Representation: An Extreme-Adaptive Model for Long-Term Time Series Forecasting | [DAN](https://github.com/davidanastasiu/dan) |
 23-12-22|[SutraNets](https://arxiv.org/abs/2312.14880)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| SutraNets: Sub-series Autoregressive Networks for Long-Sequence, Probabilistic Forecasting | None |
+24-01-17|[RWKV-TS](https://arxiv.org/abs/2401.09093)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2024| RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks | [RWKV-TS](https://github.com/howard-hou/RWKV-TS) |
+
 
 ## MLP.
 Date     | Method                                        |Type| Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
@@ -217,6 +219,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-01-16 | [MG-TSD](https://openreview.net/forum?id=CZiY6OLktd) | ICLR 2024 | MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process | None |
 | 24-01-16 | [TMDM](https://openreview.net/forum?id=qae04YACHs) | ICLR 2024 | Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting | None |
 | 24-01-16 | [mr-Diff](https://openreview.net/forum?id=mmjnr0G8ZY) | ICLR 2024 | Multi-Resolution Diffusion Models for Time Series Forecasting | None |
+| 24-01-16 | [SpecSTG](https://arxiv.org/abs/2401.08119) | Arxiv 2024 | SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting | [SpecSTG](https://anonymous.4open.science/r/SpecSTG) | 
 
 
 ## Time-index.
