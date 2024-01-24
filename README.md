@@ -99,6 +99,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-01-16 | [PDF](https://openreview.net/forum?id=dp27P5HBBt)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICLR 2024 | Periodicity Decoupling Framework for Long-term Series Forecasting | None
 24-01-16 | [Pathformer](https://openreview.net/forum?id=lJkOCMP2aW)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICLR 2024 | Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting | None
 24-01-16 | [VQ-TR](https://openreview.net/forum?id=IxpTsFS7mh)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | VQ-TR: Vector Quantized Attention for Time Series Forecasting | None
+24-01-22 | [HDformer](https://arxiv.org/abs/2401.11929)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting | None
 
 
 ## RNN.
