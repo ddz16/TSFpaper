@@ -295,8 +295,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-01-16 | [PITS](https://openreview.net/forum?id=WS7GuBDFa2) | ICLR 2024 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
 | 24-01-16 | [T-Rep](https://openreview.net/forum?id=3y2TfP966N) | ICLR 2024 | T-Rep: Representation Learning for Time Series using Time-Embeddings | None |
 | 24-01-16 | [AutoTCL](https://openreview.net/forum?id=EIPLdFy3vp) | ICLR 2024 | Parametric Augmentation for Time Series Contrastive Learning | None |
-| 24-01-29 | [MLEM](https://arxiv.org/abs/2401.15935) | Arxiv 2024 | Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning
-| [MLEM](https://github.com/VityaVitalich/MLEM) |
+| 24-01-29 | [MLEM](https://arxiv.org/abs/2401.15935) | Arxiv 2024 | Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning| [MLEM](https://github.com/VityaVitalich/MLEM) |
 
 
 
