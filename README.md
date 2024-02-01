@@ -191,7 +191,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 23-12-27 | [FCDNet](https://arxiv.org/abs/2312.16450) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting | [FCDNet](https://github.com/oncecwj/fcdnet) |
 | 23-12-31 | [MSGNet](https://arxiv.org/abs/2401.00423) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting | [MSGNet](https://github.com/YoZhibo/MSGNet) |
 | 24-01-16 | [BiaTCGNet](https://openreview.net/forum?id=O9nZCwdGcG) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICLR 2024 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values | [BiaTCGNet](https://anonymous.4open.science/r/BiaTCGNet-1F80/) |
-
+| 24-01-24 | [TMP](https://arxiv.org/abs/2401.13157) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | AAAI 2024 | Time-Aware Knowledge Representations of Dynamic Objects with Multidimensional Persistence | None |
 
 ## SSM (State Space Model).
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -222,7 +222,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-01-16 | [mr-Diff](https://openreview.net/forum?id=mmjnr0G8ZY) | ICLR 2024 | Multi-Resolution Diffusion Models for Time Series Forecasting | None |
 | 24-01-16 | [Diffusion-TS](https://openreview.net/forum?id=4h1apFjO99) | ICLR 2024 | Diffusion-TS: Interpretable Diffusion for General Time Series Generation | None | 
 | 24-01-16 | [SpecSTG](https://arxiv.org/abs/2401.08119) | Arxiv 2024 | SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting | [SpecSTG](https://anonymous.4open.science/r/SpecSTG) | 
-
+| 24-01-30 | [IN-Flow](https://arxiv.org/abs/2401.16777) | Arxiv 2024 | Addressing Distribution Shift in Time Series Forecasting with Instance Normalization Flows | None | 
 
 ## Time-index.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
