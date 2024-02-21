@@ -310,6 +310,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-01-16 | [AutoTCL](https://openreview.net/forum?id=EIPLdFy3vp) | ICLR 2024 | Parametric Augmentation for Time Series Contrastive Learning | None |
 | 24-01-16 | [AutoCon](https://openreview.net/forum?id=nBCuRzjqK7) | ICLR 2024 | Self-Supervised Contrastive Forecasting | [AutoCon](https://github.com/junwoopark92/self-supervised-contrastive-forecsating) |
 | 24-01-29 | [MLEM](https://arxiv.org/abs/2401.15935) | Arxiv 2024 | Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning| [MLEM](https://github.com/VityaVitalich/MLEM) |
+| 24-02-04 | [Timer](https://arxiv.org/abs/2402.02368) | Arxiv 2024 | Timer: Transformers for Time Series Analysis at Scale | None |
 | 24-02-04 | [TimeSiam](https://arxiv.org/abs/2402.02475) | Arxiv 2024 | TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling | None |
 | 24-02-04 | [MOIRAI](https://arxiv.org/abs/2402.02592) | Arxiv 2024 | Unified Training of Universal Time Series Forecasting Transformers | None |
 | 24-02-14 | [GTT](https://arxiv.org/abs/2402.07570) | Arxiv 2024 | Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction | [GTT](https://github.com/cfeng783/gtt) |
