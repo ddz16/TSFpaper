@@ -155,6 +155,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-01-04 | [U-Mixer](https://arxiv.org/abs/2401.02236) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting | None |
 | 24-01-16 | [TimeMixer](https://openreview.net/forum?id=7oLshfEIC2) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting | None |
 | 24-02-16 | [RPMixer](https://arxiv.org/abs/2402.10487) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | Random Projection Layers for Multidimensional Time Sires Forecasting | None |
+| 24-02-20 | [IDEA](https://arxiv.org/abs/2402.12767) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | When and How: Learning Identifiable Latent States for Nonstationary Time Series Forecasting | None |
 
 
 
@@ -210,6 +211,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-08-19 | [SSSD](https://arxiv.org/abs/2208.09399) | TMLR 2022 | Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models | [SSSD](https://github.com/AI4HealthUOL/SSSD) |
 | 22-09-22 | [SpaceTime](https://arxiv.org/abs/2303.09489) | ICLR 2023 | Effectively Modeling Time Series with Simple Discrete State Spaces | [SpaceTime](https://github.com/hazyresearch/spacetime)   |
 | 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | ICML 2023 | Deep Latent State Space Models for Time-Series Generation | [LS4](https://github.com/alexzhou907/ls4) |
+| 24-02-18 | [Attraos](https://arxiv.org/abs/2402.11463) | Arxiv 2024 | Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective | None |
+
 
 
 ## Generation Model.
@@ -268,6 +271,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-01-16 | [LIFT](https://openreview.net/forum?id=JiTVtCUOpS) | ICLR 2024 | Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators | None |
 | 24-01-16 | [RobustTSF](https://openreview.net/forum?id=ltZ9ianMth) | ICLR 2024 | RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies | [RobustTSF](https://openreview.net/attachment?id=ltZ9ianMth&name=supplementary_material) |
 | 24-02-04 | [FreDF](https://arxiv.org/abs/2402.02399) | Arxiv 2024 | FreDF: Learning to Forecast in Frequency Domain | [FreDF](https://github.com/Master-PLC/FreDF) |
+| 24-02-20 | [Leddam](https://arxiv.org/abs/2402.12694) | Arxiv 2024 | Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling | None |
+
 
 
 ## LLM (Large Language Model).
@@ -330,6 +335,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-09-25 | [MemDA](https://arxiv.org/abs/2309.14216) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | CIKM 2023 | MemDA: Forecasting Urban Time Series with Memory-based Drift Adaptation |  None  |
 | 24-01-08 | [ADCSD](https://arxiv.org/abs/2401.04148) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting | [ADCSD](https://github.com/Pengxin-Guo/ADCSD)  |
 | 24-02-03 | [TSF-HD](https://arxiv.org/abs/2402.01999) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | A Novel Hyperdimensional Computing Framework for Online Time Series Forecasting on the Edge | [TSF-HD](https://github.com/tsfhd2024/tsf-hd)  |
+| 24-02-20 | [SKI-CL](https://arxiv.org/abs/2402.12722) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Structural Knowledge Informed Continual Multivariate Time Series Forecasting | None  |
 
 
 ## Theory.
