@@ -103,6 +103,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-02-04 | [Minusformer](https://arxiv.org/abs/2402.02332)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Minusformer: Improving Time Series Forecasting by Progressively Learning Residuals | [Minusformer](https://github.com/anoise/minusformer)
 24-02-08 | [AttnEmbed](https://arxiv.org/abs/2402.05370)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Attention as Robust Representation for Time Series Forecasting | [AttnEmbed](https://anonymous.4open.science/r/AttnEmbed-7430)
 24-02-15 | [SAMformer](https://arxiv.org/abs/2402.10198)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention | [SAMformer](https://github.com/romilbert/samformer)
+24-02-25 | [PDETime](https://arxiv.org/abs/2402.16913)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PDETime: Rethinking Long-Term Multivariate Time Series Forecasting from the perspective of partial differential equations | None
 
 
 ## RNN.
@@ -214,7 +215,6 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-02-18 | [Attraos](https://arxiv.org/abs/2402.11463) | Arxiv 2024 | Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective | None |
 
 
-
 ## Generation Model.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
@@ -236,6 +236,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-01-16 | [SpecSTG](https://arxiv.org/abs/2401.08119) | Arxiv 2024 | SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting | [SpecSTG](https://anonymous.4open.science/r/SpecSTG) | 
 | 24-01-30 | [IN-Flow](https://arxiv.org/abs/2401.16777) | Arxiv 2024 | Addressing Distribution Shift in Time Series Forecasting with Instance Normalization Flows | None | 
 
+
 ## Time-index.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
@@ -244,7 +245,6 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 22-07-13 | [DeepTime](https://arxiv.org/abs/2207.06046) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2023 | [Learning Deep Time-index Models for Time Series Forecasting](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [DeepTime](https://github.com/salesforce/DeepTime) |
 | 23-06-09 | [TimeFlow](https://arxiv.org/abs/2306.05880) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)  | Arxiv 2023 | Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations | None |
 | 24-01-16 | [DAM](https://openreview.net/forum?id=4NhMhElWqP)🌟 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)  | ICLR 2024 | DAM: A Foundation Model for Forecasting | None |
-
 
 
 ## Plug and Play (Model-Agnostic).
@@ -293,6 +293,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-01 | [LLMICL](https://arxiv.org/abs/2402.00795) | Arxiv 2024 | LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law | [LLMICL](https://github.com/AntonioLiu97/llmICL) |
 | 24-02-04 | [AutoTimes](https://arxiv.org/abs/2402.02370) | Arxiv 2024 | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | None |
 | 24-02-16 | [TSFwithLLM](https://arxiv.org/abs/2402.10835) | Arxiv 2024 | Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities | None |
+| 24-02-25 | [LSTPrompt](https://arxiv.org/abs/2402.16132) | Arxiv 2024 | LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting | [LSTPrompt](https://github.com/AdityaLab/lstprompt) |
 
 
 ## Pretrain & Representation.
@@ -319,13 +320,15 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-04 | [TimeSiam](https://arxiv.org/abs/2402.02475) | Arxiv 2024 | TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling | None |
 | 24-02-04 | [MOIRAI](https://arxiv.org/abs/2402.02592) | Arxiv 2024 | Unified Training of Universal Time Series Forecasting Transformers | None |
 | 24-02-14 | [GTT](https://arxiv.org/abs/2402.07570) | Arxiv 2024 | Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction | [GTT](https://github.com/cfeng783/gtt) |
-
+| 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | Arxiv 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
+| 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | Arxiv 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | None |
 
 
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 21-02-13 | [DAF](https://arxiv.org/abs/2102.06828) | ICML 2022 | Domain Adaptation for Time Series Forecasting via Attention Sharing | [DAF](https://github.com/leejoonhun/daf) |
+
 
 ## Online.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
