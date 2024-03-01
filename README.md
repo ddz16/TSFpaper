@@ -104,6 +104,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-02-08 | [AttnEmbed](https://arxiv.org/abs/2402.05370)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Attention as Robust Representation for Time Series Forecasting | [AttnEmbed](https://anonymous.4open.science/r/AttnEmbed-7430)
 24-02-15 | [SAMformer](https://arxiv.org/abs/2402.10198)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention | [SAMformer](https://github.com/romilbert/samformer)
 24-02-25 | [PDETime](https://arxiv.org/abs/2402.16913)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PDETime: Rethinking Long-Term Multivariate Time Series Forecasting from the perspective of partial differential equations | None
+24-02-29 | [TimeXer](https://arxiv.org/abs/2402.19072)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables | None
 
 
 ## RNN.
