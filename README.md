@@ -323,6 +323,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-14 | [GTT](https://arxiv.org/abs/2402.07570) | Arxiv 2024 | Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction | [GTT](https://github.com/cfeng783/gtt) |
 | 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | Arxiv 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
 | 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | Arxiv 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | None |
+| 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | Arxiv 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
 
 
 ## Domain Adaptation.
