@@ -107,6 +107,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-02-25 | [PDETime](https://arxiv.org/abs/2402.16913)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PDETime: Rethinking Long-Term Multivariate Time Series Forecasting from the perspective of partial differential equations | None
 24-02-29 | [TimeXer](https://arxiv.org/abs/2402.19072)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables | None
 24-03-05 | [InjectTST](https://arxiv.org/abs/2403.02814)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | InjectTST: A Transformer Method of Injecting Global Information into Independent Channels for Long Time Series Forecasting | None
+24-03-13 | [Caformer](https://arxiv.org/abs/2403.08572)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Caformer: Rethinking Time Series Analysis from Causal Perspective | None
 
 
 ## RNN.
@@ -279,6 +280,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-04 | [FreDF](https://arxiv.org/abs/2402.02399) | Arxiv 2024 | FreDF: Learning to Forecast in Frequency Domain | [FreDF](https://github.com/Master-PLC/FreDF) |
 | 24-02-20 | [Leddam](https://arxiv.org/abs/2402.12694) | Arxiv 2024 | Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling | None |
 | 24-03-01 | [InfoTime](https://arxiv.org/abs/2403.00869) | Arxiv 2024 | Enhancing Multivariate Time Series Forecasting with Mutual Information-driven Cross-Variable and Temporal Modeling | None |
+| 24-03-13 | [wavelet-ML](https://arxiv.org/abs/2403.08630) | Arxiv 2024 | Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting | None |
 
 
 ## LLM (Large Language Model).
@@ -300,6 +302,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-04 | [AutoTimes](https://arxiv.org/abs/2402.02370) | Arxiv 2024 | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | [AutoTimes](https://github.com/thuml/AutoTimes) |
 | 24-02-16 | [TSFwithLLM](https://arxiv.org/abs/2402.10835) | Arxiv 2024 | Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities | None |
 | 24-02-25 | [LSTPrompt](https://arxiv.org/abs/2402.16132) | Arxiv 2024 | LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting | [LSTPrompt](https://github.com/AdityaLab/lstprompt) |
+| 24-03-09 | [S2IP-LLM](https://arxiv.org/abs/2403.05798) | Arxiv 2024 | S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting | None |
+| 24-03-12 | [LLaTA](https://arxiv.org/abs/2403.07300) | Arxiv 2024 | Taming Pre-trained LLMs for Generalised Time Series Forecasting via Cross-modal Knowledge Distillation | [LLaTA](https://github.com/Hank0626/LLaTA) |
+| 24-03-12 | [Chronos](https://arxiv.org/abs/2403.07815) 🌟 | Arxiv 2024 | Chronos: Learning the Language of Time Series | [Chronos](https://github.com/amazon-science/chronos-forecasting) |
 
 
 ## Pretrain & Representation.
