@@ -163,6 +163,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-02-16 | [RPMixer](https://arxiv.org/abs/2402.10487) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | Random Projection Layers for Multidimensional Time Sires Forecasting | None |
 | 24-02-20 | [IDEA](https://arxiv.org/abs/2402.12767) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | When and How: Learning Identifiable Latent States for Nonstationary Time Series Forecasting | None |
 | 24-03-04 | [CATS](https://arxiv.org/abs/2403.01673) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables | None |
+| 24-03-21 | [OLS](https://arxiv.org/abs/2403.14587) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | An Analysis of Linear Time Series Forecasting Models | None |
 
 
 
@@ -222,6 +223,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-12-24 | [LS4](https://arxiv.org/abs/2212.12749) | ICML 2023 | Deep Latent State Space Models for Time-Series Generation | [LS4](https://github.com/alexzhou907/ls4) |
 | 24-02-18 | [Attraos](https://arxiv.org/abs/2402.11463) | Arxiv 2024 | Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective | None |
 | 24-03-14 | [TimeMachine](https://arxiv.org/abs/2403.09898) | Arxiv 2024 | TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting | None |
+| 24-03-17 | [S-D-Mamba](https://arxiv.org/abs/2403.11144) | Arxiv 2024 | Is Mamba Effective for Time Series Forecasting? | [S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba) |
 
 
 ## Generation Model.
