@@ -355,7 +355,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-01-08 | [ADCSD](https://arxiv.org/abs/2401.04148) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | Online Test-Time Adaptation of Spatial-Temporal Traffic Flow Forecasting | [ADCSD](https://github.com/Pengxin-Guo/ADCSD)  |
 | 24-02-03 | [TSF-HD](https://arxiv.org/abs/2402.01999) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | A Novel Hyperdimensional Computing Framework for Online Time Series Forecasting on the Edge | [TSF-HD](https://github.com/tsfhd2024/tsf-hd)  |
 | 24-02-20 | [SKI-CL](https://arxiv.org/abs/2402.12722) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Structural Knowledge Informed Continual Multivariate Time Series Forecasting | None  |
-
+| 24-03-22 | [D3A](https://arxiv.org/abs/2403.14949) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Addressing Concept Shift in Online Time Series Forecasting: Detect-then-Adapt | None  |
 
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
