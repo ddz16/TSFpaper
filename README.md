@@ -24,7 +24,9 @@ Each paper may apply to one or several types of forecasting, including univariat
 
 🚩 2023/12/28: **Since the topic of LLM(Large Language Model)+TS(Time Series) has been popular recently, I have introduced a category (LLM) to include related papers. This is distinguished from the Pretrain category. Pretrain mainly contains papers which design agent tasks (contrastive or generative) suitable for time series, and only use large-scale time series data for pre-training.**
 
-## Survey.
+🚩 2024/4/1: **Some researchers have introduced the recently popular [Mamba](https://arxiv.org/abs/2312.00752) model into the field of time series forecasting, which can be found in the SSM (State Space Model) table.**
+
+## Survey & Benchmark.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 15-11-23|[Multi-step](https://ieeexplore.ieee.org/abstract/document/7422387)|ACOMP 2015|Comparison of Strategies for Multi-step-Ahead Prediction of Time Series Using Neural Network|None
@@ -41,6 +43,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 23-12-28|[TSPP](https://arxiv.org/abs/2312.17100)|Arxiv 2023|TSPP: A Unified Benchmarking Tool for Time-series Forecasting|[TSPP](https://github.com/NVIDIA/DeepLearningExamples)
 24-01-05|[Diffusion](https://arxiv.org/abs/2401.03006)|Arxiv 2024|The Rise of Diffusion Models in Time-Series Forecasting|None
 24-02-15|[LLM](https://arxiv.org/abs/2402.10350)|Arxiv 2024|Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review|None
+24-03-29|[TFB](https://arxiv.org/abs/2403.20150)|VLDB 2024|TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods|[TFB](https://github.com/decisionintelligence/TFB)
 
 ## Transformer.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -225,6 +228,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-02-18 | [Attraos](https://arxiv.org/abs/2402.11463) | Arxiv 2024 | Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective | None |
 | 24-03-14 | [TimeMachine](https://arxiv.org/abs/2403.09898) | Arxiv 2024 | TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting | None |
 | 24-03-17 | [S-D-Mamba](https://arxiv.org/abs/2403.11144) | Arxiv 2024 | Is Mamba Effective for Time Series Forecasting? | [S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba) |
+| 24-03-29 | [TSM2](https://arxiv.org/abs/2403.19888) | Arxiv 2024 | MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection | [M2](https://github.com/MambaMixer/M2) |
 
 
 ## Generation Model.
