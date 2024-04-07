@@ -291,6 +291,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-20 | [Leddam](https://arxiv.org/abs/2402.12694) | Arxiv 2024 | Revitalizing Multivariate Time Series Forecasting: Learnable Decomposition with Inter-Series Dependencies and Intra-Series Variations Modeling | None |
 | 24-03-01 | [InfoTime](https://arxiv.org/abs/2403.00869) | Arxiv 2024 | Enhancing Multivariate Time Series Forecasting with Mutual Information-driven Cross-Variable and Temporal Modeling | None |
 | 24-03-13 | [wavelet-ML](https://arxiv.org/abs/2403.08630) | Arxiv 2024 | Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting | None |
+| 24-03-31 | [CCM](https://arxiv.org/abs/2404.01340) | Arxiv 2024 | From Similarity to Superiority: Channel Clustering for Time Series Forecasting | None |
 
 
 ## LLM (Large Language Model).
