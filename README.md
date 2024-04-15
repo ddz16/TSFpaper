@@ -26,6 +26,17 @@ Each paper may apply to one or several types of forecasting, including univariat
 
 🚩 2024/4/1: **Some researchers have introduced the recently popular [Mamba](https://arxiv.org/abs/2312.00752) model into the field of time series forecasting, which can be found in the SSM (State Space Model) table.**
 
+🚩 2024/4/15: **I have added a statistics table that can display the number of papers included in the repository.**
+
+
+### Number of Papers.
+<!-- START_TABLE -->
+| Category | Number of papers |
+|------------|----------------|
+Survey & Benchmark | 10 |
+<!-- END_TABLE -->
+
+
 ## Survey & Benchmark.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
