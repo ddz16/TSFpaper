@@ -319,6 +319,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-09 | [S2IP-LLM](https://arxiv.org/abs/2403.05798) | Arxiv 2024 | S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting | None |
 | 24-03-12 | [LLaTA](https://arxiv.org/abs/2403.07300) | Arxiv 2024 | Taming Pre-trained LLMs for Generalised Time Series Forecasting via Cross-modal Knowledge Distillation | [LLaTA](https://github.com/Hank0626/LLaTA) |
 | 24-03-12 | [Chronos](https://arxiv.org/abs/2403.07815) 🌟 | Arxiv 2024 | Chronos: Learning the Language of Time Series | [Chronos](https://github.com/amazon-science/chronos-forecasting) |
+| 24-04-17 | [TSandLanguage](https://arxiv.org/abs/2404.11757) | Arxiv 2024 | Language Models Still Struggle to Zero-shot Reason about Time Series | [TSandLanguage](https://github.com/behavioral-data/TSandLanguage) |
 
 
 ## Pretrain & Representation.
