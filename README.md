@@ -171,7 +171,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-02-20 | [IDEA](https://arxiv.org/abs/2402.12767) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | When and How: Learning Identifiable Latent States for Nonstationary Time Series Forecasting | None |
 | 24-03-04 | [CATS](https://arxiv.org/abs/2403.01673) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables | None |
 | 24-03-21 | [OLS](https://arxiv.org/abs/2403.14587) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | An Analysis of Linear Time Series Forecasting Models | None |
-
+| 24-04-22 | [SOFTS](https://arxiv.org/abs/2404.14197) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion | [SOFTS](https://github.com/secilia-cxy/softs) |
 
 
 ## TCN/CNN.
