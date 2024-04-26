@@ -45,6 +45,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-02-15|[LLM](https://arxiv.org/abs/2402.10350)|Arxiv 2024|Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review|None
 24-03-21|[FM](https://arxiv.org/abs/2403.14735)|Arxiv 2024|Foundation Models for Time Series Analysis: A Tutorial and Survey| None
 24-03-29|[TFB](https://arxiv.org/abs/2403.20150)|VLDB 2024|TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods|[TFB](https://github.com/decisionintelligence/TFB)
+24-04-24|[Mamba-360](https://arxiv.org/abs/2404.16112)|Arxiv 2024|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges|[Mamba-360](https://github.com/badripatro/mamba360)
+
 
 ## Transformer.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -232,6 +234,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-03-14 | [TimeMachine](https://arxiv.org/abs/2403.09898) | Arxiv 2024 | TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting | None |
 | 24-03-17 | [S-D-Mamba](https://arxiv.org/abs/2403.11144) | Arxiv 2024 | Is Mamba Effective for Time Series Forecasting? | [S-D-Mamba](https://github.com/wzhwzhwzh0921/S-D-Mamba) |
 | 24-03-29 | [TSM2](https://arxiv.org/abs/2403.19888) | Arxiv 2024 | MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection | [M2](https://github.com/MambaMixer/M2) |
+| 24-04-23 | [Mambaformer](https://arxiv.org/abs/2404.14757) | Arxiv 2024 | Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting | [Mambaformer](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series) |
+| 24-04-24 | [Bi-Mamba4TS](https://arxiv.org/abs/2404.15772) | Arxiv 2024 | Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting | None |
 
 
 ## Generation Model.
