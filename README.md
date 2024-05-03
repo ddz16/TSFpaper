@@ -46,6 +46,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-03-21|[FM](https://arxiv.org/abs/2403.14735)|Arxiv 2024|Foundation Models for Time Series Analysis: A Tutorial and Survey| None
 24-03-29|[TFB](https://arxiv.org/abs/2403.20150)|VLDB 2024|TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods|[TFB](https://github.com/decisionintelligence/TFB)
 24-04-24|[Mamba-360](https://arxiv.org/abs/2404.16112)|Arxiv 2024|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges|[Mamba-360](https://github.com/badripatro/mamba360)
+24-04-29|[Diffusion](https://arxiv.org/abs/2404.18886)|Arxiv 2024|A Survey on Diffusion Models for Time Series and Spatio-Temporal Data|[PaperList](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
 
 ## Transformer.
@@ -174,6 +175,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-03-04 | [CATS](https://arxiv.org/abs/2403.01673) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables | None |
 | 24-03-21 | [OLS](https://arxiv.org/abs/2403.14587) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | An Analysis of Linear Time Series Forecasting Models | None |
 | 24-04-22 | [SOFTS](https://arxiv.org/abs/2404.14197) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion | [SOFTS](https://github.com/secilia-cxy/softs) |
+| 24-05-02 | [SparseTSF](https://arxiv.org/abs/2405.00946) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICML 2024 | SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters | [SparseTSF](https://github.com/lss-1138/SparseTSF) |
 
 
 ## TCN/CNN.
@@ -217,7 +219,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 23-12-27 | [FCDNet](https://arxiv.org/abs/2312.16450) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2023 | FCDNet: Frequency-Guided Complementary Dependency Modeling for Multivariate Time-Series Forecasting | [FCDNet](https://github.com/oncecwj/fcdnet) |
 | 23-12-31 | [MSGNet](https://arxiv.org/abs/2401.00423) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting | [MSGNet](https://github.com/YoZhibo/MSGNet) |
 | 24-01-15 | [RGDAN](https://www.sciencedirect.com/science/article/abs/pii/S0893608023007542?via%3Dihub) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | NN 2024 | RGDAN: A random graph diffusion attention network for traffic prediction | [RGDAN](https://github.com/wengwenchao123/RGDAN) |
-| 24-01-16 | [BiaTCGNet](https://openreview.net/forum?id=O9nZCwdGcG) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICLR 2024 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values | [BiaTCGNet](https://anonymous.4open.science/r/BiaTCGNet-1F80/) |
+| 24-01-16 | [BiTGraph](https://openreview.net/forum?id=O9nZCwdGcG) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICLR 2024 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values | [BiTGraph](https://github.com/chenxiaodanhit/BiTGraph) |
 | 24-01-24 | [TMP](https://arxiv.org/abs/2401.13157) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | AAAI 2024 | Time-Aware Knowledge Representations of Dynamic Objects with Multidimensional Persistence | None |
 | 24-02-16 | [HD-TTS](https://arxiv.org/abs/2402.10634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | None |
 
