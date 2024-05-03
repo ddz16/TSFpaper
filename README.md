@@ -117,7 +117,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-03-13 | [Caformer](https://arxiv.org/abs/2403.08572)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Caformer: Rethinking Time Series Analysis from Causal Perspective | None
 24-03-14 | [MCformer](https://arxiv.org/abs/2403.09223)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | MCformer: Multivariate Time Series Forecasting with Mixed-Channels Transformer | None
 24-04-08 | [ATFNet](https://arxiv.org/abs/2404.05192)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting | [ATFNet](https://github.com/YHYHYHYHYHY/ATFNet)
-24-04-12 | [TSLANet](https://arxiv.org/abs/2404.08472)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | TSLANet: Rethinking Transformers for Time Series Representation Learning | [TSLANet](https://github.com/emadeldeen24/TSLANet)
+24-04-12 | [TSLANet](https://arxiv.org/abs/2404.08472)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICML 2024 | TSLANet: Rethinking Transformers for Time Series Representation Learning | [TSLANet](https://github.com/emadeldeen24/TSLANet)
 24-04-16 | [T2B-PE](https://arxiv.org/abs/2404.10337)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Intriguing Properties of Positional Encoding in Time Series Forecasting | [T2B-PE](https://github.com/jlu-phyComputer/T2B-PE)
 
 ## RNN.
