@@ -314,7 +314,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-10-03 | [Time-LLM](https://arxiv.org/abs/2310.01728) | ICLR 2024 | [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://zhuanlan.zhihu.com/p/676256783) | None |
 | 23-10-08 | [TEMPO](https://arxiv.org/abs/2310.04948) | ICLR 2024 | TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting | None |
 | 23-10-12 | [Lag-Llama](https://arxiv.org/abs/2310.08278) | Arxiv 2023 | Lag-Llama: Towards Foundation Models for Time Series Forecasting | [Lag-Llama](https://github.com/kashif/pytorch-transformer-ts) |
-| 23-10-15 | [UniTime](https://arxiv.org/abs/2310.09751) | Arxiv 2023 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting | None |
+| 23-10-15 | [UniTime](https://arxiv.org/abs/2310.09751) | WWW 2024 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting | [UniTime](https://github.com/liuxu77/UniTime) |
 | 23-11-03 | [ForecastPFN](https://arxiv.org/abs/2311.01933) | NIPS 2023 | ForecastPFN: Synthetically-Trained Zero-Shot Forecasting | [ForecastPFN](https://github.com/abacusai/forecastpfn) |
 | 23-11-24 | [FPT++](https://arxiv.org/abs/2311.14782) 🌟 | Arxiv 2023 | One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors | [GPT4TS_Adapter](https://github.com/PSacfc/GPT4TS_Adapter) |
 | 24-01-18 | [ST-LLM](https://arxiv.org/abs/2401.10134) | Arxiv 2024 | Spatial-Temporal Large Language Model for Traffic Prediction | None |
