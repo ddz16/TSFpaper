@@ -342,7 +342,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
 | 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
 | 23-12-25 | [TimesURL](https://arxiv.org/abs/2312.15709) | AAAI 2024 | TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning | None |
-| 24-01-08 | [TTMs](https://arxiv.org/abs/2401.03955) | Arxiv 2024 | TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series | None |
+| 24-01-08 | [TTMs](https://arxiv.org/abs/2401.03955) | Arxiv 2024 | Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series | [TTMs](https://huggingface.co/ibm-granite/granite-timeseries-ttm-v1) |
 | 24-01-16 | [SoftCLT](https://openreview.net/forum?id=pAsQSWlDUf) | ICLR 2024 | Soft Contrastive Learning for Time Series | None |
 | 24-01-16 | [PITS](https://openreview.net/forum?id=WS7GuBDFa2) | ICLR 2024 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
 | 24-01-16 | [T-Rep](https://openreview.net/forum?id=3y2TfP966N) | ICLR 2024 | T-Rep: Representation Learning for Time Series using Time-Embeddings | None |
