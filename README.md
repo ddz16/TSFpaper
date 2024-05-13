@@ -257,7 +257,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 23-06-08 | [TimeDiff](https://arxiv.org/abs/2306.05043)🌟 | ICML 2023 | Non-autoregressive Conditional Diffusion Models for Time Series Prediction | None |
 | 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | NIPS 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | [TSDiff](https://github.com/amazon-science/unconditional-time-series-diffusion) |
 | 24-01-16 | [FTS-Diffusion](https://openreview.net/forum?id=CdjnzWsQax) | ICLR 2024 | Generative Learning for Financial Time Series with Irregular and Scale-Invariant Patterns | None |
-| 24-01-16 | [MG-TSD](https://openreview.net/forum?id=CZiY6OLktd) | ICLR 2024 | MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process | None |
+| 24-01-16 | [MG-TSD](https://openreview.net/forum?id=CZiY6OLktd) | ICLR 2024 | MG-TSD: Multi-Granularity Time Series Diffusion Models with Guided Learning Process | [MG-TSD](https://github.com/Hundredl/MG-TSD) |
 | 24-01-16 | [TMDM](https://openreview.net/forum?id=qae04YACHs) | ICLR 2024 | Transformer-Modulated Diffusion Models for Probabilistic Multivariate Time Series Forecasting | None |
 | 24-01-16 | [mr-Diff](https://openreview.net/forum?id=mmjnr0G8ZY) | ICLR 2024 | Multi-Resolution Diffusion Models for Time Series Forecasting | None |
 | 24-01-16 | [Diffusion-TS](https://openreview.net/forum?id=4h1apFjO99) | ICLR 2024 | Diffusion-TS: Interpretable Diffusion for General Time Series Generation | [Diffusion-TS](https://github.com/Y-debug-sys/Diffusion-TS) | 
