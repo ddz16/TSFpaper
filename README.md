@@ -263,6 +263,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-01-16 | [Diffusion-TS](https://openreview.net/forum?id=4h1apFjO99) | ICLR 2024 | Diffusion-TS: Interpretable Diffusion for General Time Series Generation | [Diffusion-TS](https://github.com/Y-debug-sys/Diffusion-TS) | 
 | 24-01-16 | [SpecSTG](https://arxiv.org/abs/2401.08119) | Arxiv 2024 | SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting | [SpecSTG](https://anonymous.4open.science/r/SpecSTG) | 
 | 24-01-30 | [IN-Flow](https://arxiv.org/abs/2401.16777) | Arxiv 2024 | Addressing Distribution Shift in Time Series Forecasting with Instance Normalization Flows | None | 
+| 24-03-24 | [LDT](https://ojs.aaai.org/index.php/AAAI/article/view/29085) | AAAI 2024 | Latent Diffusion Transformer for Probabilistic Time Series Forecasting | None | 
 
 
 ## Time-index.
