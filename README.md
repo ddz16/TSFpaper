@@ -178,6 +178,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-03-24 | [HDMixer](https://ojs.aaai.org/index.php/AAAI/article/view/29155) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2024 | HDMixer: Hierarchical Dependency with Extendable Patch for Multivariate Time Series Forecasting | [HDMixer](https://github.com/hqh0728/HDMixer) |
 | 24-04-22 | [SOFTS](https://arxiv.org/abs/2404.14197) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion | [SOFTS](https://github.com/secilia-cxy/softs) |
 | 24-05-02 | [SparseTSF](https://arxiv.org/abs/2405.00946) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICML 2024 | SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters | [SparseTSF](https://github.com/lss-1138/SparseTSF) |
+| 24-05-10 | [TEFN](https://arxiv.org/abs/2405.06419) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting | [TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network) |
 
 
 ## TCN/CNN.
