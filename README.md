@@ -405,3 +405,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-02-02 | [SNN](https://arxiv.org/abs/2402.01533) | ICML 2024 | Efficient and Effective Time-Series Forecasting with Spiking Neural Networks | None  |
 | 24-03-12 | [BayesNF](https://arxiv.org/abs/2403.07657) | Arxiv 2024 | Scalable Spatiotemporal Prediction with Bayesian Neural Fields | [BayesNF](https://github.com/google/bayesnf)  |
 | 24-05-16 | [LaT-PFN](https://arxiv.org/abs/2405.10093) | Arxiv 2024 | LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting | None |
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ddz16/TSFpaper&type=Date)](https://star-history.com/#ddz16/TSFpaper&Date)
