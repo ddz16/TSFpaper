@@ -120,6 +120,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-04-08 | [ATFNet](https://arxiv.org/abs/2404.05192)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting | [ATFNet](https://github.com/YHYHYHYHYHY/ATFNet)
 24-04-12 | [TSLANet](https://arxiv.org/abs/2404.08472)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICML 2024 | TSLANet: Rethinking Transformers for Time Series Representation Learning | [TSLANet](https://github.com/emadeldeen24/TSLANet)
 24-04-16 | [T2B-PE](https://arxiv.org/abs/2404.10337)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Intriguing Properties of Positional Encoding in Time Series Forecasting | [T2B-PE](https://github.com/jlu-phyComputer/T2B-PE)
+24-05-14 | [DGCformer](https://arxiv.org/abs/2405.08440)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | DGCformer: Deep Graph Clustering Transformer for Multivariate Time Series Forecasting | None
+
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -226,6 +228,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-01-16 | [BiTGraph](https://openreview.net/forum?id=O9nZCwdGcG) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICLR 2024 | Biased Temporal Convolution Graph Network for Time Series Forecasting with Missing Values | [BiTGraph](https://github.com/chenxiaodanhit/BiTGraph) |
 | 24-01-24 | [TMP](https://arxiv.org/abs/2401.13157) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | AAAI 2024 | Time-Aware Knowledge Representations of Dynamic Objects with Multidimensional Persistence | None |
 | 24-02-16 | [HD-TTS](https://arxiv.org/abs/2402.10634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICML 2024 | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | None |
+| 24-05-17 | [HimNet](https://arxiv.org/abs/2405.10800) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | KDD 2024 | Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting | [HimNet](https://github.com/XDZhelheim/HimNet) |
 
 
 ## SSM (State Space Model).
@@ -242,6 +245,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-03-29 | [TSM2](https://arxiv.org/abs/2403.19888) | Arxiv 2024 | MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection | [M2](https://github.com/MambaMixer/M2) |
 | 24-04-23 | [Mambaformer](https://arxiv.org/abs/2404.14757) | Arxiv 2024 | Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting | [Mambaformer](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series) |
 | 24-04-24 | [Bi-Mamba4TS](https://arxiv.org/abs/2404.15772) | Arxiv 2024 | Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting | None |
+| 24-05-11 | [DTMamba](https://arxiv.org/abs/2405.07022) | Arxiv 2024 | DTMamba: Dual Twin Mamba for Time Series Forecasting | None |
 
 
 ## Generation Model.
@@ -365,6 +369,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | Arxiv 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
 | 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | Arxiv 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | None |
 | 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | Arxiv 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
+| 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
 
 
 ## Domain Adaptation.
@@ -399,3 +404,4 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-01-16 | [STanHop-Net](https://openreview.net/forum?id=6iwg437CZs) | ICLR 2024 | STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction | None  |
 | 24-02-02 | [SNN](https://arxiv.org/abs/2402.01533) | ICML 2024 | Efficient and Effective Time-Series Forecasting with Spiking Neural Networks | None  |
 | 24-03-12 | [BayesNF](https://arxiv.org/abs/2403.07657) | Arxiv 2024 | Scalable Spatiotemporal Prediction with Bayesian Neural Fields | [BayesNF](https://github.com/google/bayesnf)  |
+| 24-05-16 | [LaT-PFN](https://arxiv.org/abs/2405.10093) | Arxiv 2024 | LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting | None |
