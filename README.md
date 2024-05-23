@@ -186,7 +186,6 @@ Date     | Method                                        |Type| Conference | Pap
 ## TCN/CNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
-
 | 19-05-09 | [DeepGLO](https://arxiv.org/abs/1905.03806)🌟 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2019 | Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting| [deepglo](https://github.com/rajatsen91/deepglo)         |    
 | 19-05-22 | [DSANet](https://dl.acm.org/doi/abs/10.1145/3357384.3358132) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2019 | DSANet: Dual Self-Attention Network for Multivariate Time Series Forecasting | [DSANet](https://github.com/bighuang624/DSANet)         |    
 | 19-12-11 | [MLCNN](https://arxiv.org/abs/1912.05122) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2020 | Towards Better Forecasting by Fusing Near and Distant Future Visions | [MLCNN](https://github.com/smallGum/MLCNN-Multivariate-Time-Series)         |   
