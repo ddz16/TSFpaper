@@ -202,7 +202,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-11-27 | [ModernTCN](https://openreview.net/forum?id=vpJMJerXHU)🌟 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://zhuanlan.zhihu.com/p/668946041) | [ModernTCN](https://github.com/luodhhh/ModernTCN) |
 | 23-11-27 | [UniRepLKNet](https://arxiv.org/abs/2311.15599) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition | [UniRepLKNet](https://github.com/ailab-cvc/unireplknet) |
 | 24-03-03 | [ConvTimeNet](https://arxiv.org/abs/2403.01493) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis | [ConvTimeNet](https://github.com/Mingyue-Cheng/ConvTimeNet) |
-| 24-05-20 | [ATVCNet](https://arxiv.org/pdf/2405.12038) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| ATVCNet: Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting |  None  |
+| 24-05-20 | [ATVCNet](https://arxiv.org/abs/2405.12038) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| ATVCNet: Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting |  None  |
 
 
 ## GNN.
