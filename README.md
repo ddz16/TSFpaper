@@ -123,6 +123,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-05-14 | [DGCformer](https://arxiv.org/abs/2405.08440)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | DGCformer: Deep Graph Clustering Transformer for Multivariate Time Series Forecasting | None
 24-05-19 | [VCformer](https://arxiv.org/abs/2405.11470)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting | [VCformer](https://github.com/CSyyn/VCformer)
 24-05-22 | [GridTST](https://arxiv.org/abs/2405.13810)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Leveraging 2D Information for Long-term Time Series Forecasting with Vanilla Transformers | [GridTST](https://github.com/Hannibal046/GridTST)
+24-05-23 | [ICTSP](https://arxiv.org/abs/2405.14982)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | In-context Time Series Predictor | None
 24-05-27 | [CATS](https://arxiv.org/abs/2405.16877)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Are Self-Attentions Effective for Time Series Forecasting? | None
 
 
@@ -348,6 +349,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-12 | [LLaTA](https://arxiv.org/abs/2403.07300) | Arxiv 2024 | Taming Pre-trained LLMs for Generalised Time Series Forecasting via Cross-modal Knowledge Distillation | [LLaTA](https://github.com/Hank0626/LLaTA) |
 | 24-03-12 | [Chronos](https://arxiv.org/abs/2403.07815) 🌟 | Arxiv 2024 | Chronos: Learning the Language of Time Series | [Chronos](https://github.com/amazon-science/chronos-forecasting) |
 | 24-04-17 | [TSandLanguage](https://arxiv.org/abs/2404.11757) | Arxiv 2024 | Language Models Still Struggle to Zero-shot Reason about Time Series | [TSandLanguage](https://github.com/behavioral-data/TSandLanguage) |
+| 24-05-22 | [TGForecaster](https://arxiv.org/abs/2405.13522) | Arxiv 2024 | Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues | [tgtsf](https://github.com/vewoxic/tgtsf) |
 | 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | Arxiv 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
 
 
