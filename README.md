@@ -121,6 +121,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-04-12 | [TSLANet](https://arxiv.org/abs/2404.08472)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICML 2024 | TSLANet: Rethinking Transformers for Time Series Representation Learning | [TSLANet](https://github.com/emadeldeen24/TSLANet)
 24-04-16 | [T2B-PE](https://arxiv.org/abs/2404.10337)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Intriguing Properties of Positional Encoding in Time Series Forecasting | [T2B-PE](https://github.com/jlu-phyComputer/T2B-PE)
 24-05-14 | [DGCformer](https://arxiv.org/abs/2405.08440)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | DGCformer: Deep Graph Clustering Transformer for Multivariate Time Series Forecasting | None
+24-05-19 | [VCformer](https://arxiv.org/abs/2405.11470)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting | [VCformer](https://github.com/CSyyn/VCformer)
+24-05-22 | [GridTST](https://arxiv.org/abs/2405.13810)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Leveraging 2D Information for Long-term Time Series Forecasting with Vanilla Transformers | [GridTST](https://github.com/Hannibal046/GridTST)
 24-05-27 | [CATS](https://arxiv.org/abs/2405.16877)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Are Self-Attentions Effective for Time Series Forecasting? | None
 
 
@@ -182,7 +184,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-04-22 | [SOFTS](https://arxiv.org/abs/2404.14197) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion | [SOFTS](https://github.com/secilia-cxy/softs) |
 | 24-05-02 | [SparseTSF](https://arxiv.org/abs/2405.00946) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICML 2024 | SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters | [SparseTSF](https://github.com/lss-1138/SparseTSF) |
 | 24-05-10 | [TEFN](https://arxiv.org/abs/2405.06419) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting | [TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network) |
-
+| 24-05-22 | [PDMLP](https://arxiv.org/abs/2405.13575) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PDMLP: Patch-based Decomposed MLP for Long-Term Time Series Forecasting | None |
 
 ## TCN/CNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -204,6 +206,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-11-27 | [UniRepLKNet](https://arxiv.org/abs/2311.15599) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition | [UniRepLKNet](https://github.com/ailab-cvc/unireplknet) |
 | 24-03-03 | [ConvTimeNet](https://arxiv.org/abs/2403.01493) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis | [ConvTimeNet](https://github.com/Mingyue-Cheng/ConvTimeNet) |
 | 24-05-20 | [ATVCNet](https://arxiv.org/abs/2405.12038) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| ATVCNet: Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting |  None  |
+| 24-05-24 | [FTMixer](https://arxiv.org/abs/2405.15256) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| FTMixer: Frequency and Time Domain Representations Fusion for Time Series Modeling | [FTMixer](https://github.com/FMLYD/FTMixer)  |
 
 
 ## GNN.
@@ -345,6 +348,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-12 | [LLaTA](https://arxiv.org/abs/2403.07300) | Arxiv 2024 | Taming Pre-trained LLMs for Generalised Time Series Forecasting via Cross-modal Knowledge Distillation | [LLaTA](https://github.com/Hank0626/LLaTA) |
 | 24-03-12 | [Chronos](https://arxiv.org/abs/2403.07815) 🌟 | Arxiv 2024 | Chronos: Learning the Language of Time Series | [Chronos](https://github.com/amazon-science/chronos-forecasting) |
 | 24-04-17 | [TSandLanguage](https://arxiv.org/abs/2404.11757) | Arxiv 2024 | Language Models Still Struggle to Zero-shot Reason about Time Series | [TSandLanguage](https://github.com/behavioral-data/TSandLanguage) |
+| 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | Arxiv 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
 
 
 ## Pretrain & Representation.
@@ -377,6 +381,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | Arxiv 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | None |
 | 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | Arxiv 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
 | 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
+| 24-05-24 | [NuwaTS](https://arxiv.org/abs/2405.15317) | Arxiv 2024 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series | [NuwaTS](https://github.com/Chengyui/NuwaTS) |
 | 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 
@@ -414,7 +419,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-02-02 | [SNN](https://arxiv.org/abs/2402.01533) | ICML 2024 | Efficient and Effective Time-Series Forecasting with Spiking Neural Networks | None  |
 | 24-03-12 | [BayesNF](https://arxiv.org/abs/2403.07657) | Arxiv 2024 | Scalable Spatiotemporal Prediction with Bayesian Neural Fields | [BayesNF](https://github.com/google/bayesnf)  |
 | 24-05-16 | [LaT-PFN](https://arxiv.org/abs/2405.10093) | Arxiv 2024 | LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting | None |
-
+| 24-05-24 | [ScalingLaw](https://arxiv.org/abs/2405.15124) | Arxiv 2024 | Scaling Law for Time Series Forecasting | [ScalingLaw](https://github.com/JingzheShi/ScalingLawForTimeSeriesForecasting) |
 
 ## Star History
 
