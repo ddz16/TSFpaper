@@ -249,6 +249,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-04-23 | [Mambaformer](https://arxiv.org/abs/2404.14757) | Arxiv 2024 | Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting | [Mambaformer](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series) |
 | 24-04-24 | [Bi-Mamba4TS](https://arxiv.org/abs/2404.15772) | Arxiv 2024 | Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting | None |
 | 24-05-11 | [DTMamba](https://arxiv.org/abs/2405.07022) | Arxiv 2024 | DTMamba: Dual Twin Mamba for Time Series Forecasting | None |
+| 24-05-25 | [Time-SSM](https://arxiv.org/abs/2405.16312) | Arxiv 2024 | Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting | None |
+| 24-05-26 | [MambaTS](https://arxiv.org/abs/2405.16440) | Arxiv 2024 | MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting | None |
 
 
 ## Generation Model.
@@ -313,7 +315,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-01 | [InfoTime](https://arxiv.org/abs/2403.00869) | Arxiv 2024 | Enhancing Multivariate Time Series Forecasting with Mutual Information-driven Cross-Variable and Temporal Modeling | None |
 | 24-03-13 | [wavelet-ML](https://arxiv.org/abs/2403.08630) | Arxiv 2024 | Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting | None |
 | 24-03-31 | [CCM](https://arxiv.org/abs/2404.01340) | Arxiv 2024 | From Similarity to Superiority: Channel Clustering for Time Series Forecasting | None |
+| 24-05-24 | [UnitNorm](https://arxiv.org/abs/2405.15903) | Arxiv 2024 | UnitNorm: Rethinking Normalization for Transformers in Time Series | [UnitNorm](https://anonymous.4open.science/r/UnitNorm-5B84) |
 | 24-05-29 | [HCAN](https://arxiv.org/abs/2405.18975) | Arxiv 2024 | Hierarchical Classification Auxiliary Network for Time Series Forecasting | [HCAN](https://github.com/syrGitHub/HCAN) |
+
 
 
 ## LLM (Large Language Model).
