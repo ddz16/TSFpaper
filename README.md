@@ -121,6 +121,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-04-12 | [TSLANet](https://arxiv.org/abs/2404.08472)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICML 2024 | TSLANet: Rethinking Transformers for Time Series Representation Learning | [TSLANet](https://github.com/emadeldeen24/TSLANet)
 24-04-16 | [T2B-PE](https://arxiv.org/abs/2404.10337)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Intriguing Properties of Positional Encoding in Time Series Forecasting | [T2B-PE](https://github.com/jlu-phyComputer/T2B-PE)
 24-05-14 | [DGCformer](https://arxiv.org/abs/2405.08440)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | DGCformer: Deep Graph Clustering Transformer for Multivariate Time Series Forecasting | None
+24-05-27 | [CATS](https://arxiv.org/abs/2405.16877)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Are Self-Attentions Effective for Time Series Forecasting? | None
 
 
 ## RNN.
@@ -230,6 +231,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-01-24 | [TMP](https://arxiv.org/abs/2401.13157) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | AAAI 2024 | Time-Aware Knowledge Representations of Dynamic Objects with Multidimensional Persistence | None |
 | 24-02-16 | [HD-TTS](https://arxiv.org/abs/2402.10634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICML 2024 | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | None |
 | 24-05-17 | [HimNet](https://arxiv.org/abs/2405.10800) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | KDD 2024 | Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting | [HimNet](https://github.com/XDZhelheim/HimNet) |
+| 24-05-28 | [GFC-GNN](https://arxiv.org/abs/2405.18036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks | None |
 
 
 ## SSM (State Space Model).
@@ -311,7 +313,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-01 | [InfoTime](https://arxiv.org/abs/2403.00869) | Arxiv 2024 | Enhancing Multivariate Time Series Forecasting with Mutual Information-driven Cross-Variable and Temporal Modeling | None |
 | 24-03-13 | [wavelet-ML](https://arxiv.org/abs/2403.08630) | Arxiv 2024 | Leveraging Non-Decimated Wavelet Packet Features and Transformer Models for Time Series Forecasting | None |
 | 24-03-31 | [CCM](https://arxiv.org/abs/2404.01340) | Arxiv 2024 | From Similarity to Superiority: Channel Clustering for Time Series Forecasting | None |
-
+| 24-05-29 | [HCAN](https://arxiv.org/abs/2405.18975) | Arxiv 2024 | Hierarchical Classification Auxiliary Network for Time Series Forecasting | [HCAN](https://github.com/syrGitHub/HCAN) |
 
 
 ## LLM (Large Language Model).
@@ -371,6 +373,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | Arxiv 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | None |
 | 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | Arxiv 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
 | 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
+| 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
+| 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 
 
 ## Domain Adaptation.
