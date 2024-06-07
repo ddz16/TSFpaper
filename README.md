@@ -32,10 +32,10 @@ Each paper may apply to one or several types of forecasting, including univariat
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
 15-11-23|[Multi-step](https://ieeexplore.ieee.org/abstract/document/7422387)|ACOMP 2015|Comparison of Strategies for Multi-step-Ahead Prediction of Time Series Using Neural Network|None
-19-06-20|[DL](https://ieeexplore.ieee.org/abstract/document/8742529)| SENSJ 2019|A Review of Deep Learning Models for Time Series Prediction|None
-20-09-27|[DL](https://arxiv.org/abs/2004.13408)|Arxiv 2020|Time Series Forecasting With Deep Learning: A Survey|None
-22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)|IJCAI 2023|Transformers in Time Series: A Survey|[PaperList](https://github.com/qingsongedu/time-series-transformers-review)
-23-03-25|[STGNN](https://arxiv.org/abs/2303.14483)|Arxiv 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
+19-06-20|[DL](https://ieeexplore.ieee.org/abstract/document/8742529) 🔥 | SENSJ 2019|A Review of Deep Learning Models for Time Series Prediction|None
+20-09-27|[DL](https://arxiv.org/abs/2004.13408) 🔥 |Arxiv 2020|Time Series Forecasting With Deep Learning: A Survey|None
+22-02-15|[Transformer](https://arxiv.org/abs/2202.07125) 🔥 |IJCAI 2023|Transformers in Time Series: A Survey|[PaperList](https://github.com/qingsongedu/time-series-transformers-review)
+23-03-25|[STGNN](https://arxiv.org/abs/2303.14483) 🔥 |TKDE 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
 23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
 23-06-16|[SSL](https://arxiv.org/abs/2306.10125)|TPAMI 2024|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
 23-06-20|[OpenSTL](https://arxiv.org/abs/2306.11249)|NIPS 2023|OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning|[Benchmark](https://github.com/chengtan9907/OpenSTL)
