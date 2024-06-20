@@ -128,6 +128,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-05-23 | [ICTSP](https://arxiv.org/abs/2405.14982)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | In-context Time Series Predictor | None
 24-05-27 | [CATS](https://arxiv.org/abs/2405.16877)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Are Self-Attentions Effective for Time Series Forecasting? | None
 24-06-06 | [TwinS](https://arxiv.org/abs/2406.03710)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TwinS: Revisiting Non-Stationarity in Multivariate Time Series Forecasting | None
+24-06-07 | [UniTST](https://arxiv.org/abs/2406.04975)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting | None
 
 
 ## RNN.
@@ -263,6 +264,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-05-25 | [Time-SSM](https://arxiv.org/abs/2405.16312) | Arxiv 2024 | Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting | None |
 | 24-05-26 | [MambaTS](https://arxiv.org/abs/2405.16440) | Arxiv 2024 | MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting | None |
 | 24-06-06 | [Chimera](https://arxiv.org/abs/2406.04320) | Arxiv 2024 | Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | None |
+| 24-06-08 | [C-Mamba](https://arxiv.org/abs/2406.05316) | Arxiv 2024 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | None |
 
 
 ## Generation Model.
@@ -331,7 +333,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-31 | [CCM](https://arxiv.org/abs/2404.01340) | Arxiv 2024 | From Similarity to Superiority: Channel Clustering for Time Series Forecasting | None |
 | 24-05-24 | [UnitNorm](https://arxiv.org/abs/2405.15903) | Arxiv 2024 | UnitNorm: Rethinking Normalization for Transformers in Time Series | [UnitNorm](https://anonymous.4open.science/r/UnitNorm-5B84) |
 | 24-05-29 | [HCAN](https://arxiv.org/abs/2405.18975) | Arxiv 2024 | Hierarchical Classification Auxiliary Network for Time Series Forecasting | [HCAN](https://github.com/syrGitHub/HCAN) |
-
+| 24-06-07 | [TDT](https://arxiv.org/abs/2406.04777) | Arxiv 2024 | TDT Loss Takes It All: Integrating Temporal Dependencies among Targets into Non-Autoregressive Time Series Forecasting | None |
 
 
 ## LLM (Large Language Model).
@@ -362,6 +364,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-22 | [TGForecaster](https://arxiv.org/abs/2405.13522) | Arxiv 2024 | Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues | [tgtsf](https://github.com/vewoxic/tgtsf) |
 | 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | Arxiv 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
 | 24-06-03 | [TimeCMA](https://arxiv.org/abs/2406.01638) | Arxiv 2024 | TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment | None |
+| 24-06-07 | [LMGF](https://arxiv.org/abs/2406.05249) | Arxiv 2024 | A Language Model-Guided Framework for Mining Time Series with Distributional Shifts | None |
 
 
 ## Pretrain & Representation.
@@ -435,6 +438,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-05-16 | [LaT-PFN](https://arxiv.org/abs/2405.10093) | Arxiv 2024 | LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting | None |
 | 24-05-24 | [ScalingLaw](https://arxiv.org/abs/2405.15124) | Arxiv 2024 | Scaling Law for Time Series Forecasting | [ScalingLaw](https://github.com/JingzheShi/ScalingLawForTimeSeriesForecasting) |
 | 24-06-04 | [CondTSF](https://arxiv.org/abs/2406.02131) | Arxiv 2024 | CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting | None |
+| 24-06-14 | [MTL](https://arxiv.org/abs/2406.10327) | Arxiv 2024 | Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting | None |
 
 
 ## Star History
