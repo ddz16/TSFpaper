@@ -129,7 +129,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-05-27 | [CATS](https://arxiv.org/abs/2405.16877)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Are Self-Attentions Effective for Time Series Forecasting? | None
 24-06-06 | [TwinS](https://arxiv.org/abs/2406.03710)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TwinS: Revisiting Non-Stationarity in Multivariate Time Series Forecasting | None
 24-06-07 | [UniTST](https://arxiv.org/abs/2406.04975)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting | None
-
+24-06-11 | [DeformTime](https://arxiv.org/abs/2406.07438)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting | [DeformTime](https://github.com/ClaudiaShu/DeformTime)
+24-06-13 | [Fredformer](https://arxiv.org/abs/2406.09009)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2024 | Fredformer: Frequency Debiased Transformer for Time Series Forecasting | [Fredformer](https://github.com/chenzrg/fredformer)
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -192,6 +193,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-05-10 | [TEFN](https://arxiv.org/abs/2405.06419) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting | [TEFN](https://github.com/ztxtech/Time-Evidence-Fusion-Network) |
 | 24-05-22 | [PDMLP](https://arxiv.org/abs/2405.13575) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PDMLP: Patch-based Decomposed MLP for Long-Term Time Series Forecasting | None |
 | 24-06-06 | [AMD](https://arxiv.org/abs/2406.03751) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting | [AMD](https://github.com/TROUBADOUR000/AMD) |
+| 24-06-07 | [TimeSieve](https://arxiv.org/abs/2406.05036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks | [TimeSieve](https://github.com/xll0328/TimeSieve) |
 
 
 ## TCN/CNN.
@@ -243,6 +245,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-02-16 | [HD-TTS](https://arxiv.org/abs/2402.10634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICML 2024 | Graph-based Forecasting with Missing Data through Spatiotemporal Downsampling | None |
 | 24-05-17 | [HimNet](https://arxiv.org/abs/2405.10800) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | KDD 2024 | Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting | [HimNet](https://github.com/XDZhelheim/HimNet) |
 | 24-05-28 | [GFC-GNN](https://arxiv.org/abs/2405.18036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks | None |
+| 24-06-18 | [SAGDFN](https://arxiv.org/abs/2406.12282) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICDE 2024 | SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting | None |
 
 
 ## SSM (State Space Model).
@@ -290,6 +293,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-03-24 | [LDT](https://ojs.aaai.org/index.php/AAAI/article/view/29085) | AAAI 2024 | Latent Diffusion Transformer for Probabilistic Time Series Forecasting | None | 
 | 24-06-04 | [GPD](https://arxiv.org/abs/2406.02212) | Arxiv 2024 | Generative Pre-Trained Diffusion Paradigm for Zero-Shot Time Series Forecasting | None |
 | 24-06-05 | [StochDiff](https://arxiv.org/abs/2406.02827) | Arxiv 2024 | Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting | None | 
+| 24-06-11 | [ProFITi](https://arxiv.org/abs/2406.07246) | Arxiv 2024 | Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting | None | 
 
 
 ## Time-index.
@@ -365,6 +369,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | Arxiv 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
 | 24-06-03 | [TimeCMA](https://arxiv.org/abs/2406.01638) | Arxiv 2024 | TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment | None |
 | 24-06-07 | [LMGF](https://arxiv.org/abs/2406.05249) | Arxiv 2024 | A Language Model-Guided Framework for Mining Time Series with Distributional Shifts | None |
+| 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [Time-MMD](https://github.com/AdityaLab/Time-MMD) |
 
 
 ## Pretrain & Representation.
@@ -407,6 +412,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 21-02-13 | [DAF](https://arxiv.org/abs/2102.06828) | ICML 2022 | Domain Adaptation for Time Series Forecasting via Attention Sharing | [DAF](https://github.com/leejoonhun/daf) |
+| 21-06-13 | [FOIL](https://arxiv.org/abs/2406.09130) | ICML 2024 | Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning | [](https://github.com/adityalab/foil) |
 
 
 ## Online.
