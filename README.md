@@ -338,6 +338,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-24 | [UnitNorm](https://arxiv.org/abs/2405.15903) | Arxiv 2024 | UnitNorm: Rethinking Normalization for Transformers in Time Series | [UnitNorm](https://anonymous.4open.science/r/UnitNorm-5B84) |
 | 24-05-29 | [HCAN](https://arxiv.org/abs/2405.18975) | Arxiv 2024 | Hierarchical Classification Auxiliary Network for Time Series Forecasting | [HCAN](https://github.com/syrGitHub/HCAN) |
 | 24-06-07 | [TDT](https://arxiv.org/abs/2406.04777) | Arxiv 2024 | TDT Loss Takes It All: Integrating Temporal Dependencies among Targets into Non-Autoregressive Time Series Forecasting | None |
+| 24-06-19 | [Gaussian](https://arxiv.org/abs/2406.13871) | Arxiv 2024 | Robust Time Series Forecasting with Non-Heavy-Tailed Gaussian Loss-Weighted Sampler | None |
 
 
 ## LLM (Large Language Model).
@@ -370,6 +371,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-06-03 | [TimeCMA](https://arxiv.org/abs/2406.01638) | Arxiv 2024 | TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment | None |
 | 24-06-07 | [LMGF](https://arxiv.org/abs/2406.05249) | Arxiv 2024 | A Language Model-Guided Framework for Mining Time Series with Distributional Shifts | None |
 | 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [Time-MMD](https://github.com/AdityaLab/Time-MMD) |
+| 24-06-20 | [LTSM-bundle](https://arxiv.org/abs/2406.14045) | Arxiv 2024 | Understanding Different Design Choices in Training Large Time Series Models | [ltsm](https://github.com/daochenzha/ltsm) |
 
 
 ## Pretrain & Representation.
