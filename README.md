@@ -408,6 +408,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 | 24-05-30 | [S3](https://arxiv.org/abs/2405.20082) | Arxiv 2024 | Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations | [S3](https://github.com/shivam-grover/S3-TimeSeries) |
+| 24-06-25 | [SimTS](https://arxiv.org/pdf/2303.18205) | ICASSP 2024 | Rethinking Contrastive Representation Learning for Time Series Forecasting | [simTS](https://github.com/xingyu617/SimTS_Representation_Learning) |
 
 
 ## Domain Adaptation.
