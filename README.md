@@ -289,11 +289,13 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-01-16 | [mr-Diff](https://openreview.net/forum?id=mmjnr0G8ZY) | ICLR 2024 | Multi-Resolution Diffusion Models for Time Series Forecasting | None |
 | 24-01-16 | [Diffusion-TS](https://openreview.net/forum?id=4h1apFjO99) | ICLR 2024 | Diffusion-TS: Interpretable Diffusion for General Time Series Generation | [Diffusion-TS](https://github.com/Y-debug-sys/Diffusion-TS) | 
 | 24-01-16 | [SpecSTG](https://arxiv.org/abs/2401.08119) | Arxiv 2024 | SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting | [SpecSTG](https://anonymous.4open.science/r/SpecSTG) | 
+| 24-02-03 | [GenFormer](https://arxiv.org/abs/2402.02010) | Arxiv 2024 | GenFormer: A Deep-Learning-Based Approach for Generating Multivariate Stochastic Processes | [GenFormer](https://github.com/Zhaohr1990/GenFormer) | 
 | 24-01-30 | [IN-Flow](https://arxiv.org/abs/2401.16777) | Arxiv 2024 | Addressing Distribution Shift in Time Series Forecasting with Instance Normalization Flows | None | 
 | 24-03-24 | [LDT](https://ojs.aaai.org/index.php/AAAI/article/view/29085) | AAAI 2024 | Latent Diffusion Transformer for Probabilistic Time Series Forecasting | None | 
 | 24-06-04 | [GPD](https://arxiv.org/abs/2406.02212) | Arxiv 2024 | Generative Pre-Trained Diffusion Paradigm for Zero-Shot Time Series Forecasting | None |
 | 24-06-05 | [StochDiff](https://arxiv.org/abs/2406.02827) | Arxiv 2024 | Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting | None | 
 | 24-06-11 | [ProFITi](https://arxiv.org/abs/2406.07246) | Arxiv 2024 | Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting | None | 
+
 
 
 ## Time-index.
