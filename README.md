@@ -374,6 +374,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-06-07 | [LMGF](https://arxiv.org/abs/2406.05249) | Arxiv 2024 | A Language Model-Guided Framework for Mining Time Series with Distributional Shifts | None |
 | 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [Time-MMD](https://github.com/AdityaLab/Time-MMD) |
 | 24-06-20 | [LTSM-bundle](https://arxiv.org/abs/2406.14045) | Arxiv 2024 | Understanding Different Design Choices in Training Large Time Series Models | [ltsm](https://github.com/daochenzha/ltsm) |
+| 24-06-22 | [AreLLMUseful](https://arxiv.org/abs/2406.16964) | Arxiv 2024 | Are Language Models Actually Useful for Time Series Forecasting? | [ts_models](https://github.com/bennytmt/ts_models) |
 
 
 ## Pretrain & Representation.
