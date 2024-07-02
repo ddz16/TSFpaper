@@ -403,15 +403,16 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-04 | [Moirai](https://arxiv.org/abs/2402.02592) | ICML 2024 | [Unified Training of Universal Time Series Forecasting Transformers](https://zhuanlan.zhihu.com/p/698842899) | [Moirai](https://github.com/SalesforceAIResearch/uni2ts) |
 | 24-02-06 | [MOMENT](https://arxiv.org/abs/2402.03885) | ICML 2024 | [MOMENT: A Family of Open Time-series Foundation Models](https://zhuanlan.zhihu.com/p/698842899) | [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md) |
 | 24-02-14 | [GTT](https://arxiv.org/abs/2402.07570) | Arxiv 2024 | Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction | [GTT](https://github.com/cfeng783/gtt) |
+| 24-02-19 | [UniST](https://arxiv.org/abs/2402.11838) | KDD 2024 | UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction | [UniST](https://github.com/tsinghua-fib-lab/UniST) |
 | 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | Arxiv 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
 | 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | Arxiv 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | None |
 | 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | Arxiv 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
+| 24-03-31 | [SimTS](https://arxiv.org/abs/2303.18205) | ICASSP 2024 | Rethinking Contrastive Representation Learning for Time Series Forecasting | [simTS](https://github.com/xingyu617/SimTS_Representation_Learning) |
 | 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
 | 24-05-24 | [NuwaTS](https://arxiv.org/abs/2405.15317) | Arxiv 2024 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series | [NuwaTS](https://github.com/Chengyui/NuwaTS) |
 | 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 | 24-05-30 | [S3](https://arxiv.org/abs/2405.20082) | Arxiv 2024 | Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations | [S3](https://github.com/shivam-grover/S3-TimeSeries) |
-| 24-06-25 | [SimTS](https://arxiv.org/pdf/2303.18205) | ICASSP 2024 | Rethinking Contrastive Representation Learning for Time Series Forecasting | [simTS](https://github.com/xingyu617/SimTS_Representation_Learning) |
 
 
 ## Domain Adaptation.
