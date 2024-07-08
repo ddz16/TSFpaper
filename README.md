@@ -154,6 +154,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 23-12-22|[SutraNets](https://arxiv.org/abs/2312.14880)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |NIPS 2023| SutraNets: Sub-series Autoregressive Networks for Long-Sequence, Probabilistic Forecasting | None |
 24-01-17|[RWKV-TS](https://arxiv.org/abs/2401.09093)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2024| RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks | [RWKV-TS](https://github.com/howard-hou/RWKV-TS) |
 24-06-04|[TGLRN](https://arxiv.org/abs/2406.02726)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) |Arxiv 2024| Temporal Graph Learning Recurrent Neural Network for Traffic Forecasting | None |
+24-06-29|[CONTIME](https://arxiv.org/abs/2407.01622)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |KDD 2024| Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization | [CONTIME](https://github.com/sheoyon-jhin/CONTIME) |
 
 
 ## MLP.
@@ -194,6 +195,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-05-22 | [PDMLP](https://arxiv.org/abs/2405.13575) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PDMLP: Patch-based Decomposed MLP for Long-Term Time Series Forecasting | None |
 | 24-06-06 | [AMD](https://arxiv.org/abs/2406.03751) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Adaptive Multi-Scale Decomposition Framework for Time Series Forecasting | [AMD](https://github.com/TROUBADOUR000/AMD) |
 | 24-06-07 | [TimeSieve](https://arxiv.org/abs/2406.05036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks | [TimeSieve](https://github.com/xll0328/TimeSieve) |
+| 24-06-29 | [DERITS](https://arxiv.org/abs/2407.00502) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | IJCAI 2024 | Deep Frequency Derivative Learning for Non-stationary Time Series Forecasting | None |
 
 
 ## TCN/CNN.
