@@ -271,7 +271,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-05-25 | [Time-SSM](https://arxiv.org/abs/2405.16312) | Arxiv 2024 | Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting | None |
 | 24-05-26 | [MambaTS](https://arxiv.org/abs/2405.16440) | Arxiv 2024 | MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting | None |
 | 24-06-06 | [Chimera](https://arxiv.org/abs/2406.04320) | Arxiv 2024 | Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | None |
-| 24-06-08 | [C-Mamba](https://arxiv.org/abs/2406.05316) | Arxiv 2024 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | None |
+| 24-06-08 | [C-Mamba](https://arxiv.org/abs/2406.05316) | Arxiv 2024 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | [CMamba](https://github.com/Prismadic/simple-CMamba) |
 
 
 ## Generation Model.
