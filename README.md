@@ -131,6 +131,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-06-07 | [UniTST](https://arxiv.org/abs/2406.04975)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | UniTST: Effectively Modeling Inter-Series and Intra-Series Dependencies for Multivariate Time Series Forecasting | None
 24-06-11 | [DeformTime](https://arxiv.org/abs/2406.07438)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting | [DeformTime](https://github.com/ClaudiaShu/DeformTime)
 24-06-13 | [Fredformer](https://arxiv.org/abs/2406.09009)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2024 | Fredformer: Frequency Debiased Transformer for Time Series Forecasting | [Fredformer](https://github.com/chenzrg/fredformer)
+24-07-18 | [FSatten-SOatten](https://arxiv.org/abs/2407.13806)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Revisiting Attention for Multivariate Time Series Forecasting | [FSatten-SOatten](https://github.com/Joeland4/FSatten-SOatten)
+
 
 ## RNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -197,6 +199,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-06-07 | [TimeSieve](https://arxiv.org/abs/2406.05036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks | [TimeSieve](https://github.com/xll0328/TimeSieve) |
 | 24-06-29 | [DERITS](https://arxiv.org/abs/2407.00502) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | IJCAI 2024 | Deep Frequency Derivative Learning for Non-stationary Time Series Forecasting | None |
 | 24-07-15 | [ODFL](https://arxiv.org/abs/2407.10419) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Omni-Dimensional Frequency Learner for General Time Series Analysis | None |
+| 24-07-17 | [FreDF](https://arxiv.org/abs/2407.12415) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | MM 2024 | Not All Frequencies Are Created Equal:Towards a Dynamic Fusion of Frequencies in Time-Series Forecasting | None |
 
 
 ## TCN/CNN.
