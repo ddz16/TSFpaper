@@ -50,6 +50,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-04-24|[Mamba-360](https://arxiv.org/abs/2404.16112)|Arxiv 2024|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges|[Mamba-360](https://github.com/badripatro/mamba360)
 24-04-29|[Diffusion](https://arxiv.org/abs/2404.18886)|Arxiv 2024|A Survey on Diffusion Models for Time Series and Spatio-Temporal Data|[PaperList](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 24-05-03|[FoundationModels](https://arxiv.org/abs/2405.02358)|Arxiv 2024|A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model|[PaperList](https://github.com/start2020/awesome-timeseries-llm-fm)
+24-07-18|[TSLib](https://arxiv.org/abs/2407.13278)🌟 |Arxiv 2024|Deep Time Series Models: A Comprehensive Survey and Benchmark|[TSLib](https://github.com/thuml/Time-Series-Library)
 
 
 ## Transformer.
