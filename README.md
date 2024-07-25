@@ -133,6 +133,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-06-11 | [DeformTime](https://arxiv.org/abs/2406.07438)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | DeformTime: Capturing Variable Dependencies with Deformable Attention for Time Series Forecasting | [DeformTime](https://github.com/ClaudiaShu/DeformTime)
 24-06-13 | [Fredformer](https://arxiv.org/abs/2406.09009)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2024 | Fredformer: Frequency Debiased Transformer for Time Series Forecasting | [Fredformer](https://github.com/chenzrg/fredformer)
 24-07-18 | [FSatten-SOatten](https://arxiv.org/abs/2407.13806)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Revisiting Attention for Multivariate Time Series Forecasting | [FSatten-SOatten](https://github.com/Joeland4/FSatten-SOatten)
+24-07-18 | [MTE](https://arxiv.org/abs/2407.15869)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Long Input Sequence Network for Long Time Series Forecasting | [MTE](https://github.com/Houyikai/MTE)
 
 
 ## RNN.
@@ -276,6 +277,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-05-26 | [MambaTS](https://arxiv.org/abs/2405.16440) | Arxiv 2024 | MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting | None |
 | 24-06-06 | [Chimera](https://arxiv.org/abs/2406.04320) | Arxiv 2024 | Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | None |
 | 24-06-08 | [C-Mamba](https://arxiv.org/abs/2406.05316) | Arxiv 2024 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | [CMamba](https://github.com/Prismadic/simple-CMamba) |
+| 24-07-20 | [FMamba](https://arxiv.org/abs/2407.14814) | Arxiv 2024 | FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting | None |
 
 
 ## Generation Model.
@@ -349,6 +351,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-29 | [HCAN](https://arxiv.org/abs/2405.18975) | Arxiv 2024 | Hierarchical Classification Auxiliary Network for Time Series Forecasting | [HCAN](https://github.com/syrGitHub/HCAN) |
 | 24-06-07 | [TDT](https://arxiv.org/abs/2406.04777) | Arxiv 2024 | TDT Loss Takes It All: Integrating Temporal Dependencies among Targets into Non-Autoregressive Time Series Forecasting | None |
 | 24-06-19 | [Gaussian](https://arxiv.org/abs/2406.13871) | Arxiv 2024 | Robust Time Series Forecasting with Non-Heavy-Tailed Gaussian Loss-Weighted Sampler | None |
+| 24-07-21 | [TimeInf](https://arxiv.org/abs/2407.15247) | Arxiv 2024 | TimeInf: Time Series Data Contribution via Influence Functions | [TimeInf](https://github.com/yzhang511/timeinf) |
+| 24-07-24 | [C-LoRA](https://arxiv.org/abs/2407.17246) | CIKM 2024 | Channel-Aware Low-Rank Adaptation in Time Series Forecasting | [C-LoRA](https://github.com/tongnie/C-LoRA) |
+
 
 
 ## LLM (Large Language Model).
