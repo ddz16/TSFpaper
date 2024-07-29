@@ -315,7 +315,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 17-08-25 | [Prophet](https://peerj.com/preprints/3190/)🌟 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)  | TAS 2018 | [Forecasting at Scale](https://facebook.github.io/prophet/) | [Prophet](https://github.com/facebook/prophet)   |
 | 22-07-13 | [DeepTime](https://arxiv.org/abs/2207.06046) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2023 | [Learning Deep Time-index Models for Time Series Forecasting](https://blog.salesforceairesearch.com/deeptime-meta-learning-time-series-forecasting/) | [DeepTime](https://github.com/salesforce/DeepTime) |
 | 23-06-09 | [TimeFlow](https://arxiv.org/abs/2306.05880) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)  | Arxiv 2023 | Time Series Continuous Modeling for Imputation and Forecasting with Implicit Neural Representations | None |
-| 24-01-16 | [DAM](https://openreview.net/forum?id=4NhMhElWqP)🌟 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)  | ICLR 2024 | DAM: A Foundation Model for Forecasting | None |
+| 24-01-16 | [DAM](https://openreview.net/forum?id=4NhMhElWqP)🌟 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen)  | ICLR 2024 | DAM: Towards A Foundation Model for Time Series Forecasting | None |
 
 
 ## Plug and Play (Model-Agnostic).
@@ -427,6 +427,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 | 24-05-30 | [S3](https://arxiv.org/abs/2405.20082) | Arxiv 2024 | Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations | [S3](https://github.com/shivam-grover/S3-TimeSeries) |
 | 24-07-10 | [ViTime](https://arxiv.org/abs/2407.07311) | Arxiv 2024 | ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting | [ViTime](https://github.com/IkeYang/ViTime) |
+| 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
 | 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
 
 
