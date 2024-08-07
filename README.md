@@ -135,7 +135,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-06-13 | [Fredformer](https://arxiv.org/abs/2406.09009)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2024 | Fredformer: Frequency Debiased Transformer for Time Series Forecasting | [Fredformer](https://github.com/chenzrg/fredformer)
 24-07-18 | [FSatten-SOatten](https://arxiv.org/abs/2407.13806)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Revisiting Attention for Multivariate Time Series Forecasting | [FSatten-SOatten](https://github.com/Joeland4/FSatten-SOatten)
 24-07-18 | [MTE](https://arxiv.org/abs/2407.15869)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Long Input Sequence Network for Long Time Series Forecasting | [MTE](https://github.com/Houyikai/MTE)
-24-07-31 | [FreqTSF](https://arxiv.org/abs/2407.21275)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations | 
+24-07-31 | [FreqTSF](https://arxiv.org/abs/2407.21275)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations | None
 24-08-05 | [DRFormer](https://arxiv.org/abs/2408.02279)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | CIKM 2024 | DRFormer: Multi-Scale Transformer Utilizing Diverse Receptive Fields for Long Time-Series Forecasting | [DRFormer](https://github.com/ruixindingECNU/DRFormer)
 
 
