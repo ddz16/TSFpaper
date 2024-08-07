@@ -51,6 +51,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-04-29|[Diffusion](https://arxiv.org/abs/2404.18886)|Arxiv 2024|A Survey on Diffusion Models for Time Series and Spatio-Temporal Data|[PaperList](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 24-05-03|[FoundationModels](https://arxiv.org/abs/2405.02358)|Arxiv 2024|A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model|[PaperList](https://github.com/start2020/awesome-timeseries-llm-fm)
 24-07-18|[TSLib](https://arxiv.org/abs/2407.13278)🌟 |Arxiv 2024|Deep Time Series Models: A Comprehensive Survey and Benchmark|[TSLib](https://github.com/thuml/Time-Series-Library)
+24-07-29|[Transformer](https://arxiv.org/abs/2407.19784) |Arxiv 2024| Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting| None
 
 
 ## Transformer.
@@ -134,6 +135,9 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-06-13 | [Fredformer](https://arxiv.org/abs/2406.09009)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2024 | Fredformer: Frequency Debiased Transformer for Time Series Forecasting | [Fredformer](https://github.com/chenzrg/fredformer)
 24-07-18 | [FSatten-SOatten](https://arxiv.org/abs/2407.13806)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Revisiting Attention for Multivariate Time Series Forecasting | [FSatten-SOatten](https://github.com/Joeland4/FSatten-SOatten)
 24-07-18 | [MTE](https://arxiv.org/abs/2407.15869)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Long Input Sequence Network for Long Time Series Forecasting | [MTE](https://github.com/Houyikai/MTE)
+24-07-31 | [FreqTSF](https://arxiv.org/abs/2407.21275)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations | 
+24-08-05 | [DRFormer](https://arxiv.org/abs/2408.02279)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | CIKM 2024 | DRFormer: Multi-Scale Transformer Utilizing Diverse Receptive Fields for Long Time-Series Forecasting | [DRFormer](https://github.com/ruixindingECNU/DRFormer)
+
 
 
 ## RNN.
@@ -389,6 +393,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [Time-MMD](https://github.com/AdityaLab/Time-MMD) |
 | 24-06-20 | [LTSM-bundle](https://arxiv.org/abs/2406.14045) | Arxiv 2024 | Understanding Different Design Choices in Training Large Time Series Models | [ltsm](https://github.com/daochenzha/ltsm) |
 | 24-06-22 | [AreLLMUseful](https://arxiv.org/abs/2406.16964) | Arxiv 2024 | Are Language Models Actually Useful for Time Series Forecasting? | [ts_models](https://github.com/bennytmt/ts_models) |
+| 24-07-30 | [FedTime](https://arxiv.org/abs/2407.20503) | Arxiv 2024 | A federated large language model for long-term time series forecasting | None |
 
 
 ## Pretrain & Representation.
@@ -428,7 +433,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 | 24-05-30 | [S3](https://arxiv.org/abs/2405.20082) | Arxiv 2024 | Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations | [S3](https://github.com/shivam-grover/S3-TimeSeries) |
 | 24-07-10 | [ViTime](https://arxiv.org/abs/2407.07311) | Arxiv 2024 | ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting | [ViTime](https://github.com/IkeYang/ViTime) |
-| 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
 | 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
 
 
