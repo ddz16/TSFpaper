@@ -343,6 +343,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-09-14 | [QFCV](https://arxiv.org/abs/2309.07435) | Arxiv 2023 | Uncertainty Intervals for Prediction Errors in Time Series Forecasting | [QFCV](https://github.com/huixu18/qfcv) |
 | 23-10-09 | [PeTS](https://arxiv.org/abs/2310.06077) | Arxiv 2023 | Performative Time-Series Forecasting | [PeTS](https://github.com/adityalab/pets) |
 | 23-10-23 | [EDAIN](https://arxiv.org/abs/2310.14720) | Arxiv 2023 | Extended Deep Adaptive Input Normalization for Preprocessing Time Series Data for Neural Networks | [EDAIN](https://github.com/marcusGH/edain_paper) |
+| 23-10-23 | [SOLID](https://arxiv.org/abs/2310.14838) | KDD 2024 | Calibration of Time-Series Forecasting: Detecting and Adapting Context-Driven Distribution Shift | [SOLID](https://github.com/half111/calibration_cds) |
 | 23-11-19 | [TimeSQL](https://arxiv.org/abs/2311.11285) | Arxiv 2023 | TimeSQL: Improving Multivariate Time Series Forecasting with Multi-Scale Patching and Smooth Quadratic Loss | None |
 | 24-01-16 | [LIFT](https://openreview.net/forum?id=JiTVtCUOpS) | ICLR 2024 | Rethinking Channel Dependence for Multivariate Time Series Forecasting: Learning from Leading Indicators | None |
 | 24-01-16 | [RobustTSF](https://openreview.net/forum?id=ltZ9ianMth) | ICLR 2024 | RobustTSF: Towards Theory and Design of Robust Time Series Forecasting with Anomalies | [RobustTSF](https://openreview.net/attachment?id=ltZ9ianMth&name=supplementary_material) |
@@ -358,7 +359,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-06-19 | [Gaussian](https://arxiv.org/abs/2406.13871) | Arxiv 2024 | Robust Time Series Forecasting with Non-Heavy-Tailed Gaussian Loss-Weighted Sampler | None |
 | 24-07-21 | [TimeInf](https://arxiv.org/abs/2407.15247) | Arxiv 2024 | TimeInf: Time Series Data Contribution via Influence Functions | [TimeInf](https://github.com/yzhang511/timeinf) |
 | 24-07-24 | [C-LoRA](https://arxiv.org/abs/2407.17246) | CIKM 2024 | Channel-Aware Low-Rank Adaptation in Time Series Forecasting | [C-LoRA](https://github.com/tongnie/C-LoRA) |
-
 
 
 ## LLM (Large Language Model).
