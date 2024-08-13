@@ -163,6 +163,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-01-17|[RWKV-TS](https://arxiv.org/abs/2401.09093)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2024| RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks | [RWKV-TS](https://github.com/howard-hou/RWKV-TS) |
 24-06-04|[TGLRN](https://arxiv.org/abs/2406.02726)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) |Arxiv 2024| Temporal Graph Learning Recurrent Neural Network for Traffic Forecasting | None |
 24-06-29|[CONTIME](https://arxiv.org/abs/2407.01622)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |KDD 2024| Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization | [CONTIME](https://github.com/sheoyon-jhin/CONTIME) |
+24-07-14|[xLSTMTime](https://arxiv.org/abs/2407.10240)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2024| xLSTMTime: Long-term Time Series Forecasting With xLSTM | [xLSTMTime](https://github.com/muslehal/xLSTMTime) |
 24-07-29|[TFFM](https://arxiv.org/abs/2407.19697)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |CIKM 2024| Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | None |
 
 
