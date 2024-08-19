@@ -138,6 +138,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-07-31 | [FreqTSF](https://arxiv.org/abs/2407.21275)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | FreqTSF: Time Series Forecasting Via Simulating Frequency Kramer-Kronig Relations | None
 24-08-05 | [DRFormer](https://arxiv.org/abs/2408.02279)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | CIKM 2024 | DRFormer: Multi-Scale Transformer Utilizing Diverse Receptive Fields for Long Time-Series Forecasting | [DRFormer](https://github.com/ruixindingECNU/DRFormer)
 24-08-08 | [STHD](https://arxiv.org/abs/2408.04245)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2024 | Scalable Transformer for High Dimensional Multivariate Time Series Forecasting | [STHD](https://github.com/xinzzzhou/ScalableTransformer4HighDimensionMTSF)
+24-08-16 | [S3Attention](https://arxiv.org/abs/2408.08567)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | S3Attention: Improving Long Sequence Attention with Smoothed Skeleton Sketching | [S3Attention](https://github.com/wxie9/S3Attention)
 
 
 ## RNN.
