@@ -139,6 +139,9 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-08-05 | [DRFormer](https://arxiv.org/abs/2408.02279)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | CIKM 2024 | DRFormer: Multi-Scale Transformer Utilizing Diverse Receptive Fields for Long Time-Series Forecasting | [DRFormer](https://github.com/ruixindingECNU/DRFormer)
 24-08-08 | [STHD](https://arxiv.org/abs/2408.04245)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2024 | Scalable Transformer for High Dimensional Multivariate Time Series Forecasting | [STHD](https://github.com/xinzzzhou/ScalableTransformer4HighDimensionMTSF)
 24-08-16 | [S3Attention](https://arxiv.org/abs/2408.08567)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | S3Attention: Improving Long Sequence Attention with Smoothed Skeleton Sketching | [S3Attention](https://github.com/wxie9/S3Attention)
+24-08-19 | [PMformer](https://arxiv.org/abs/2408.09703)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Partial-Multivariate Model for Forecasting | None
+24-08-19 | [sTransformer](https://arxiv.org/abs/2408.09723)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | None
+24-08-20 | [PRformer](https://arxiv.org/abs/2408.10483)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting | [PRformer](https://github.com/usualheart/PRformer)
 
 
 ## RNN.
@@ -166,6 +169,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-06-29|[CONTIME](https://arxiv.org/abs/2407.01622)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |KDD 2024| Addressing Prediction Delays in Time Series Forecasting: A Continuous GRU Approach with Derivative Regularization | [CONTIME](https://github.com/sheoyon-jhin/CONTIME) |
 24-07-14|[xLSTMTime](https://arxiv.org/abs/2407.10240)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2024| xLSTMTime: Long-term Time Series Forecasting With xLSTM | [xLSTMTime](https://github.com/muslehal/xLSTMTime) |
 24-07-29|[TFFM](https://arxiv.org/abs/2407.19697)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |CIKM 2024| Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | None |
+24-08-19|[P-sLSTM](https://arxiv.org/abs/2408.10006)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2024| Unlocking the Power of LSTM for Long Term Time Series Forecasting | None |
 
 
 ## MLP.
@@ -285,6 +289,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-06-06 | [Chimera](https://arxiv.org/abs/2406.04320) | Arxiv 2024 | Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models | None |
 | 24-06-08 | [C-Mamba](https://arxiv.org/abs/2406.05316) | Arxiv 2024 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | [CMamba](https://github.com/Prismadic/simple-CMamba) |
 | 24-07-20 | [FMamba](https://arxiv.org/abs/2407.14814) | Arxiv 2024 | FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting | None |
+| 24-08-17 | [SSL](https://arxiv.org/abs/2408.09120) | Arxiv 2024 | Time Series Analysis by State Space Learning | None |
 
 
 ## Generation Model.
@@ -361,6 +366,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-06-19 | [Gaussian](https://arxiv.org/abs/2406.13871) | Arxiv 2024 | Robust Time Series Forecasting with Non-Heavy-Tailed Gaussian Loss-Weighted Sampler | None |
 | 24-07-21 | [TimeInf](https://arxiv.org/abs/2407.15247) | Arxiv 2024 | TimeInf: Time Series Data Contribution via Influence Functions | [TimeInf](https://github.com/yzhang511/timeinf) |
 | 24-07-24 | [C-LoRA](https://arxiv.org/abs/2407.17246) | CIKM 2024 | Channel-Aware Low-Rank Adaptation in Time Series Forecasting | [C-LoRA](https://github.com/tongnie/C-LoRA) |
+| 24-08-20 | [Wave-Augs](https://arxiv.org/abs/2408.10951) | Arxiv 2024 | Wave-Mask/Mix: Exploring Wavelet-Based Augmentations for Time Series Forecasting | [Wave-Augs](https://github.com/jafarbakhshaliyev/Wave-Augs) |
 
 
 ## LLM (Large Language Model).
