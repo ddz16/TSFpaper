@@ -290,6 +290,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-06-08 | [C-Mamba](https://arxiv.org/abs/2406.05316) | Arxiv 2024 | C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting | [CMamba](https://github.com/Prismadic/simple-CMamba) |
 | 24-07-20 | [FMamba](https://arxiv.org/abs/2407.14814) | Arxiv 2024 | FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting | None |
 | 24-08-17 | [SSL](https://arxiv.org/abs/2408.09120) | Arxiv 2024 | Time Series Analysis by State Space Learning | None |
+| 24-08-22 | [SAMBA](https://arxiv.org/abs/2408.12068) | Arxiv 2024 | Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting | None |
 
 
 ## Generation Model.
@@ -367,6 +368,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-07-21 | [TimeInf](https://arxiv.org/abs/2407.15247) | Arxiv 2024 | TimeInf: Time Series Data Contribution via Influence Functions | [TimeInf](https://github.com/yzhang511/timeinf) |
 | 24-07-24 | [C-LoRA](https://arxiv.org/abs/2407.17246) | CIKM 2024 | Channel-Aware Low-Rank Adaptation in Time Series Forecasting | [C-LoRA](https://github.com/tongnie/C-LoRA) |
 | 24-08-20 | [Wave-Augs](https://arxiv.org/abs/2408.10951) | Arxiv 2024 | Wave-Mask/Mix: Exploring Wavelet-Based Augmentations for Time Series Forecasting | [Wave-Augs](https://github.com/jafarbakhshaliyev/Wave-Augs) |
+| 24-08-27 | [Channel-wise Influence](https://arxiv.org/abs/2408.14763) | Arxiv 2024 | Channel-wise Influence: Estimating Data Influence for Multivariate Time Series | None |
 
 
 ## LLM (Large Language Model).
@@ -402,6 +404,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-06-20 | [LTSM-bundle](https://arxiv.org/abs/2406.14045) | Arxiv 2024 | Understanding Different Design Choices in Training Large Time Series Models | [ltsm](https://github.com/daochenzha/ltsm) |
 | 24-06-22 | [AreLLMUseful](https://arxiv.org/abs/2406.16964) | Arxiv 2024 | Are Language Models Actually Useful for Time Series Forecasting? | [ts_models](https://github.com/bennytmt/ts_models) |
 | 24-07-30 | [FedTime](https://arxiv.org/abs/2407.20503) | Arxiv 2024 | A federated large language model for long-term time series forecasting | None |
+| 24-08-22 | [LLMGeovec](https://arxiv.org/abs/2408.12116) | Arxiv 2024 | Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning | None |
+| 24-08-24 | [RePST](https://arxiv.org/abs/2408.14505) | Arxiv 2024 | Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming | None |
 
 
 ## Pretrain & Representation.
@@ -481,6 +485,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-05-24 | [ScalingLaw](https://arxiv.org/abs/2405.15124) | Arxiv 2024 | Scaling Law for Time Series Forecasting | [ScalingLaw](https://github.com/JingzheShi/ScalingLawForTimeSeriesForecasting) |
 | 24-06-04 | [CondTSF](https://arxiv.org/abs/2406.02131) | Arxiv 2024 | CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting | None |
 | 24-06-14 | [MTL](https://arxiv.org/abs/2406.10327) | Arxiv 2024 | Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting | None |
+| 24-08-21 | [KAN4TSF](https://arxiv.org/abs/2408.11306) | Arxiv 2024 | KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting? | [kan4tsf](https://github.com/2448845600/kan4tsf) |
 
 
 ## Star History
