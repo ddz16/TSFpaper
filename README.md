@@ -291,6 +291,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-07-20 | [FMamba](https://arxiv.org/abs/2407.14814) | Arxiv 2024 | FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting | None |
 | 24-08-17 | [SSL](https://arxiv.org/abs/2408.09120) | Arxiv 2024 | Time Series Analysis by State Space Learning | None |
 | 24-08-22 | [SAMBA](https://arxiv.org/abs/2408.12068) | Arxiv 2024 | Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting | None |
+| 24-08-28 | [MoU](https://arxiv.org/abs/2408.15997) | Arxiv 2024 | Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need | [MoU](https://github.com/lunaaa95/mou) |
 
 
 ## Generation Model.
@@ -446,6 +447,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-30 | [S3](https://arxiv.org/abs/2405.20082) | Arxiv 2024 | Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations | [S3](https://github.com/shivam-grover/S3-TimeSeries) |
 | 24-07-10 | [ViTime](https://arxiv.org/abs/2407.07311) | Arxiv 2024 | ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting | [ViTime](https://github.com/IkeYang/ViTime) |
 | 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
+| 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
 
 
 ## Domain Adaptation.
