@@ -319,7 +319,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-06-04 | [GPD](https://arxiv.org/abs/2406.02212) | Arxiv 2024 | Generative Pre-Trained Diffusion Paradigm for Zero-Shot Time Series Forecasting | None |
 | 24-06-05 | [StochDiff](https://arxiv.org/abs/2406.02827) | Arxiv 2024 | Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting | None | 
 | 24-06-11 | [ProFITi](https://arxiv.org/abs/2406.07246) | Arxiv 2024 | Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting | None | 
-
+| 24-09-03 | [TimeDiT](https://arxiv.org/abs/2409.02322) | Arxiv 2024 | TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model | None |
 
 
 ## Time-index.
