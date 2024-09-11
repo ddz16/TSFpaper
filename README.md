@@ -372,6 +372,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-07-24 | [C-LoRA](https://arxiv.org/abs/2407.17246) | CIKM 2024 | Channel-Aware Low-Rank Adaptation in Time Series Forecasting | [C-LoRA](https://github.com/tongnie/C-LoRA) |
 | 24-08-20 | [Wave-Augs](https://arxiv.org/abs/2408.10951) | Arxiv 2024 | Wave-Mask/Mix: Exploring Wavelet-Based Augmentations for Time Series Forecasting | [Wave-Augs](https://github.com/jafarbakhshaliyev/Wave-Augs) |
 | 24-08-27 | [Channel-wise Influence](https://arxiv.org/abs/2408.14763) | Arxiv 2024 | Channel-wise Influence: Estimating Data Influence for Multivariate Time Series | None |
+| 24-09-10 | [AutoTSAug](https://arxiv.org/abs/2409.06282) | Arxiv 2024 | Learning Augmentation Policies from A Model Zoo for Time Series Forecasting | None |
 
 
 ## LLM (Large Language Model).
