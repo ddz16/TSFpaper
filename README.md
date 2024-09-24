@@ -454,8 +454,10 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-07-10 | [ViTime](https://arxiv.org/abs/2407.07311) | Arxiv 2024 | ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting | [ViTime](https://github.com/IkeYang/ViTime) |
 | 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
 | 24-08-16 | [OpenCity](https://arxiv.org/abs/2408.10269) | Arxiv 2024 | OpenCity: Open Spatio-Temporal Foundation Models for Traffic Prediction | [OpenCity](https://github.com/hkuds/opencity) |
+| 24-08-24 | [TSDE](https://dl.acm.org/doi/abs/10.1145/3637528.3671673) | KDD 2024 | Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask | [TSDE](https://github.com/llcresearch/TSDE) |
 | 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) 🌟 | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
 | 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | Arxiv 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
+
 
 
 ## Domain Adaptation.
