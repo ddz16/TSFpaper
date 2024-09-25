@@ -375,6 +375,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-20 | [Wave-Augs](https://arxiv.org/abs/2408.10951) | Arxiv 2024 | Wave-Mask/Mix: Exploring Wavelet-Based Augmentations for Time Series Forecasting | [Wave-Augs](https://github.com/jafarbakhshaliyev/Wave-Augs) |
 | 24-08-27 | [Channel-wise Influence](https://arxiv.org/abs/2408.14763) | Arxiv 2024 | Channel-wise Influence: Estimating Data Influence for Multivariate Time Series | None |
 | 24-09-10 | [AutoTSAug](https://arxiv.org/abs/2409.06282) | Arxiv 2024 | Learning Augmentation Policies from A Model Zoo for Time Series Forecasting | None |
+| 24-09-23 | [MotifDisco](https://arxiv.org/abs/2409.15219) | Arxiv 2024 | MotifDisco: Motif Causal Discovery For Time Series Motifs | None |
 
 
 ## LLM (Large Language Model).
@@ -457,7 +458,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-24 | [TSDE](https://dl.acm.org/doi/abs/10.1145/3637528.3671673) | KDD 2024 | Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask | [TSDE](https://github.com/llcresearch/TSDE) |
 | 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) 🌟 | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
 | 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | Arxiv 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
-
+| 24-09-24 | [Time-MoE](https://arxiv.org/abs/2409.16040) | Arxiv 2024 | Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts | [Time-MoE](https://github.com/Time-MoE/Time-MoE) |
 
 
 ## Domain Adaptation.
