@@ -214,7 +214,8 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-06-07 | [TimeSieve](https://arxiv.org/abs/2406.05036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks | [TimeSieve](https://github.com/xll0328/TimeSieve) |
 | 24-06-29 | [DERITS](https://arxiv.org/abs/2407.00502) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | IJCAI 2024 | Deep Frequency Derivative Learning for Non-stationary Time Series Forecasting | None |
 | 24-07-15 | [ODFL](https://arxiv.org/abs/2407.10419) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Omni-Dimensional Frequency Learner for General Time Series Analysis | None |
-| 24-07-17 | [FreDF](https://arxiv.org/abs/2407.12415) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | MM 2024 | Not All Frequencies Are Created Equal:Towards a Dynamic Fusion of Frequencies in Time-Series Forecasting | None |
+| 24-07-17 | [FreDF](https://arxiv.org/abs/2407.12415) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | MM 2024 | Not All Frequencies Are Created Equal: Towards a Dynamic Fusion of Frequencies in Time-Series Forecasting | None |
+| 24-09-27 | [CycleNet](https://arxiv.org/abs/2409.18479) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns | [CycleNet](https://github.com/ACAT-SCUT/CycleNet) |
 
 
 ## TCN/CNN.
