@@ -144,6 +144,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-08-19 | [PMformer](https://arxiv.org/abs/2408.09703)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Partial-Multivariate Model for Forecasting | None
 24-08-19 | [sTransformer](https://arxiv.org/abs/2408.09723)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | None
 24-08-20 | [PRformer](https://arxiv.org/abs/2408.10483)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting | [PRformer](https://github.com/usualheart/PRformer)
+24-10-02 | [TiVaT](https://arxiv.org/abs/2410.01531)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TiVaT: Joint-Axis Attention for Time Series Forecasting with Lead-Lag Dynamics | None
 24-10-04 | [ARMA](https://arxiv.org/abs/2410.03159)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Autoregressive Moving-average Attention Mechanism for Time Series Forecasting | [ARMA-Attention](https://github.com/LJC-FVNR/ARMA-Attention)
 24-10-06 | [TimeBridge](https://arxiv.org/abs/2410.04442)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting | [TimeBridge](https://github.com/Hank0626/TimeBridge)
 
@@ -217,7 +218,9 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-06-29 | [DERITS](https://arxiv.org/abs/2407.00502) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | IJCAI 2024 | Deep Frequency Derivative Learning for Non-stationary Time Series Forecasting | None |
 | 24-07-15 | [ODFL](https://arxiv.org/abs/2407.10419) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Omni-Dimensional Frequency Learner for General Time Series Analysis | None |
 | 24-07-17 | [FreDF](https://arxiv.org/abs/2407.12415) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | MM 2024 | Not All Frequencies Are Created Equal: Towards a Dynamic Fusion of Frequencies in Time-Series Forecasting | None |
-| 24-09-27 | [CycleNet](https://arxiv.org/abs/2409.18479) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns | [CycleNet](https://github.com/ACAT-SCUT/CycleNet) |
+| 24-09-27 | [CycleNet](https://arxiv.org/abs/2409.18479) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://zhuanlan.zhihu.com/p/778345073) | [CycleNet](https://github.com/ACAT-SCUT/CycleNet) |
+| 24-10-02 | [MMFNet](https://arxiv.org/abs/2410.02070) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting | None |
+| 24-10-02 | [MixLinear](https://arxiv.org/abs/2410.02081) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters | None |
 
 
 ## TCN/CNN.
@@ -348,7 +351,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 19-02-21 | [DAIN](https://arxiv.org/abs/1902.07892)🌟 | TNNLS 2020 | Deep Adaptive Input Normalization for Time Series Forecasting | [DAIN](https://github.com/passalis/dain)   |
 | 19-09-19 | [DILATE](https://arxiv.org/abs/1909.09020) | NIPS 2019 | Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models | [DILATE](https://github.com/vincent-leguen/DILATE) |
 | 21-07-19 | [TAN](https://arxiv.org/abs/2107.09031) | NIPS 2021 | Topological Attention for Time Series Forecasting | [TAN](https://github.com/plus-rkwitt/TAN)   |
-| 21-09-29 | [RevIN](https://openreview.net/forum?id=cGDAkQo1C0p)🌟 | ICLR 2022 | [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://zhuanlan.zhihu.com/p/473553126) | [RevIN](https://github.com/ts-kim/RevIN)   |
+| 21-09-29 | [RevIN](https://openreview.net/forum?id=cGDAkQo1C0p)🌟🔥 | ICLR 2022 | [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://zhuanlan.zhihu.com/p/473553126) | [RevIN](https://github.com/ts-kim/RevIN)   |
 | 22-02-23 | [MQF2](https://arxiv.org/abs/2202.11316) | AISTATS 2022 | Multivariate Quantile Function Forecaster | None   |
 | 22-05-18 | [FiLM](https://arxiv.org/abs/2205.08897) |NIPS 2022|FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting | [FiLM](https://github.com/tianzhou2011/FiLM) |
 | 23-02-18 | [FrAug](https://arxiv.org/abs/2302.09292) | Arxiv 2023 | FrAug: Frequency Domain Augmentation for Time Series Forecasting | [FrAug](https://anonymous.4open.science/r/Fraug-more-results-1785)   |
@@ -491,6 +494,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-02-03 | [TSF-HD](https://arxiv.org/abs/2402.01999) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | A Novel Hyperdimensional Computing Framework for Online Time Series Forecasting on the Edge | [TSF-HD](https://github.com/tsfhd2024/tsf-hd)  |
 | 24-02-20 | [SKI-CL](https://arxiv.org/abs/2402.12722) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Structural Knowledge Informed Continual Multivariate Time Series Forecasting | None  |
 | 24-03-22 | [D3A](https://arxiv.org/abs/2403.14949) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Addressing Concept Shift in Online Time Series Forecasting: Detect-then-Adapt | None  |
+| 24-09-29 | [EvoMSN](https://arxiv.org/abs/2409.19718) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Evolving Multi-Scale Normalization for Time Series Forecasting under Distribution Shifts | [EvoMSN](https://github.com/qindalin/evomsn)  |
+
 
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
