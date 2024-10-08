@@ -144,6 +144,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-08-19 | [PMformer](https://arxiv.org/abs/2408.09703)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Partial-Multivariate Model for Forecasting | None
 24-08-19 | [sTransformer](https://arxiv.org/abs/2408.09723)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | None
 24-08-20 | [PRformer](https://arxiv.org/abs/2408.10483)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting | [PRformer](https://github.com/usualheart/PRformer)
+24-10-04 | [ARMA](https://arxiv.org/abs/2410.03159)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Autoregressive Moving-average Attention Mechanism for Time Series Forecasting | [ARMA-Attention](https://github.com/LJC-FVNR/ARMA-Attention)
+24-10-06 | [TimeBridge](https://arxiv.org/abs/2410.04442)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting | [TimeBridge](https://github.com/Hank0626/TimeBridge)
 
 
 ## RNN.
@@ -296,6 +298,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-08-17 | [SSL](https://arxiv.org/abs/2408.09120) | Arxiv 2024 | Time Series Analysis by State Space Learning | None |
 | 24-08-22 | [SAMBA](https://arxiv.org/abs/2408.12068) | Arxiv 2024 | Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting | None |
 | 24-08-28 | [MoU](https://arxiv.org/abs/2408.15997) | Arxiv 2024 | Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need | [MoU](https://github.com/lunaaa95/mou) |
+| 24-10-04 | [LinOSS](https://arxiv.org/abs/2410.03943) | Arxiv 2024 | Oscillatory State-Space Models | None |
 
 
 ## Generation Model.
@@ -325,6 +328,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-06-11 | [ProFITi](https://arxiv.org/abs/2406.07246) | Arxiv 2024 | Marginalization Consistent Mixture of Separable Flows for Probabilistic Irregular Time Series Forecasting | None | 
 | 24-09-03 | [TimeDiT](https://arxiv.org/abs/2409.02322) | Arxiv 2024 | TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model | None |
 | 24-09-18 | [SI](https://arxiv.org/abs/2409.11684) | Arxiv 2024 | Recurrent Interpolants for Probabilistic Time Series Prediction | None |
+| 24-09-27 | [Bim-Diff](https://arxiv.org/abs/2409.18491) | Arxiv 2024 | Treating Brain-inspired Memories as Priors for Diffusion Model to Forecast Multivariate Time Series | None |
+| 24-10-03 | [CCDM](https://arxiv.org/abs/2410.02168) | Arxiv 2024 | Channel-aware Contrastive Conditional Diffusion for Multivariate Probabilistic Time Series Forecasting | [CCDM](https://github.com/LSY-Cython/CCDM) |
 
 
 ## Time-index.
@@ -377,6 +382,11 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-27 | [Channel-wise Influence](https://arxiv.org/abs/2408.14763) | Arxiv 2024 | Channel-wise Influence: Estimating Data Influence for Multivariate Time Series | None |
 | 24-09-10 | [AutoTSAug](https://arxiv.org/abs/2409.06282) | Arxiv 2024 | Learning Augmentation Policies from A Model Zoo for Time Series Forecasting | None |
 | 24-09-23 | [MotifDisco](https://arxiv.org/abs/2409.15219) | Arxiv 2024 | MotifDisco: Motif Causal Discovery For Time Series Motifs | None |
+| 24-09-27 | [GLAFF](https://arxiv.org/abs/2409.18696) | NIPS 2024 | Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective | [GLAFF](https://github.com/ForestsKing/GLAFF) |
+| 24-09-30 | [FAN](https://arxiv.org/abs/2409.20371) | NIPS 2024 | Frequency Adaptive Normalization For Non-stationary Time Series Forecasting | [FAN](https://github.com/wayne155/FAN) |
+| 24-10-02 | [FredNormer](https://arxiv.org/abs/2410.01860) | Arxiv 2024 | FredNormer: Frequency Domain Normalization for Non-stationary Time Series Forecasting | None |
+| 24-10-03 | [FAN](https://arxiv.org/abs/2410.02675) | Arxiv 2024 | FAN: Fourier Analysis Networks | [FAN](https://github.com/YihongDong/FAN) |
+| 24-10-04 | [GAS-Norm](https://arxiv.org/abs/2410.03935) | CIKM 2024 | GAS-Norm: Score-Driven Adaptive Normalization for Non-Stationary Time Series Forecasting in Deep Learning | [GAS-Norm](https://github.com/edo-urettini/GAS_Norm) |
 
 
 ## LLM (Large Language Model).
@@ -415,6 +425,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-22 | [LLMGeovec](https://arxiv.org/abs/2408.12116) | Arxiv 2024 | Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning | None |
 | 24-08-24 | [RePST](https://arxiv.org/abs/2408.14505) | Arxiv 2024 | Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming | None |
 | 24-09-17 | [MLLM](https://arxiv.org/abs/2409.11376) | Arxiv 2024 | Towards Time Series Reasoning with LLMs | None |
+| 24-10-04 | [MetaTST](https://arxiv.org/abs/2410.03806) | Arxiv 2024 | Metadata Matters for Time Series: Informative Forecasting with Transformers | None |
 
 
 ## Pretrain & Representation.
@@ -501,6 +512,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-06-04 | [CondTSF](https://arxiv.org/abs/2406.02131) | Arxiv 2024 | CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting | None |
 | 24-06-14 | [MTL](https://arxiv.org/abs/2406.10327) | Arxiv 2024 | Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting | None |
 | 24-08-21 | [KAN4TSF](https://arxiv.org/abs/2408.11306) | Arxiv 2024 | KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting? | [kan4tsf](https://github.com/2448845600/kan4tsf) |
+| 24-10-03 | [BackTime](https://arxiv.org/abs/2410.02195) | NIPS 2024 | BACKTIME: Backdoor Attacks on Multivariate Time Series Forecasting | [BackTime](https://github.com/xiaolin-cs/BackTime) |
 
 
 ## Star History
