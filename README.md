@@ -223,6 +223,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-09-27 | [CycleNet](https://arxiv.org/abs/2409.18479) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://zhuanlan.zhihu.com/p/778345073) | [CycleNet](https://github.com/ACAT-SCUT/CycleNet) |
 | 24-10-02 | [MMFNet](https://arxiv.org/abs/2410.02070) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting | None |
 | 24-10-02 | [MixLinear](https://arxiv.org/abs/2410.02081) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters | None |
+| 24-10-07 | [NFM](https://arxiv.org/abs/2410.04703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis | [NFM](https://github.com/minkiml/NFM) |
 
 
 ## TCN/CNN.
@@ -246,6 +247,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-03-03 | [ConvTimeNet](https://arxiv.org/abs/2403.01493) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis | [ConvTimeNet](https://github.com/Mingyue-Cheng/ConvTimeNet) |
 | 24-05-20 | [ATVCNet](https://arxiv.org/abs/2405.12038) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| ATVCNet: Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting |  None  |
 | 24-05-24 | [FTMixer](https://arxiv.org/abs/2405.15256) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| FTMixer: Frequency and Time Domain Representations Fusion for Time Series Modeling | [FTMixer](https://github.com/FMLYD/FTMixer)  |
+| 24-10-07 | [TimeCNN](https://arxiv.org/abs/2410.04853) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| TimeCNN: Refining Cross-Variable Interaction on Time Point for Time Series Forecasting | None |
 
 
 ## GNN.
@@ -336,6 +338,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-09-27 | [Bim-Diff](https://arxiv.org/abs/2409.18491) | Arxiv 2024 | Treating Brain-inspired Memories as Priors for Diffusion Model to Forecast Multivariate Time Series | None |
 | 24-10-03 | [CCDM](https://arxiv.org/abs/2410.02168) | Arxiv 2024 | Channel-aware Contrastive Conditional Diffusion for Multivariate Probabilistic Time Series Forecasting | [CCDM](https://github.com/LSY-Cython/CCDM) |
 | 24-10-03 | [TSFlow](https://arxiv.org/abs/2410.03024) | Arxiv 2024 | Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting | None |
+| 24-10-08 | [TimeDART](https://arxiv.org/abs/2410.05711) | Arxiv 2024 | Diffusion Auto-regressive Transformer for Effective Self-supervised Time Series Forecasting | [TimeDART](https://github.com/Melmaphother/TimeDART) |
 
 
 ## Time-index.
@@ -393,6 +396,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-02 | [FredNormer](https://arxiv.org/abs/2410.01860) | Arxiv 2024 | FredNormer: Frequency Domain Normalization for Non-stationary Time Series Forecasting | None |
 | 24-10-03 | [FAN](https://arxiv.org/abs/2410.02675) | Arxiv 2024 | FAN: Fourier Analysis Networks | [FAN](https://github.com/YihongDong/FAN) |
 | 24-10-04 | [GAS-Norm](https://arxiv.org/abs/2410.03935) | CIKM 2024 | GAS-Norm: Score-Driven Adaptive Normalization for Non-Stationary Time Series Forecasting in Deep Learning | [GAS-Norm](https://github.com/edo-urettini/GAS_Norm) |
+| 24-10-09 | [TOI](https://arxiv.org/abs/2410.06652) | NIPS 2024 | Task-oriented Time Series Imputation Evaluation via Generalized Representers | [TOI](https://github.com/hkuedl/Task-Oriented-Imputation) |
 
 
 ## LLM (Large Language Model).
@@ -477,6 +481,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) 🌟 | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
 | 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | Arxiv 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
 | 24-09-24 | [Time-MoE](https://arxiv.org/abs/2409.16040) | Arxiv 2024 | Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts | [Time-MoE](https://github.com/Time-MoE/Time-MoE) |
+| 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | Arxiv 2024 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | None |
+| 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
 
 
 ## Domain Adaptation.
