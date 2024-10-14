@@ -305,6 +305,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-08-17 | [SSL](https://arxiv.org/abs/2408.09120) | Arxiv 2024 | Time Series Analysis by State Space Learning | None |
 | 24-08-22 | [SAMBA](https://arxiv.org/abs/2408.12068) | Arxiv 2024 | Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting | None |
 | 24-08-28 | [MoU](https://arxiv.org/abs/2408.15997) | Arxiv 2024 | Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need | [MoU](https://github.com/lunaaa95/mou) |
+| 24-09-26 | [SAMBA](https://arxiv.org/abs/2410.03707) | Arxiv 2024 | Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction | [SAMBA](https://github.com/Ali-Meh619/SAMBA) |
 | 24-10-04 | [LinOSS](https://arxiv.org/abs/2410.03943) | Arxiv 2024 | Oscillatory State-Space Models | None |
 
 
