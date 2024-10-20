@@ -54,6 +54,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-05-03|[FoundationModels](https://arxiv.org/abs/2405.02358)|Arxiv 2024|A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model|[PaperList](https://github.com/start2020/awesome-timeseries-llm-fm)
 24-07-18|[TSLib](https://arxiv.org/abs/2407.13278)🌟 |Arxiv 2024|Deep Time Series Models: A Comprehensive Survey and Benchmark|[TSLib](https://github.com/thuml/Time-Series-Library)
 24-07-29|[Transformer](https://arxiv.org/abs/2407.19784) |Arxiv 2024| Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting| None
+24-10-14|[GIFT-Eval](https://arxiv.org/abs/2410.10393) |Arxiv 2024| GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation | None
 
 
 ## Transformer.
