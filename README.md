@@ -485,6 +485,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-09-24 | [Time-MoE](https://arxiv.org/abs/2409.16040) | Arxiv 2024 | Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts | [Time-MoE](https://github.com/Time-MoE/Time-MoE) |
 | 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | Arxiv 2024 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | None |
 | 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
+| 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
 
 
 ## Domain Adaptation.
