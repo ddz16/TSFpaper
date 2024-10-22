@@ -427,7 +427,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-12 | [Chronos](https://arxiv.org/abs/2403.07815) 🌟 | Arxiv 2024 | Chronos: Learning the Language of Time Series | [Chronos](https://github.com/amazon-science/chronos-forecasting) |
 | 24-04-17 | [TSandLanguage](https://arxiv.org/abs/2404.11757) | Arxiv 2024 | Language Models Still Struggle to Zero-shot Reason about Time Series | [TSandLanguage](https://github.com/behavioral-data/TSandLanguage) |
 | 24-05-22 | [TGForecaster](https://arxiv.org/abs/2405.13522) | Arxiv 2024 | Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues | [tgtsf](https://github.com/vewoxic/tgtsf) |
-| 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | Arxiv 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
+| 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | NIPS 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
 | 24-06-03 | [TimeCMA](https://arxiv.org/abs/2406.01638) | Arxiv 2024 | TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment | None |
 | 24-06-07 | [LMGF](https://arxiv.org/abs/2406.05249) | Arxiv 2024 | A Language Model-Guided Framework for Mining Time Series with Distributional Shifts | None |
 | 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [Time-MMD](https://github.com/AdityaLab/Time-MMD) |
