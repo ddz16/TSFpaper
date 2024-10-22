@@ -225,7 +225,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-10-02 | [MMFNet](https://arxiv.org/abs/2410.02070) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting | None |
 | 24-10-02 | [MixLinear](https://arxiv.org/abs/2410.02081) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters | None |
 | 24-10-07 | [NFM](https://arxiv.org/abs/2410.04703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis | [NFM](https://github.com/minkiml/NFM) |
-
+| 24-10-13 | [TFPS](https://arxiv.org/abs/2410.09836) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift | [TFPS](https://github.com/syrGitHub/TFPS) |
 
 ## TCN/CNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
