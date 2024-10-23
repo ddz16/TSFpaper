@@ -13,7 +13,7 @@ Each paper may apply to one or several types of forecasting, including univariat
 * ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) irregular time series: observation/sampling times are irregular.
 
 
-## Some Additional Information.
+## News.
 🚩 2023/11/1: **I have marked some recommended papers with 🌟 (Just my personal preference 😉).**
 
 🚩 2023/11/1: **I have added a new category ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange): models specifically designed for irregular time series.**
