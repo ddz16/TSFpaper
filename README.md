@@ -30,6 +30,9 @@ Each paper may apply to one or several types of forecasting, including univariat
 
 🚩 2024/9/10: **I am preparing to open [a new GitHub repository](https://github.com/ddz16/VSTFpaper) to collect papers related to Video Spatio-Temporal Forecasting (VSTF). The mapping function for VSTF is ![](https://latex.codecogs.com/svg.image?\inline&space;H&space;\times&space;W&space;\times&space;L_1\times&space;C&space;\to&space;H&space;\times&space;W&space;\times&space;L_2\times&space;C), where ![](https://latex.codecogs.com/svg.image?\inline&space;H) and ![](https://latex.codecogs.com/svg.image?\inline&space;W) are the height and width of each frame. Compared to spatio-temporal forecasting mentioned before, it replaces ![](https://latex.codecogs.com/svg.image?\inline&space;N) with ![](https://latex.codecogs.com/svg.image?\inline&space;H&space;\times&space;W). This setup is commonly used in video prediction and weather forecasting. Stay tuned!**
 
+🚩 2024/10/23: **I have introduced a new table (Multimodal) to include papers that utilize multimodal data (such as relevant text) to assist in forecasting and a new table (KAN) to include papers that utilize Kolmogorov–Arnold Networks.**
+
+
 ## Survey & Benchmark.
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
@@ -55,6 +58,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-07-18|[TSLib](https://arxiv.org/abs/2407.13278)🌟 |Arxiv 2024|Deep Time Series Models: A Comprehensive Survey and Benchmark|[TSLib](https://github.com/thuml/Time-Series-Library)
 24-07-29|[Transformer](https://arxiv.org/abs/2407.19784) |Arxiv 2024| Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting| None
 24-10-14|[GIFT-Eval](https://arxiv.org/abs/2410.10393) |Arxiv 2024| GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation | None
+24-10-15|[FoundTS](https://arxiv.org/abs/2410.11802) |Arxiv 2024| FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting | [FoundTS](https://anonymous.4open.science/r/FoundTS-C2B0)
 
 
 ## Transformer.
@@ -227,6 +231,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-10-07 | [NFM](https://arxiv.org/abs/2410.04703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis | [NFM](https://github.com/minkiml/NFM) |
 | 24-10-13 | [TFPS](https://arxiv.org/abs/2410.09836) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift | [TFPS](https://github.com/syrGitHub/TFPS) |
 
+
 ## TCN/CNN.
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
@@ -249,6 +254,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-05-20 | [ATVCNet](https://arxiv.org/abs/2405.12038) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| ATVCNet: Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting |  None  |
 | 24-05-24 | [FTMixer](https://arxiv.org/abs/2405.15256) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| FTMixer: Frequency and Time Domain Representations Fusion for Time Series Modeling | [FTMixer](https://github.com/FMLYD/FTMixer)  |
 | 24-10-07 | [TimeCNN](https://arxiv.org/abs/2410.04853) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| TimeCNN: Refining Cross-Variable Interaction on Time Point for Time Series Forecasting | None |
+| 24-10-21 | [TimeMixer++](https://arxiv.org/abs/2410.16032) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis | None |
 
 
 ## GNN.
@@ -280,6 +286,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-05-17 | [HimNet](https://arxiv.org/abs/2405.10800) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | KDD 2024 | Heterogeneity-Informed Meta-Parameter Learning for Spatiotemporal Time Series Forecasting | [HimNet](https://github.com/XDZhelheim/HimNet) |
 | 24-05-28 | [GFC-GNN](https://arxiv.org/abs/2405.18036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks | None |
 | 24-06-18 | [SAGDFN](https://arxiv.org/abs/2406.12282) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICDE 2024 | SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting | None |
+| 24-10-17 | [GNeuralFlow](https://arxiv.org/abs/2410.14030) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2024 | Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series | [GNeuralFlow](https://github.com/gmerca/GNeuralFlow) |
 
 
 ## SSM (State Space Model).
@@ -308,6 +315,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-08-28 | [MoU](https://arxiv.org/abs/2408.15997) | Arxiv 2024 | Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need | [MoU](https://github.com/lunaaa95/mou) |
 | 24-09-26 | [SAMBA](https://arxiv.org/abs/2410.03707) | Arxiv 2024 | Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction | [SAMBA](https://github.com/Ali-Meh619/SAMBA) |
 | 24-10-04 | [LinOSS](https://arxiv.org/abs/2410.03943) | Arxiv 2024 | Oscillatory State-Space Models | None |
+| 24-10-15 | [UmambaTSF](https://arxiv.org/abs/2410.11278) | Arxiv 2024 | UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba | None |
 
 
 ## Generation Model.
@@ -341,6 +349,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-03 | [CCDM](https://arxiv.org/abs/2410.02168) | Arxiv 2024 | Channel-aware Contrastive Conditional Diffusion for Multivariate Probabilistic Time Series Forecasting | [CCDM](https://github.com/LSY-Cython/CCDM) |
 | 24-10-03 | [TSFlow](https://arxiv.org/abs/2410.03024) | Arxiv 2024 | Flow Matching with Gaussian Process Priors for Probabilistic Time Series Forecasting | None |
 | 24-10-08 | [TimeDART](https://arxiv.org/abs/2410.05711) | Arxiv 2024 | Diffusion Auto-regressive Transformer for Effective Self-supervised Time Series Forecasting | [TimeDART](https://github.com/Melmaphother/TimeDART) |
+| 24-10-17 | [FDF](https://arxiv.org/abs/2410.13253) | Arxiv 2024 | FDF: Flexible Decoupled Framework for Time Series Forecasting with Conditional Denoising and Polynomial Modeling | [FDF](https://github.com/zjt-gpu/FDF) |
+| 24-10-18 | [ANT](https://arxiv.org/abs/2410.14488) | NIPS 2024 | ANT: Adaptive Noise Schedule for Time Series Diffusion Models | [ANT](https://github.com/seunghan96/ANT) |
 
 
 ## Time-index.
@@ -438,6 +448,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-24 | [RePST](https://arxiv.org/abs/2408.14505) | Arxiv 2024 | Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming | None |
 | 24-09-17 | [MLLM](https://arxiv.org/abs/2409.11376) | Arxiv 2024 | Towards Time Series Reasoning with LLMs | None |
 | 24-10-04 | [MetaTST](https://arxiv.org/abs/2410.03806) | Arxiv 2024 | Metadata Matters for Time Series: Informative Forecasting with Transformers | None |
+| 24-10-15 | [LLM-Mixer](https://arxiv.org/abs/2410.11674) | Arxiv 2024 | LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting | [LLMMixer](https://github.com/Kowsher/LLMMixer) |
+| 24-10-16 | [NoLLM](https://arxiv.org/abs/2410.12326) | Arxiv 2024 | Revisited Large Language Model for Time Series Analysis through Modality Alignment | None |
+| 24-10-18 | [XForecast](https://arxiv.org/abs/2410.14180) | Arxiv 2024 | XForecast: Evaluating Natural Language Explanations for Time Series Forecasting | None |
 
 
 ## Pretrain & Representation.
@@ -488,6 +501,13 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
 
 
+## Multimodal.
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
+| 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [time-mmd](https://github.com/adityalab/time-mmd) |
+| 24-10-16 | [ContextFormer](https://arxiv.org/abs/2410.12672) | Arxiv 2024 | Context Matters: Leveraging Contextual Features for Time Series Forecasting | None |
+
+
 ## Domain Adaptation.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -509,6 +529,18 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-09-29 | [EvoMSN](https://arxiv.org/abs/2409.19718) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Evolving Multi-Scale Normalization for Time Series Forecasting under Distribution Shifts | [EvoMSN](https://github.com/qindalin/evomsn)  |
 
 
+## KAN (Kolmogorov–Arnold Network).
+Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
+-----|----|-----|-----|-----
+| 24-05-12 | [TKAN](https://arxiv.org/abs/2405.07344) | Arxiv 2024 | TKAN: Temporal Kolmogorov-Arnold Networks | [tkan](https://github.com/remigenet/tkan) |
+| 24-05-14 | [KAN](https://arxiv.org/abs/2405.08790) | Arxiv 2024 | Kolmogorov-Arnold Networks (KANs) for Time Series Analysis | None |
+| 24-06-04 | [TKAT](https://arxiv.org/abs/2406.02486) | Arxiv 2024 | A Temporal Kolmogorov-Arnold Transformer for Time Series Forecasting | [TKAT](https://github.com/remigenet/TKAT) |
+| 24-06-04 | [MT-KAN](https://arxiv.org/abs/2406.02496) | Arxiv 2024 | Kolmogorov-Arnold Networks for Time Series: Bridging Predictive Power and Interpretability | None |
+| 24-08-21 | [KAN4TSF](https://arxiv.org/abs/2408.11306) | Arxiv 2024 | KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting? | [kan4tsf](https://github.com/2448845600/kan4tsf) |
+| 24-10-13 | [WormKAN](https://arxiv.org/abs/2410.10041) | NIPSW 2024 | Are KAN Effective for Identifying and Tracking Concept Drift in Time Series? | None |
+| 24-10-19 | [HiPPO-KAN](https://arxiv.org/abs/2410.14939) | Arxiv 2024 | HiPPO-KAN: Efficient KAN Model for Time Series Analysis | None |
+
+
 ## Theory.
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -528,7 +560,6 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-05-24 | [ScalingLaw](https://arxiv.org/abs/2405.15124) | Arxiv 2024 | Scaling Law for Time Series Forecasting | [ScalingLaw](https://github.com/JingzheShi/ScalingLawForTimeSeriesForecasting) |
 | 24-06-04 | [CondTSF](https://arxiv.org/abs/2406.02131) | Arxiv 2024 | CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting | None |
 | 24-06-14 | [MTL](https://arxiv.org/abs/2406.10327) | Arxiv 2024 | Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting | None |
-| 24-08-21 | [KAN4TSF](https://arxiv.org/abs/2408.11306) | Arxiv 2024 | KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting? | [kan4tsf](https://github.com/2448845600/kan4tsf) |
 | 24-10-03 | [BackTime](https://arxiv.org/abs/2410.02195) | NIPS 2024 | BACKTIME: Backdoor Attacks on Multivariate Time Series Forecasting | [BackTime](https://github.com/xiaolin-cs/BackTime) |
 
 
