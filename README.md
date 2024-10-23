@@ -417,7 +417,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-01-18 | [ST-LLM](https://arxiv.org/abs/2401.10134) | Arxiv 2024 | Spatial-Temporal Large Language Model for Traffic Prediction | None |
 | 24-02-01 | [LLMICL](https://arxiv.org/abs/2402.00795) | Arxiv 2024 | LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law | [LLMICL](https://github.com/AntonioLiu97/llmICL) |
 | 24-02-04 | [AutoTimes](https://arxiv.org/abs/2402.02370) | Arxiv 2024 | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | [AutoTimes](https://github.com/thuml/AutoTimes) |
-| 24-02-05 | [Position](https://openreview.net/attachment?id=iroZNDxFJZ&name=pdf) | ICML 2024 | What Can Large Language Models Tell Us about Time Series Analysis | None |
+| 24-02-05 | [Position](https://openreview.net/attachment?id=iroZNDxFJZ&name=pdf) | ICML 2024 | Position: What Can Large Language Models Tell Us about Time Series Analysis | None |
 | 24-02-07 | [aLLM4TS](https://arxiv.org/abs/2402.04852) | ICML 2024 | Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning | None |
 | 24-02-16 | [TSFwithLLM](https://arxiv.org/abs/2402.10835) | Arxiv 2024 | Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities | None |
 | 24-02-25 | [LSTPrompt](https://arxiv.org/abs/2402.16132) | Arxiv 2024 | LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting | [LSTPrompt](https://github.com/AdityaLab/lstprompt) |
