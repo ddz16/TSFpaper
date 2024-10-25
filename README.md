@@ -33,7 +33,7 @@ Each paper may apply to one or several types of forecasting, including univariat
 🚩 2024/10/23: **I have introduced a new table (Multimodal) to include papers that utilize multimodal data (such as relevant text) to assist in forecasting and a new table (KAN) to include papers that utilize Kolmogorov–Arnold Networks.**
 
 
-<details><summary><strong style="font-size: 32px;">Survey & Benchmark.</strong></summary>
+<details><summary><h2 style="display: inline;">Survey & Benchmark.</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
