@@ -63,7 +63,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">Transformer.</strong></summary>
+<details><summary><h2 style="display: inline;">Transformer.</h2></summary>
 
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
@@ -159,7 +159,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">RNN.</strong></summary>
+<details><summary><h2 style="display: inline;">RNN.</h2></summary>
 
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----|-----
@@ -189,7 +189,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">MLP.</strong></summary>
+<details><summary><h2 style="display: inline;">MLP.</h2></summary>
 
 Date     | Method                                        |Type| Conference | Paper Title and Paper Interpretation (In Chinese)            | Code                                           |
 | -------- | --------------------------------------------- |-----| ---------- | ------------------------------------------------------------ | ---------------------------------------------- |
@@ -240,7 +240,7 @@ Date     | Method                                        |Type| Conference | Pap
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">TCN/CNN.</strong></summary>
+<details><summary><h2 style="display: inline;">TCN/CNN.</h2></summary>
 
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
@@ -267,7 +267,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">GNN.</strong></summary>
+<details><summary><h2 style="display: inline;">GNN.</h2></summary>
 
 Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chinese) | Code |
 | ---- | ------ | ------ | ---------- | ------------------------------------------------- | ---- |
@@ -302,7 +302,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 </details>
 
 
-<details><summary><strong style="font-size: 32px;">SSM (State Space Model).</strong></summary>
+<details><summary><h2 style="display: inline;">SSM (State Space Model).</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
@@ -333,7 +333,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">Generation Model.</strong></summary>
+<details><summary><h2 style="display: inline;">Generation Model.</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
@@ -371,7 +371,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 </details>
 
 
-<details><summary><strong style="font-size: 32px;">Time-index.</strong></summary>
+<details><summary><h2 style="display: inline;">Time-index.</h2></summary>
 
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|----|-----|-----|-----
@@ -383,7 +383,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">Plug and Play (Model-Agnostic).</strong></summary>
+<details><summary><h2 style="display: inline;">Plug and Play (Model-Agnostic).</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -434,7 +434,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 </details>
 
 
-<details><summary><strong style="font-size: 32px;">LLM (Large Language Model).</strong></summary>
+<details><summary><h2 style="display: inline;">LLM (Large Language Model).</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -479,7 +479,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 </details>
 
 
-<details><summary><strong style="font-size: 32px;">Pretrain & Representation.</strong></summary>
+<details><summary><h2 style="display: inline;">Pretrain & Representation.</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -529,7 +529,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">Multimodal.</strong></summary>
+<details><summary><h2 style="display: inline;">Multimodal.</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -538,7 +538,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">Domain Adaptation.</strong></summary>
+<details><summary><h2 style="display: inline;">Domain Adaptation.</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -548,7 +548,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">Online.</strong></summary>
+<details><summary><h2 style="display: inline;">Online.</h2></summary>
 
 Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----|-----
@@ -563,7 +563,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">KAN (Kolmogorov–Arnold Network).</strong></summary>
+<details><summary><h2 style="display: inline;">KAN (Kolmogorov–Arnold Network).</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
@@ -578,7 +578,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 </details>
 
 
-<details><summary><strong style="font-size: 32px;">Theory.</strong></summary>
+<details><summary><h2 style="display: inline;">Theory.</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -587,7 +587,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 </details>
 
-<details><summary><strong style="font-size: 32px;">Other.</strong></summary>
+<details><summary><h2 style="display: inline;">Other.</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 -----|----|-----|-----|-----
