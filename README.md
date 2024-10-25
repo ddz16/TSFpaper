@@ -46,7 +46,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 23-06-16|[SSL](https://arxiv.org/abs/2306.10125)|TPAMI 2024|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
 23-06-20|[OpenSTL](https://arxiv.org/abs/2306.11249)|NIPS 2023|OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning|[Benchmark](https://github.com/chengtan9907/OpenSTL)
 23-07-07|[GNN](https://arxiv.org/abs/2307.03759)|Arxiv 2023|A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection|[PaperList](https://github.com/KimMeen/Awesome-GNN4TS)
-23-10-09|[BasicTS](https://arxiv.org/abs/2310.06119)|Arxiv 2023|Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis|Benchmark
+23-10-09|[BasicTS](https://arxiv.org/abs/2310.06119)|TKDE 2024|Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis|[BasicTS](https://github.com/GestaltCogTeam/BasicTS)
 23-10-11|[ProbTS](https://arxiv.org/abs/2310.07446)|Arxiv 2023|ProbTS: Benchmarking Point and Distributional Forecasting across Diverse Prediction Horizons|[ProbTS](https://github.com/microsoft/probts)
 23-12-28|[TSPP](https://arxiv.org/abs/2312.17100)|Arxiv 2023|TSPP: A Unified Benchmarking Tool for Time-series Forecasting|[TSPP](https://github.com/NVIDIA/DeepLearningExamples)
 24-01-05|[Diffusion](https://arxiv.org/abs/2401.03006)|Arxiv 2024|The Rise of Diffusion Models in Time-Series Forecasting|None
