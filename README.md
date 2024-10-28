@@ -186,6 +186,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-07-14|[xLSTMTime](https://arxiv.org/abs/2407.10240)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2024| xLSTMTime: Long-term Time Series Forecasting With xLSTM | [xLSTMTime](https://github.com/muslehal/xLSTMTime) |
 24-07-29|[TFFM](https://arxiv.org/abs/2407.19697)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |CIKM 2024| Multiscale Representation Enhanced Temporal Flow Fusion Model for Long-Term Workload Forecasting | None |
 24-08-19|[P-sLSTM](https://arxiv.org/abs/2408.10006)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |Arxiv 2024| Unlocking the Power of LSTM for Long Term Time Series Forecasting | None |
+24-10-22|[xLSTM-Mixer](https://arxiv.org/abs/2410.16928)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |Arxiv 2024| xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories | [xlstm-mixer](https://github.com/mauricekraus/xlstm-mixer) |
+
 
 </details>
 
@@ -237,6 +239,8 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-10-02 | [MixLinear](https://arxiv.org/abs/2410.02081) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters | None |
 | 24-10-07 | [NFM](https://arxiv.org/abs/2410.04703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis | [NFM](https://github.com/minkiml/NFM) |
 | 24-10-13 | [TFPS](https://arxiv.org/abs/2410.09836) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift | [TFPS](https://github.com/syrGitHub/TFPS) |
+| 24-10-22 | [LiNo](https://arxiv.org/abs/2410.17159) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting | [LiNo](https://github.com/Levi-Ackman/LiNo) |
+
 
 </details>
 
@@ -298,6 +302,8 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-05-28 | [GFC-GNN](https://arxiv.org/abs/2405.18036) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ForecastGrapher: Redefining Multivariate Time Series Forecasting with Graph Neural Networks | None |
 | 24-06-18 | [SAGDFN](https://arxiv.org/abs/2406.12282) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICDE 2024 | SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting | None |
 | 24-10-17 | [GNeuralFlow](https://arxiv.org/abs/2410.14030) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2024 | Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series | [GNeuralFlow](https://github.com/gmerca/GNeuralFlow) |
+| 24-10-24 | [TEAM](https://arxiv.org/abs/2410.19192) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2025 | TEAM: Topological Evolution-aware Framework for Traffic Forecasting | [TEAM](https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting) |
+
 
 </details>
 
@@ -367,6 +373,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-08 | [TimeDART](https://arxiv.org/abs/2410.05711) | Arxiv 2024 | Diffusion Auto-regressive Transformer for Effective Self-supervised Time Series Forecasting | [TimeDART](https://github.com/Melmaphother/TimeDART) |
 | 24-10-17 | [FDF](https://arxiv.org/abs/2410.13253) | Arxiv 2024 | FDF: Flexible Decoupled Framework for Time Series Forecasting with Conditional Denoising and Polynomial Modeling | [FDF](https://github.com/zjt-gpu/FDF) |
 | 24-10-18 | [ANT](https://arxiv.org/abs/2410.14488) | NIPS 2024 | ANT: Adaptive Noise Schedule for Time Series Diffusion Models | [ANT](https://github.com/seunghan96/ANT) |
+| 24-10-24 | [RATD](https://arxiv.org/abs/2410.18712) | NIPS 2024 | Retrieval-Augmented Diffusion Models for Time Series Forecasting | [RATD](https://github.com/stanliu96/RATD) |
+
 
 </details>
 
@@ -430,6 +438,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-03 | [FAN](https://arxiv.org/abs/2410.02675) | Arxiv 2024 | FAN: Fourier Analysis Networks | [FAN](https://github.com/YihongDong/FAN) |
 | 24-10-04 | [GAS-Norm](https://arxiv.org/abs/2410.03935) | CIKM 2024 | GAS-Norm: Score-Driven Adaptive Normalization for Non-Stationary Time Series Forecasting in Deep Learning | [GAS-Norm](https://github.com/edo-urettini/GAS_Norm) |
 | 24-10-09 | [TOI](https://arxiv.org/abs/2410.06652) | NIPS 2024 | Task-oriented Time Series Imputation Evaluation via Generalized Representers | [TOI](https://github.com/hkuedl/Task-Oriented-Imputation) |
+| 24-10-19 | [FGL](https://arxiv.org/abs/2410.15217) | Arxiv 2024 | Future-Guided Learning: A Predictive Approach To Enhance Time-Series Forecasting | None |
+
 
 </details>
 
@@ -475,6 +485,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-15 | [LLM-Mixer](https://arxiv.org/abs/2410.11674) | Arxiv 2024 | LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting | [LLMMixer](https://github.com/Kowsher/LLMMixer) |
 | 24-10-16 | [NoLLM](https://arxiv.org/abs/2410.12326) | Arxiv 2024 | Revisited Large Language Model for Time Series Analysis through Modality Alignment | None |
 | 24-10-18 | [XForecast](https://arxiv.org/abs/2410.14180) | Arxiv 2024 | XForecast: Evaluating Natural Language Explanations for Time Series Forecasting | None |
+| 24-10-21 | [LLM-TS](https://arxiv.org/abs/2410.16489) | Arxiv 2024 | LLM-TS Integrator: Integrating LLM for Enhanced Time Series Modeling | None |
+
 
 </details>
 
