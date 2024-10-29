@@ -373,6 +373,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-08 | [TimeDART](https://arxiv.org/abs/2410.05711) | Arxiv 2024 | Diffusion Auto-regressive Transformer for Effective Self-supervised Time Series Forecasting | [TimeDART](https://github.com/Melmaphother/TimeDART) |
 | 24-10-17 | [FDF](https://arxiv.org/abs/2410.13253) | Arxiv 2024 | FDF: Flexible Decoupled Framework for Time Series Forecasting with Conditional Denoising and Polynomial Modeling | [FDF](https://github.com/zjt-gpu/FDF) |
 | 24-10-18 | [ANT](https://arxiv.org/abs/2410.14488) | NIPS 2024 | ANT: Adaptive Noise Schedule for Time Series Diffusion Models | [ANT](https://github.com/seunghan96/ANT) |
+| 24-10-21 | [REDI](https://dl.acm.org/doi/abs/10.1145/3627673.3679808) | CIKM 2024 | REDI: Recurrent Diffusion Model for Probabilistic Time Series Forecasting | None |
 | 24-10-24 | [RATD](https://arxiv.org/abs/2410.18712) | NIPS 2024 | Retrieval-Augmented Diffusion Models for Time Series Forecasting | [RATD](https://github.com/stanliu96/RATD) |
 
 
