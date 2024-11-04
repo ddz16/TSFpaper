@@ -448,7 +448,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-19 | [FGL](https://arxiv.org/abs/2410.15217) | Arxiv 2024 | Future-Guided Learning: A Predictive Approach To Enhance Time-Series Forecasting | None |
 | 24-10-28 | [BSA](https://arxiv.org/abs/2410.20772) | NIPS 2024 | Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting | [BSA](https://github.com/djlee1208/bsa_2024) |
 | 24-10-30 | [CM](https://arxiv.org/abs/2410.23222) | Arxiv 2024 | Partial Channel Dependence with Channel Masks for Time Series Foundation Models | [CM](https://github.com/seunghan96/CM) |
-| 24-10-31 | [MLP-Rep-Attn](https://arxiv.org/abs/2410.24023) | Arxiv 2024 | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | None |
+| 24-10-31 | [MLP replace attention](https://arxiv.org/abs/2410.24023) | Arxiv 2024 | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | None |
 
 
 </details>
