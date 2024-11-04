@@ -156,6 +156,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-10-02 | [TiVaT](https://arxiv.org/abs/2410.01531)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TiVaT: Joint-Axis Attention for Time Series Forecasting with Lead-Lag Dynamics | None
 24-10-04 | [ARMA](https://arxiv.org/abs/2410.03159)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Autoregressive Moving-average Attention Mechanism for Time Series Forecasting | [ARMA-Attention](https://github.com/LJC-FVNR/ARMA-Attention)
 24-10-06 | [TimeBridge](https://arxiv.org/abs/2410.04442)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting | [TimeBridge](https://github.com/Hank0626/TimeBridge)
+24-10-31 | [Ada-MSHyper](https://arxiv.org/abs/2410.23992)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2024 | Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting | [Ada-MSHyper](https://github.com/shangzongjiang/Ada-MSHyper)
+
 
 </details>
 
@@ -336,6 +338,9 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-09-26 | [SAMBA](https://arxiv.org/abs/2410.03707) | Arxiv 2024 | Mamba Meets Financial Markets: A Graph-Mamba Approach for Stock Price Prediction | [SAMBA](https://github.com/Ali-Meh619/SAMBA) |
 | 24-10-04 | [LinOSS](https://arxiv.org/abs/2410.03943) | Arxiv 2024 | Oscillatory State-Space Models | None |
 | 24-10-15 | [UmambaTSF](https://arxiv.org/abs/2410.11278) | Arxiv 2024 | UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba | None |
+| 24-10-28 | [FACTS](https://arxiv.org/abs/2410.20922) | Arxiv 2024 | FACTS: A Factored State-Space Framework For World Modelling | [FACTS](https://github.com/nanboli/facts) |
+| 24-10-30 | [SOR-Mamba](https://arxiv.org/abs/2410.23356) | Arxiv 2024 | Sequential Order-Robust Mamba for Time Series Forecasting | [SOR-Mamba](https://github.com/seunghan96/SOR-Mamba) |
+
 
 </details>
 
@@ -392,6 +397,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 
 </details>
 
+
 <details><summary><h2 style="display: inline;">Plug and Play (Model-Agnostic).</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
@@ -440,6 +446,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-04 | [GAS-Norm](https://arxiv.org/abs/2410.03935) | CIKM 2024 | GAS-Norm: Score-Driven Adaptive Normalization for Non-Stationary Time Series Forecasting in Deep Learning | [GAS-Norm](https://github.com/edo-urettini/GAS_Norm) |
 | 24-10-09 | [TOI](https://arxiv.org/abs/2410.06652) | NIPS 2024 | Task-oriented Time Series Imputation Evaluation via Generalized Representers | [TOI](https://github.com/hkuedl/Task-Oriented-Imputation) |
 | 24-10-19 | [FGL](https://arxiv.org/abs/2410.15217) | Arxiv 2024 | Future-Guided Learning: A Predictive Approach To Enhance Time-Series Forecasting | None |
+| 24-10-28 | [BSA](https://arxiv.org/abs/2410.20772) | NIPS 2024 | Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting | [BSA](https://github.com/djlee1208/bsa_2024) |
+| 24-10-30 | [CM](https://arxiv.org/abs/2410.23222) | Arxiv 2024 | Partial Channel Dependence with Channel Masks for Time Series Foundation Models | [CM](https://github.com/seunghan96/CM) |
+| 24-10-31 | [MLP-Rep-Attn](https://arxiv.org/abs/2410.24023) | Arxiv 2024 | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | None |
 
 
 </details>
@@ -487,6 +496,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-16 | [NoLLM](https://arxiv.org/abs/2410.12326) | Arxiv 2024 | Revisited Large Language Model for Time Series Analysis through Modality Alignment | None |
 | 24-10-18 | [XForecast](https://arxiv.org/abs/2410.14180) | Arxiv 2024 | XForecast: Evaluating Natural Language Explanations for Time Series Forecasting | None |
 | 24-10-21 | [LLM-TS](https://arxiv.org/abs/2410.16489) | Arxiv 2024 | LLM-TS Integrator: Integrating LLM for Enhanced Time Series Modeling | None |
+| 24-10-28 | [Strada-LLM](https://arxiv.org/abs/2410.20856) | Arxiv 2024 | Strada-LLM: Graph LLM for traffic prediction | None |
 
 
 </details>
@@ -539,6 +549,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | Arxiv 2024 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | None |
 | 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
 | 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
+| 24-10-30 | [FlexTSF](https://arxiv.org/abs/2410.23160) | Arxiv 2024 | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | [FlexTSF](https://github.com/jingge326/flextsf) |
+| 24-10-31 | [ICF](https://arxiv.org/abs/2410.24087) | Arxiv 2024 | In-Context Fine-Tuning for Time-Series Foundation Models | None |
+
 
 </details>
 
