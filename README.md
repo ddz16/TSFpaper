@@ -60,7 +60,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-07-29|[Transformer](https://arxiv.org/abs/2407.19784) |Arxiv 2024| Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting| None
 24-10-14|[GIFT-Eval](https://arxiv.org/abs/2410.10393) |Arxiv 2024| GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation | None
 24-10-15|[FoundTS](https://arxiv.org/abs/2410.11802) |Arxiv 2024| FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting | [FoundTS](https://anonymous.4open.science/r/FoundTS-C2B0)
-
+24-10-29|[STGNN](https://arxiv.org/abs/2410.22377) |Arxiv 2024| A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification | None
 </details>
 
 <details><summary><h2 style="display: inline;">Transformer.</h2></summary>
@@ -156,6 +156,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-10-02 | [TiVaT](https://arxiv.org/abs/2410.01531)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TiVaT: Joint-Axis Attention for Time Series Forecasting with Lead-Lag Dynamics | None
 24-10-04 | [ARMA](https://arxiv.org/abs/2410.03159)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Autoregressive Moving-average Attention Mechanism for Time Series Forecasting | [ARMA-Attention](https://github.com/LJC-FVNR/ARMA-Attention)
 24-10-06 | [TimeBridge](https://arxiv.org/abs/2410.04442)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting | [TimeBridge](https://github.com/Hank0626/TimeBridge)
+24-10-30 | [WaveRoRA](https://arxiv.org/abs/2410.22649)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | WaveRoRA: Wavelet Rotary Route Attention for Multivariate Time Series Forecasting | None
 24-10-31 | [Ada-MSHyper](https://arxiv.org/abs/2410.23992)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2024 | Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting | [Ada-MSHyper](https://github.com/shangzongjiang/Ada-MSHyper)
 
 
@@ -447,6 +448,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-09 | [TOI](https://arxiv.org/abs/2410.06652) | NIPS 2024 | Task-oriented Time Series Imputation Evaluation via Generalized Representers | [TOI](https://github.com/hkuedl/Task-Oriented-Imputation) |
 | 24-10-19 | [FGL](https://arxiv.org/abs/2410.15217) | Arxiv 2024 | Future-Guided Learning: A Predictive Approach To Enhance Time-Series Forecasting | None |
 | 24-10-28 | [BSA](https://arxiv.org/abs/2410.20772) | NIPS 2024 | Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting | [BSA](https://github.com/djlee1208/bsa_2024) |
+| 24-10-30 | [DisenTS](https://arxiv.org/abs/2410.22981) | Arxiv 2024 | DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting | None |
 | 24-10-30 | [CM](https://arxiv.org/abs/2410.23222) | Arxiv 2024 | Partial Channel Dependence with Channel Masks for Time Series Foundation Models | [CM](https://github.com/seunghan96/CM) |
 | 24-10-31 | [MLP replace attention](https://arxiv.org/abs/2410.24023) | Arxiv 2024 | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | None |
 
@@ -497,6 +499,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-18 | [XForecast](https://arxiv.org/abs/2410.14180) | Arxiv 2024 | XForecast: Evaluating Natural Language Explanations for Time Series Forecasting | None |
 | 24-10-21 | [LLM-TS](https://arxiv.org/abs/2410.16489) | Arxiv 2024 | LLM-TS Integrator: Integrating LLM for Enhanced Time Series Modeling | None |
 | 24-10-28 | [Strada-LLM](https://arxiv.org/abs/2410.20856) | Arxiv 2024 | Strada-LLM: Graph LLM for traffic prediction | None |
+| 24-10-29 | [Fourier-Head](https://arxiv.org/abs/2410.22269) | Arxiv 2024 | Fourier Head: Helping Large Language Models Learn Complex Probability Distributions | [Fourier-Head](https://github.com/nate-gillman/fourier-head) |
 
 
 </details>
@@ -627,6 +630,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-06-04 | [CondTSF](https://arxiv.org/abs/2406.02131) | Arxiv 2024 | CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting | None |
 | 24-06-14 | [MTL](https://arxiv.org/abs/2406.10327) | Arxiv 2024 | Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting | None |
 | 24-10-03 | [BackTime](https://arxiv.org/abs/2410.02195) | NIPS 2024 | BACKTIME: Backdoor Attacks on Multivariate Time Series Forecasting | [BackTime](https://github.com/xiaolin-cs/BackTime) |
+| 24-10-30 | [SwimRNN](https://arxiv.org/abs/2410.23467) | Arxiv 2024 | Gradient-free training of recurrent neural networks | [swimrnn](https://gitlab.com/felix.dietrich/swimrnn-paper) |
 
 </details>
 
