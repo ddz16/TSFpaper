@@ -160,6 +160,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-10-06 | [TimeBridge](https://arxiv.org/abs/2410.04442)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TimeBridge: Non-Stationarity Matters for Long-term Time Series Forecasting | [TimeBridge](https://github.com/Hank0626/TimeBridge)
 24-10-30 | [WaveRoRA](https://arxiv.org/abs/2410.22649)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | WaveRoRA: Wavelet Rotary Route Attention for Multivariate Time Series Forecasting | None
 24-10-31 | [Ada-MSHyper](https://arxiv.org/abs/2410.23992)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2024 | Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting | [Ada-MSHyper](https://github.com/shangzongjiang/Ada-MSHyper)
+24-11-03 | [PSformer](https://arxiv.org/abs/2411.01419)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting | None
+24-11-04 | [ElasTST](https://arxiv.org/abs/2411.01842)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer | [elastst](https://github.com/microsoft/ProbTS/tree/elastst)
 
 
 </details>
@@ -245,6 +247,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-10-07 | [NFM](https://arxiv.org/abs/2410.04703) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis | [NFM](https://github.com/minkiml/NFM) |
 | 24-10-13 | [TFPS](https://arxiv.org/abs/2410.09836) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Learning Pattern-Specific Experts for Time Series Forecasting Under Patch-level Distribution Shift | [TFPS](https://github.com/syrGitHub/TFPS) |
 | 24-10-22 | [LiNo](https://arxiv.org/abs/2410.17159) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting | [LiNo](https://github.com/Levi-Ackman/LiNo) |
+| 24-11-03 | [FilterNet](https://arxiv.org/abs/2411.01623) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | FilterNet: Harnessing Frequency Filters for Time Series Forecasting | [FilterNet](https://github.com/aikunyi/FilterNet) |
 
 
 </details>
@@ -383,6 +386,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-18 | [ANT](https://arxiv.org/abs/2410.14488) | NIPS 2024 | ANT: Adaptive Noise Schedule for Time Series Diffusion Models | [ANT](https://github.com/seunghan96/ANT) |
 | 24-10-21 | [REDI](https://dl.acm.org/doi/abs/10.1145/3627673.3679808) | CIKM 2024 | REDI: Recurrent Diffusion Model for Probabilistic Time Series Forecasting | None |
 | 24-10-24 | [RATD](https://arxiv.org/abs/2410.18712) | NIPS 2024 | Retrieval-Augmented Diffusion Models for Time Series Forecasting | [RATD](https://github.com/stanliu96/RATD) |
+| 24-11-02 | [ProGen](https://arxiv.org/abs/2411.01267) | Arxiv 2024 | ProGen: Revisiting Probabilistic Spatial-Temporal Time Series Forecasting from a Continuous Generative Perspective Using Stochastic Differential Equations | None |
 
 
 </details>
@@ -557,6 +561,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
 | 24-10-30 | [FlexTSF](https://arxiv.org/abs/2410.23160) | Arxiv 2024 | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | [FlexTSF](https://github.com/jingge326/flextsf) |
 | 24-10-31 | [ICF](https://arxiv.org/abs/2410.24087) | Arxiv 2024 | In-Context Fine-Tuning for Time-Series Foundation Models | None |
+| 24-11-05 | [TSMamba](https://arxiv.org/abs/2411.02941) | Arxiv 2024 | A Mamba Foundation Model for Time Series Forecasting | None |
 
 
 </details>
