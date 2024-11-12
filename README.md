@@ -60,7 +60,9 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-07-29|[Transformer](https://arxiv.org/abs/2407.19784) |Arxiv 2024| Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting| None
 24-10-14|[GIFT-Eval](https://arxiv.org/abs/2410.10393) |Arxiv 2024| GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation | None
 24-10-15|[FoundTS](https://arxiv.org/abs/2410.11802) |Arxiv 2024| FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting | [FoundTS](https://anonymous.4open.science/r/FoundTS-C2B0)
+24-10-24|[Architecture](https://arxiv.org/abs/2411.05793) |Arxiv 2024| A Comprehensive Survey of Time Series Forecasting: Architectural Diversity and Open Challenges | None
 24-10-29|[STGNN](https://arxiv.org/abs/2410.22377) |Arxiv 2024| A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification | None
+
 
 </details>
 
@@ -162,6 +164,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-10-31 | [Ada-MSHyper](https://arxiv.org/abs/2410.23992)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | NIPS 2024 | Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting | [Ada-MSHyper](https://github.com/shangzongjiang/Ada-MSHyper)
 24-11-03 | [PSformer](https://arxiv.org/abs/2411.01419)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting | None
 24-11-04 | [ElasTST](https://arxiv.org/abs/2411.01842)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer | [elastst](https://github.com/microsoft/ProbTS/tree/elastst)
+24-11-07 | [Peri-midFormer](https://arxiv.org/abs/2411.04554)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis | [Peri-midFormer](https://github.com/WuQiangXDU/Peri-midFormer)
 
 
 </details>
@@ -277,6 +280,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-05-24 | [FTMixer](https://arxiv.org/abs/2405.15256) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| FTMixer: Frequency and Time Domain Representations Fusion for Time Series Modeling | [FTMixer](https://github.com/FMLYD/FTMixer)  |
 | 24-10-07 | [TimeCNN](https://arxiv.org/abs/2410.04853) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| TimeCNN: Refining Cross-Variable Interaction on Time Point for Time Series Forecasting | None |
 | 24-10-21 | [TimeMixer++](https://arxiv.org/abs/2410.16032) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis | None |
+| 24-11-07 | [EffiCANet](https://arxiv.org/abs/2411.04669) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| EffiCANet: Efficient Time Series Forecasting with Convolutional Attention | None |
+
 
 </details>
 
@@ -362,6 +367,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 22-05-16 | [D3VAE](https://arxiv.org/abs/2301.03028) | NIPS 2022 | Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement | [D3VAE](https://github.com/paddlepaddle/paddlespatial)   |
 | 22-12-28 | [Hier-Transformer-CNF](https://arxiv.org/abs/2212.13706) | Arxiv 2022 | End-to-End Modeling Hierarchical Time Series Using Autoregressive Transformer and Conditional Normalizing Flow based Reconciliation | None   |
 | 23-03-13 | [HyVAE](https://arxiv.org/abs/2303.07048) | Arxiv 2023 | Hybrid Variational Autoencoder for Time Series Forecasting | None   |
+| 23-06-03 | [DYffusion](https://arxiv.org/abs/2306.01984) | NIPS 2023 | DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting | [DYffusion](https://github.com/Rose-STL-Lab/dyffusion)   |
 | 23-06-05 | [WIAE](https://arxiv.org/abs/2306.03782) | Arxiv 2023 | Non-parametric Probabilistic Time Series Forecasting via Innovations Representation | None   |
 | 23-06-08 | [TimeDiff](https://arxiv.org/abs/2306.05043)🌟 | ICML 2023 | Non-autoregressive Conditional Diffusion Models for Time Series Prediction | None |
 | 23-07-21 | [TSDiff](https://arxiv.org/abs/2307.11494) | NIPS 2023 | Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting | [TSDiff](https://github.com/amazon-science/unconditional-time-series-diffusion) |
@@ -388,6 +394,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-21 | [REDI](https://dl.acm.org/doi/abs/10.1145/3627673.3679808) | CIKM 2024 | REDI: Recurrent Diffusion Model for Probabilistic Time Series Forecasting | None |
 | 24-10-24 | [RATD](https://arxiv.org/abs/2410.18712) | NIPS 2024 | Retrieval-Augmented Diffusion Models for Time Series Forecasting | [RATD](https://github.com/stanliu96/RATD) |
 | 24-11-02 | [ProGen](https://arxiv.org/abs/2411.01267) | Arxiv 2024 | ProGen: Revisiting Probabilistic Spatial-Temporal Time Series Forecasting from a Continuous Generative Perspective Using Stochastic Differential Equations | None |
+| 24-11-07 | [S2DBM](https://arxiv.org/abs/2411.04491) | Arxiv 2024 | Series-to-Series Diffusion Bridge Model | None |
 
 
 </details>
@@ -573,6 +580,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [time-mmd](https://github.com/adityalab/time-mmd) |
 | 24-10-16 | [ContextFormer](https://arxiv.org/abs/2410.12672) | Arxiv 2024 | Context Matters: Leveraging Contextual Features for Time Series Forecasting | None |
+| 24-11-11 | [Hybrid-MMF](https://arxiv.org/abs/2411.06735) | Arxiv 2024 | Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data | [Multimodal_Forecasting](https://github.com/Rose-STL-Lab/Multimodal_Forecasting) |
 
 </details>
 
@@ -640,6 +648,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-06-14 | [MTL](https://arxiv.org/abs/2406.10327) | Arxiv 2024 | Analysing Multi-Task Regression via Random Matrix Theory with Application to Time Series Forecasting | None |
 | 24-10-03 | [BackTime](https://arxiv.org/abs/2410.02195) | NIPS 2024 | BACKTIME: Backdoor Attacks on Multivariate Time Series Forecasting | [BackTime](https://github.com/xiaolin-cs/BackTime) |
 | 24-10-30 | [SwimRNN](https://arxiv.org/abs/2410.23467) | Arxiv 2024 | Gradient-free training of recurrent neural networks | [swimrnn](https://gitlab.com/felix.dietrich/swimrnn-paper) |
+| 24-11-06 | [FACTS](https://arxiv.org/abs/2411.05833) | VLDB 2025 | Fully Automated Correlated Time Series Forecasting in Minutes | [FACTS](https://github.com/ccloud0525/FACTS) |
+
 
 </details>
 
