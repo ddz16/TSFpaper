@@ -252,6 +252,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-10-21 | [LTBoost](https://dl.acm.org/doi/pdf/10.1145/3627673.3679527) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | CIKM 2024 | LTBoost: Boosted Hybrids of Ensemble Linear and Gradient Algorithms for the Long-term Time Series Forecasting | [LTBoost](https://github.com/hubtru/LTBoost) |
 | 24-10-22 | [LiNo](https://arxiv.org/abs/2410.17159) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting | [LiNo](https://github.com/Levi-Ackman/LiNo) |
 | 24-11-03 | [FilterNet](https://arxiv.org/abs/2411.01623) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | FilterNet: Harnessing Frequency Filters for Time Series Forecasting | [FilterNet](https://github.com/aikunyi/FilterNet) |
+| 24-11-26 | [DiPE-Linear](https://arxiv.org/abs/2411.17257) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Disentangled Interpretable Representation for Efficient Long-term Time Series Forecasting | [DiPE-Linear](https://github.com/wintertee/DiPE-Linear) |
 
 
 </details>
