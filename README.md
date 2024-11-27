@@ -396,6 +396,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-24 | [RATD](https://arxiv.org/abs/2410.18712) | NIPS 2024 | Retrieval-Augmented Diffusion Models for Time Series Forecasting | [RATD](https://github.com/stanliu96/RATD) |
 | 24-11-02 | [ProGen](https://arxiv.org/abs/2411.01267) | Arxiv 2024 | ProGen: Revisiting Probabilistic Spatial-Temporal Time Series Forecasting from a Continuous Generative Perspective Using Stochastic Differential Equations | None |
 | 24-11-07 | [S2DBM](https://arxiv.org/abs/2411.04491) | Arxiv 2024 | Series-to-Series Diffusion Bridge Model | None |
+| 24-11-12 | [FM-TS](https://arxiv.org/abs/2411.07506) | Arxiv 2024 | FM-TS: Flow Matching for Time Series Generation | [FMTS](https://github.com/UNITES-Lab/FMTS) |
 
 
 </details>
