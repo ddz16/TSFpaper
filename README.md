@@ -467,6 +467,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-30 | [DisenTS](https://arxiv.org/abs/2410.22981) | Arxiv 2024 | DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting | None |
 | 24-10-30 | [CM](https://arxiv.org/abs/2410.23222) | Arxiv 2024 | Partial Channel Dependence with Channel Masks for Time Series Foundation Models | [CM](https://github.com/seunghan96/CM) |
 | 24-10-31 | [MLP replace attention](https://arxiv.org/abs/2410.24023) | Arxiv 2024 | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | None |
+| 24-11-12 | [RAF](https://arxiv.org/abs/2411.08249) | Arxiv 2024 | Retrieval Augmented Time Series Forecasting | None |
+| 24-11-24 | [Freq-Synth](https://arxiv.org/abs/2411.15743) | Arxiv 2024 | Beyond Data Scarcity: A Frequency-Driven Framework for Zero-Shot Forecasting | None |
 
 
 </details>
