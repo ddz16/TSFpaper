@@ -353,6 +353,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-15 | [UmambaTSF](https://arxiv.org/abs/2410.11278) | Arxiv 2024 | UmambaTSF: A U-shaped Multi-Scale Long-Term Time Series Forecasting Method Using Mamba | None |
 | 24-10-28 | [FACTS](https://arxiv.org/abs/2410.20922) | Arxiv 2024 | FACTS: A Factored State-Space Framework For World Modelling | [FACTS](https://github.com/nanboli/facts) |
 | 24-10-30 | [SOR-Mamba](https://arxiv.org/abs/2410.23356) | Arxiv 2024 | Sequential Order-Robust Mamba for Time Series Forecasting | [SOR-Mamba](https://github.com/seunghan96/SOR-Mamba) |
+| 24-11-26 | [MTS-UNMixers](https://arxiv.org/abs/2411.17770) | Arxiv 2024 | MTS-UNMixers: Multivariate Time Series Forecasting via Channel-Time Dual Unmixing | [MTS-UNMixers](https://github.com/zhu-0108/mts-unmixers) |
 
 
 </details>
