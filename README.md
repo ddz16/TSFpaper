@@ -165,6 +165,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-11-03 | [PSformer](https://arxiv.org/abs/2411.01419)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PSformer: Parameter-efficient Transformer with Segment Attention for Time Series Forecasting | None
 24-11-04 | [ElasTST](https://arxiv.org/abs/2411.01842)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer | [elastst](https://github.com/microsoft/ProbTS/tree/elastst)
 24-11-07 | [Peri-midFormer](https://arxiv.org/abs/2411.04554)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis | [Peri-midFormer](https://github.com/WuQiangXDU/Peri-midFormer)
+24-12-02 | [MuSiCNet](https://arxiv.org/abs/2412.01063)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | IJCAIW 2024 | MuSiCNet: A Gradual Coarse-to-Fine Framework for Irregularly Sampled Multivariate Time Series Analysis | None
+24-12-04 | [HOT](https://arxiv.org/abs/2412.02919)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Higher Order Transformers: Efficient Attention Mechanism for Tensor Structured Data | None
 
 
 </details>
@@ -253,6 +255,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-10-22 | [LiNo](https://arxiv.org/abs/2410.17159) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | LiNo: Advancing Recursive Residual Decomposition of Linear and Nonlinear Patterns for Robust Time Series Forecasting | [LiNo](https://github.com/Levi-Ackman/LiNo) |
 | 24-11-03 | [FilterNet](https://arxiv.org/abs/2411.01623) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | FilterNet: Harnessing Frequency Filters for Time Series Forecasting | [FilterNet](https://github.com/aikunyi/FilterNet) |
 | 24-11-26 | [DiPE-Linear](https://arxiv.org/abs/2411.17257) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Disentangled Interpretable Representation for Efficient Long-term Time Series Forecasting | [DiPE-Linear](https://github.com/wintertee/DiPE-Linear) |
+| 24-12-02 | [FSMLP](https://arxiv.org/abs/2412.01654) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain | [FSMLP](https://github.com/fmlyd/fsmlp) |
 
 
 </details>
@@ -354,6 +357,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-28 | [FACTS](https://arxiv.org/abs/2410.20922) | Arxiv 2024 | FACTS: A Factored State-Space Framework For World Modelling | [FACTS](https://github.com/nanboli/facts) |
 | 24-10-30 | [SOR-Mamba](https://arxiv.org/abs/2410.23356) | Arxiv 2024 | Sequential Order-Robust Mamba for Time Series Forecasting | [SOR-Mamba](https://github.com/seunghan96/SOR-Mamba) |
 | 24-11-26 | [MTS-UNMixers](https://arxiv.org/abs/2411.17770) | Arxiv 2024 | MTS-UNMixers: Multivariate Time Series Forecasting via Channel-Time Dual Unmixing | [MTS-UNMixers](https://github.com/zhu-0108/mts-unmixers) |
+| 24-12-01 | [DSSRNN](https://arxiv.org/abs/2412.00994) | Arxiv 2024 | DSSRNN: Decomposition-Enhanced State-Space Recurrent Neural Network for Time-Series Analysis | [DSSRNN](https://github.com/ahmad-shirazi/DSSRNN) |
 
 
 </details>
@@ -470,6 +474,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-31 | [MLP replace attention](https://arxiv.org/abs/2410.24023) | Arxiv 2024 | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | None |
 | 24-11-12 | [RAF](https://arxiv.org/abs/2411.08249) | Arxiv 2024 | Retrieval Augmented Time Series Forecasting | None |
 | 24-11-24 | [Freq-Synth](https://arxiv.org/abs/2411.15743) | Arxiv 2024 | Beyond Data Scarcity: A Frequency-Driven Framework for Zero-Shot Forecasting | None |
+| 24-12-02 | [TimeLinear](https://arxiv.org/abs/2412.01557) | Arxiv 2024 | How Much Can Time-related Features Enhance Time Series Forecasting? | [TimeLinear](https://github.com/zclzcl0223/TimeLinear) |
+| 24-12-06 | [WaveToken](https://arxiv.org/abs/2412.05244) | Arxiv 2024 | Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization | None |
 
 
 </details>
@@ -519,6 +525,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-21 | [LLM-TS](https://arxiv.org/abs/2410.16489) | Arxiv 2024 | LLM-TS Integrator: Integrating LLM for Enhanced Time Series Modeling | None |
 | 24-10-28 | [Strada-LLM](https://arxiv.org/abs/2410.20856) | Arxiv 2024 | Strada-LLM: Graph LLM for traffic prediction | None |
 | 24-10-29 | [Fourier-Head](https://arxiv.org/abs/2410.22269) | Arxiv 2024 | Fourier Head: Helping Large Language Models Learn Complex Probability Distributions | [Fourier-Head](https://github.com/nate-gillman/fourier-head) |
+| 24-11-24 | [LeMoLE](https://arxiv.org/abs/2412.00053) | Arxiv 2024 | LeMoLE: LLM-Enhanced Mixture of Linear Experts for Time Series Forecasting | None |
+| 24-12-03 | [LLMForecaster](https://arxiv.org/abs/2412.02525) | Arxiv 2024 | LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data | None |
+| 24-12-06 | [NNCL-TLLM](https://arxiv.org/abs/2412.04806) | Arxiv 2024 | Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning | None |
 
 
 </details>
@@ -575,6 +584,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-30 | [FlexTSF](https://arxiv.org/abs/2410.23160) | Arxiv 2024 | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | [FlexTSF](https://github.com/jingge326/flextsf) |
 | 24-10-31 | [ICF](https://arxiv.org/abs/2410.24087) | Arxiv 2024 | In-Context Fine-Tuning for Time-Series Foundation Models | None |
 | 24-11-05 | [TSMamba](https://arxiv.org/abs/2411.02941) | Arxiv 2024 | A Mamba Foundation Model for Time Series Forecasting | None |
+| 24-12-01 | [WQ4TS](https://arxiv.org/abs/2412.00772) | Arxiv 2024 | A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series | None |
 
 
 </details>
@@ -596,6 +606,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 21-02-13 | [DAF](https://arxiv.org/abs/2102.06828) | ICML 2022 | Domain Adaptation for Time Series Forecasting via Attention Sharing | [DAF](https://github.com/leejoonhun/daf) |
 | 21-06-13 | [FOIL](https://arxiv.org/abs/2406.09130) | ICML 2024 | Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning | [FOIL](https://github.com/adityalab/foil) |
 | 24-08-24 | [STONE](https://dl.acm.org/doi/abs/10.1145/3637528.3671680) | KDD 2024 | STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts | [STONE](https://github.com/PoorOtterBob/STONE-KDD-2024) |
+
 
 </details>
 
