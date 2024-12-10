@@ -156,6 +156,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-08-19 | [PMformer](https://arxiv.org/abs/2408.09703)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Partial-Multivariate Model for Forecasting | None
 24-08-19 | [sTransformer](https://arxiv.org/abs/2408.09723)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | sTransformer: A Modular Approach for Extracting Inter-Sequential and Temporal Information for Time-Series Forecasting | None
 24-08-20 | [PRformer](https://arxiv.org/abs/2408.10483)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | PRformer: Pyramidal Recurrent Transformer for Multivariate Time Series Forecasting | [PRformer](https://github.com/usualheart/PRformer)
+24-09-25 | [DeformableTST](https://openreview.net/forum?id=B1Iq1EOiVU)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | DeformableTST: Transformer for Time Series Forecasting without Over-reliance on Patching | [DeformableTST](https://github.com/luodhhh/DeformableTST)
 24-09-30 | [CTLPE](https://arxiv.org/abs/2409.20092)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2024 | Continuous-Time Linear Positional Embedding for Irregular Time Series Forecasting | None
 24-10-02 | [TiVaT](https://arxiv.org/abs/2410.01531)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | TiVaT: Joint-Axis Attention for Time Series Forecasting with Lead-Lag Dynamics | None
 24-10-04 | [ARMA](https://arxiv.org/abs/2410.03159)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2024 | Autoregressive Moving-average Attention Mechanism for Time Series Forecasting | [ARMA-Attention](https://github.com/LJC-FVNR/ARMA-Attention)
@@ -461,6 +462,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-27 | [Channel-wise Influence](https://arxiv.org/abs/2408.14763) | Arxiv 2024 | Channel-wise Influence: Estimating Data Influence for Multivariate Time Series | None |
 | 24-09-10 | [AutoTSAug](https://arxiv.org/abs/2409.06282) | Arxiv 2024 | Learning Augmentation Policies from A Model Zoo for Time Series Forecasting | None |
 | 24-09-23 | [MotifDisco](https://arxiv.org/abs/2409.15219) | Arxiv 2024 | MotifDisco: Motif Causal Discovery For Time Series Motifs | None |
+| 24-09-25 | [FBM](https://openreview.net/forum?id=BAfKBkr8IP) | NIPS 2024 | Rethinking Fourier Transform from A Basis Functions Perspective for Long-term Time Series Forecasting | [FBM](https://github.com/runze1223/Fourier-Basis-Mapping) |
 | 24-09-27 | [GLAFF](https://arxiv.org/abs/2409.18696) | NIPS 2024 | Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective | [GLAFF](https://github.com/ForestsKing/GLAFF) |
 | 24-09-30 | [FAN](https://arxiv.org/abs/2409.20371) | NIPS 2024 | Frequency Adaptive Normalization For Non-stationary Time Series Forecasting | [FAN](https://github.com/wayne155/FAN) |
 | 24-10-02 | [FredNormer](https://arxiv.org/abs/2410.01860) | Arxiv 2024 | FredNormer: Frequency Domain Normalization for Non-stationary Time Series Forecasting | None |
@@ -476,6 +478,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-11-24 | [Freq-Synth](https://arxiv.org/abs/2411.15743) | Arxiv 2024 | Beyond Data Scarcity: A Frequency-Driven Framework for Zero-Shot Forecasting | None |
 | 24-12-02 | [TimeLinear](https://arxiv.org/abs/2412.01557) | Arxiv 2024 | How Much Can Time-related Features Enhance Time Series Forecasting? | [TimeLinear](https://github.com/zclzcl0223/TimeLinear) |
 | 24-12-06 | [WaveToken](https://arxiv.org/abs/2412.05244) | Arxiv 2024 | Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization | None |
+
 
 
 </details>
