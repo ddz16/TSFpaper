@@ -454,6 +454,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-03-31 | [CCM](https://arxiv.org/abs/2404.01340) | NIPS 2024 | From Similarity to Superiority: Channel Clustering for Time Series Forecasting | [TimeSeriesCCM](https://github.com/Graph-and-Geometric-Learning/TimeSeriesCCM) |
 | 24-05-24 | [UnitNorm](https://arxiv.org/abs/2405.15903) | Arxiv 2024 | UnitNorm: Rethinking Normalization for Transformers in Time Series | [UnitNorm](https://anonymous.4open.science/r/UnitNorm-5B84) |
 | 24-05-29 | [HCAN](https://arxiv.org/abs/2405.18975) | Arxiv 2024 | Hierarchical Classification Auxiliary Network for Time Series Forecasting | [HCAN](https://github.com/syrGitHub/HCAN) |
+| 24-05-30 | [S3](https://arxiv.org/abs/2405.20082) | NIPS 2024 | Segment, Shuffle, and Stitch: A Simple Layer for Improving Time-Series Representations | [S3](https://github.com/shivam-grover/S3-TimeSeries) |
 | 24-06-07 | [TDT](https://arxiv.org/abs/2406.04777) | Arxiv 2024 | TDT Loss Takes It All: Integrating Temporal Dependencies among Targets into Non-Autoregressive Time Series Forecasting | None |
 | 24-06-19 | [Gaussian](https://arxiv.org/abs/2406.13871) | Arxiv 2024 | Robust Time Series Forecasting with Non-Heavy-Tailed Gaussian Loss-Weighted Sampler | None |
 | 24-07-21 | [TimeInf](https://arxiv.org/abs/2407.15247) | Arxiv 2024 | TimeInf: Time Series Data Contribution via Influence Functions | [TimeInf](https://github.com/yzhang511/timeinf) |
@@ -573,7 +574,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-24 | [NuwaTS](https://arxiv.org/abs/2405.15317) | Arxiv 2024 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series | [NuwaTS](https://github.com/Chengyui/NuwaTS) |
 | 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
-| 24-05-30 | [S3](https://arxiv.org/abs/2405.20082) | NIPS 2024 | Segment, Shuffle, and Stitch: A Simple Mechanism for Improving Time-Series Representations | [S3](https://github.com/shivam-grover/S3-TimeSeries) |
 | 24-07-10 | [ViTime](https://arxiv.org/abs/2407.07311) | Arxiv 2024 | ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting | [ViTime](https://github.com/IkeYang/ViTime) |
 | 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
 | 24-08-16 | [OpenCity](https://arxiv.org/abs/2408.10269) | Arxiv 2024 | OpenCity: Open Spatio-Temporal Foundation Models for Traffic Prediction | [OpenCity](https://github.com/hkuds/opencity) |
