@@ -32,6 +32,8 @@ Each paper may apply to one or several types of forecasting, including univariat
 
 🚩 2024/10/23: **I have introduced a new table (Multimodal) to include papers that utilize multimodal data (such as relevant text) to assist in forecasting and a new table (KAN) to include papers that utilize Kolmogorov–Arnold Networks.**
 
+🚩 2024/12/30: **Christoph Bergmeir raised insightful questions about the benchmarks in the field of time series forecasting during [his talk at NIPS 2024](https://cbergmeir.com/talks/neurips2024/). This critique is highly valuable and well worth watching. I strongly recommend watching this talk before embarking on time series research.**
+
 
 <details><summary><h2 style="display: inline;">Survey & Benchmark.</h2></summary>
 
