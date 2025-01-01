@@ -260,7 +260,9 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-11-03 | [FilterNet](https://arxiv.org/abs/2411.01623) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | NIPS 2024 | FilterNet: Harnessing Frequency Filters for Time Series Forecasting | [FilterNet](https://github.com/aikunyi/FilterNet) |
 | 24-11-26 | [DiPE-Linear](https://arxiv.org/abs/2411.17257) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Disentangled Interpretable Representation for Efficient Long-term Time Series Forecasting | [DiPE-Linear](https://github.com/wintertee/DiPE-Linear) |
 | 24-12-02 | [FSMLP](https://arxiv.org/abs/2412.01654) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain | [FSMLP](https://github.com/fmlyd/fsmlp) |
+| 24-12-09 | [LMS-AutoTSF](https://arxiv.org/abs/2412.06866) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | LMS-AutoTSF: Learnable Multi-Scale Decomposition and Integrated Autocorrelation for Time Series Forecasting | [LMS-TSF](https://github.com/mribrahim/LMS-TSF) |
 | 24-12-14 | [DUET](https://arxiv.org/abs/2412.10859) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting | [DUET](https://github.com/decisionintelligence/duet) |
+
 
 
 </details>
