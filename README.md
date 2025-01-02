@@ -64,6 +64,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-10-15|[FoundTS](https://arxiv.org/abs/2410.11802) |Arxiv 2024| FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting | [FoundTS](https://anonymous.4open.science/r/FoundTS-C2B0)
 24-10-24|[Architecture](https://arxiv.org/abs/2411.05793) |Arxiv 2024| A Comprehensive Survey of Time Series Forecasting: Architectural Diversity and Open Challenges | None
 24-10-29|[STGNN](https://arxiv.org/abs/2410.22377) |Arxiv 2024| A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification | None
+24-12-19|[Benchmark](https://arxiv.org/abs/2412.14435)🌟 |AAAI 2025| Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine | [bench](https://github.com/luisroque/bench)
 
 
 </details>
@@ -171,6 +172,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-12-02 | [MuSiCNet](https://arxiv.org/abs/2412.01063)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | IJCAIW 2024 | MuSiCNet: A Gradual Coarse-to-Fine Framework for Irregularly Sampled Multivariate Time Series Analysis | None
 24-12-04 | [HOT](https://arxiv.org/abs/2412.02919)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Higher Order Transformers: Efficient Attention Mechanism for Tensor Structured Data | None
 24-12-17 | [TimeCHEAT](https://arxiv.org/abs/2412.12886)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | AAAI 2025 | TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis | None
+24-12-25 | [Ister](https://arxiv.org/abs/2412.18798)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Ister: Inverted Seasonal-Trend Decomposition Transformer for Explainable Multivariate Time Series Forecasting | None
 
 
 </details>
@@ -262,6 +264,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-12-02 | [FSMLP](https://arxiv.org/abs/2412.01654) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | FSMLP: Modelling Channel Dependencies With Simplex Theory Based Multi-Layer Perceptions In Frequency Domain | [FSMLP](https://github.com/fmlyd/fsmlp) |
 | 24-12-09 | [LMS-AutoTSF](https://arxiv.org/abs/2412.06866) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | LMS-AutoTSF: Learnable Multi-Scale Decomposition and Integrated Autocorrelation for Time Series Forecasting | [LMS-TSF](https://github.com/mribrahim/LMS-TSF) |
 | 24-12-14 | [DUET](https://arxiv.org/abs/2412.10859) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting | [DUET](https://github.com/decisionintelligence/duet) |
+| 24-12-30 | [AverageLinear](https://arxiv.org/abs/2412.20727) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | AverageLinear: Enhance Long-Term Time series forcasting with simple averaging | None |
 
 
 
@@ -486,7 +489,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-11-24 | [Freq-Synth](https://arxiv.org/abs/2411.15743) | Arxiv 2024 | Beyond Data Scarcity: A Frequency-Driven Framework for Zero-Shot Forecasting | None |
 | 24-12-02 | [TimeLinear](https://arxiv.org/abs/2412.01557) | Arxiv 2024 | How Much Can Time-related Features Enhance Time Series Forecasting? | [TimeLinear](https://github.com/zclzcl0223/TimeLinear) |
 | 24-12-06 | [WaveToken](https://arxiv.org/abs/2412.05244) | Arxiv 2024 | Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization | None |
-
+| 24-12-27 | [PCA](https://arxiv.org/abs/2412.19423) | Arxiv 2024 | Revisiting PCA for time series reduction in temporal dimension | None |
 
 
 </details>
@@ -662,6 +665,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 22-10-25 | [WaveBound](https://arxiv.org/abs/2210.14303) | NIPS 2022 | WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting | [WaveBound](https://github.com/choyi0521/WaveBound) |
 | 23-05-25 | [Ensembling](https://arxiv.org/abs/2305.15786) | ICML 2023 | Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting | None |
 | 24-12-08 | [CurseofAttention](https://arxiv.org/abs/2412.06061) | Arxiv 2024 | Curse of Attention: A Kernel-Based Perspective for Why Transformers Fail to Generalize on Time Series Forecasting and Beyond | None |
+| 24-12-27 | [BAPC](https://arxiv.org/abs/2412.19897) | Arxiv 2024 | Surrogate Modeling for Explainable Predictive Time Series Corrections | None |
 
 </details>
 
