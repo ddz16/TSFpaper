@@ -494,6 +494,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-12-06 | [WaveToken](https://arxiv.org/abs/2412.05244) | Arxiv 2024 | Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization | None |
 | 24-12-21 | [LDM](https://arxiv.org/abs/2412.16572) | Arxiv 2024 | Breaking the Context Bottleneck on Long Time Series Forecasting | [LDM](https://github.com/houyikai/ldm-logsparse-decomposable-multiscaling) |
 | 24-12-27 | [PCA](https://arxiv.org/abs/2412.19423) | Arxiv 2024 | Revisiting PCA for time series reduction in temporal dimension | None |
+| 24-12-30 | [TimeRAF](https://arxiv.org/abs/2412.20810) | Arxiv 2024 | TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting | None |
 
 
 </details>
@@ -692,6 +693,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-30 | [SwimRNN](https://arxiv.org/abs/2410.23467) | Arxiv 2024 | Gradient-free training of recurrent neural networks | [swimrnn](https://gitlab.com/felix.dietrich/swimrnn-paper) |
 | 24-11-06 | [FACTS](https://arxiv.org/abs/2411.05833) | VLDB 2025 | Fully Automated Correlated Time Series Forecasting in Minutes | [FACTS](https://github.com/ccloud0525/FACTS) |
 | 24-12-23 | [EasyTime](https://arxiv.org/abs/2412.17603) | ICDE 2025 | EasyTime: Time Series Forecasting Made Easy | None |
+| 24-12-27 | [RS3GP](https://arxiv.org/abs/2412.19727) | Arxiv 2024 | Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes | None |
 
 
 </details>
