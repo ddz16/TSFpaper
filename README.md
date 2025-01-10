@@ -174,7 +174,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-12-16 | [EDformer](https://arxiv.org/abs/2412.12227)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | EDformer: Embedded Decomposition Transformer for Interpretable Multivariate Time Series Predictions | [EDformer](https://github.com/sanjaylopa22/EDformer-Main)
 24-12-17 | [TimeCHEAT](https://arxiv.org/abs/2412.12886)| ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | AAAI 2025 | TimeCHEAT: A Channel Harmony Strategy for Irregularly Sampled Multivariate Time Series Analysis | None
 24-12-25 | [Ister](https://arxiv.org/abs/2412.18798)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Ister: Inverted Seasonal-Trend Decomposition Transformer for Explainable Multivariate Time Series Forecasting | None
-
+25-01-06 | [Sensorformer](https://arxiv.org/abs/2501.03284)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sensorformer: Cross-patch attention with global-patch compression is effective for high-dimensional multivariate time series forecasting | [Sensorformer](https://github.com/BigYellowTiger/Sensorformer)
 
 </details>
 
@@ -496,6 +496,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-12-21 | [LDM](https://arxiv.org/abs/2412.16572) | Arxiv 2024 | Breaking the Context Bottleneck on Long Time Series Forecasting | [LDM](https://github.com/houyikai/ldm-logsparse-decomposable-multiscaling) |
 | 24-12-27 | [PCA](https://arxiv.org/abs/2412.19423) | Arxiv 2024 | Revisiting PCA for time series reduction in temporal dimension | None |
 | 24-12-30 | [TimeRAF](https://arxiv.org/abs/2412.20810) | Arxiv 2024 | TimeRAF: Retrieval-Augmented Foundation model for Zero-shot Time Series Forecasting | None |
+| 25-01-02 | [HPO](https://arxiv.org/abs/2501.01394)| Arxiv 2025 | A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models | [HPO](https://github.com/jingjing-unilu/HPO_transformer_time_series) |
+| 25-01-06 | [Sequence Complementor](https://arxiv.org/abs/2501.02735)| AAAI 2025 | Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences | None |
 
 
 </details>
@@ -550,6 +552,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-12-06 | [NNCL-TLLM](https://arxiv.org/abs/2412.04806) | Arxiv 2024 | Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning | None |
 | 24-12-16 | [Apollo-Forecast](https://arxiv.org/abs/2412.12226) | AAAI 2025 | Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting | None |
 | 24-12-21 | [TimeRAG](https://arxiv.org/abs/2412.16643) | ICASSP 2025 | TimeRAG: Boosting LLM Time Series Forecasting via Retrieval-Augmented Generation | None |
+| 25-01-07 | [DECA](https://arxiv.org/abs/2501.03747) | Arxiv 2025 | Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series | None |
 
 
 </details>
@@ -695,6 +698,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-11-06 | [FACTS](https://arxiv.org/abs/2411.05833) | VLDB 2025 | Fully Automated Correlated Time Series Forecasting in Minutes | [FACTS](https://github.com/ccloud0525/FACTS) |
 | 24-12-23 | [EasyTime](https://arxiv.org/abs/2412.17603) | ICDE 2025 | EasyTime: Time Series Forecasting Made Easy | None |
 | 24-12-27 | [RS3GP](https://arxiv.org/abs/2412.19727) | Arxiv 2024 | Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes | None |
+| 25-01-06 | [TabPFN-TS](https://arxiv.org/abs/2501.02945) | NIPSW 2024 | The Tabular Foundation Model TabPFN Outperforms Specialized Time Series Forecasting Models Based on Simple Features | [TabPFN-TS](https://github.com/liam-sbhoo/tabpfn-time-series) |
 
 
 </details>
