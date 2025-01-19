@@ -45,6 +45,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 22-02-15|[Transformer](https://arxiv.org/abs/2202.07125)🔥 |IJCAI 2023|Transformers in Time Series: A Survey|[PaperList](https://github.com/qingsongedu/time-series-transformers-review)
 23-03-25|[STGNN](https://arxiv.org/abs/2303.14483)🔥 |TKDE 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
 23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
+23-06-14|[LargeST](https://arxiv.org/abs/2306.08259)|NIPS 2023|LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting|[largest](https://github.com/liuxu77/largest)
 23-06-16|[SSL](https://arxiv.org/abs/2306.10125)|TPAMI 2024|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
 23-06-20|[OpenSTL](https://arxiv.org/abs/2306.11249)|NIPS 2023|OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning|[Benchmark](https://github.com/chengtan9907/OpenSTL)
 23-07-07|[GNN](https://arxiv.org/abs/2307.03759)|Arxiv 2023|A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection|[PaperList](https://github.com/KimMeen/Awesome-GNN4TS)
