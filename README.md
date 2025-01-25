@@ -177,6 +177,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 24-12-25 | [Ister](https://arxiv.org/abs/2412.18798)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Ister: Inverted Seasonal-Trend Decomposition Transformer for Explainable Multivariate Time Series Forecasting | None
 25-01-06 | [Sensorformer](https://arxiv.org/abs/2501.03284)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sensorformer: Cross-patch attention with global-patch compression is effective for high-dimensional multivariate time series forecasting | [Sensorformer](https://github.com/BigYellowTiger/Sensorformer)
 25-01-14 | [LiPFormer](https://arxiv.org/abs/2501.10448)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICDE 2025 | Towards Lightweight Time Series Forecasting: a Patch-wise Transformer with Weak Data Enriching | None
+25-01-22 | [T-Graphormer](https://arxiv.org/abs/2501.13274)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | T-Graphormer: Using Transformers for Spatiotemporal Forecasting | None
+
 
 </details>
 
@@ -294,7 +296,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 23-11-01 | [WinNet](https://arxiv.org/abs/2311.00214) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2023 | WinNet:time series forecasting with a window-enhanced period extracting and interacting | None |
 | 23-11-27 | [ModernTCN](https://openreview.net/forum?id=vpJMJerXHU)🌟 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2024 | [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://zhuanlan.zhihu.com/p/668946041) | [ModernTCN](https://github.com/luodhhh/ModernTCN) |
 | 23-11-27 | [UniRepLKNet](https://arxiv.org/abs/2311.15599) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2023 | UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition | [UniRepLKNet](https://github.com/ailab-cvc/unireplknet) |
-| 24-03-03 | [ConvTimeNet](https://arxiv.org/abs/2403.01493) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis | [ConvTimeNet](https://github.com/Mingyue-Cheng/ConvTimeNet) |
+| 24-03-03 | [ConvTimeNet](https://arxiv.org/abs/2403.01493) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | WWW 2025 | ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis | [ConvTimeNet](https://github.com/Mingyue-Cheng/ConvTimeNet) |
 | 24-05-20 | [ATVCNet](https://arxiv.org/abs/2405.12038) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| ATVCNet: Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting |  None  |
 | 24-05-24 | [FTMixer](https://arxiv.org/abs/2405.15256) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| FTMixer: Frequency and Time Domain Representations Fusion for Time Series Modeling | [FTMixer](https://github.com/FMLYD/FTMixer)  |
 | 24-10-07 | [TimeCNN](https://arxiv.org/abs/2410.04853) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| TimeCNN: Refining Cross-Variable Interaction on Time Point for Time Series Forecasting | None |
@@ -337,6 +339,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-06-18 | [SAGDFN](https://arxiv.org/abs/2406.12282) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | ICDE 2024 | SAGDFN: A Scalable Adaptive Graph Diffusion Forecasting Network for Multivariate Time Series Forecasting | None |
 | 24-10-17 | [GNeuralFlow](https://arxiv.org/abs/2410.14030) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2024 | Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series | [GNeuralFlow](https://github.com/gmerca/GNeuralFlow) |
 | 24-10-24 | [TEAM](https://arxiv.org/abs/2410.19192) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2025 | TEAM: Topological Evolution-aware Framework for Traffic Forecasting | [TEAM](https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting) |
+| 25-01-22 | [TimeFilter](https://arxiv.org/abs/2501.13041) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting | [TimeFilter](https://github.com/troubadour000/timefilter) |
 
 
 </details>
