@@ -556,6 +556,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-12-16 | [Apollo-Forecast](https://arxiv.org/abs/2412.12226) | AAAI 2025 | Apollo-Forecast: Overcoming Aliasing and Inference Speed Challenges in Language Models for Time Series Forecasting | None |
 | 24-12-21 | [TimeRAG](https://arxiv.org/abs/2412.16643) | ICASSP 2025 | TimeRAG: Boosting LLM Time Series Forecasting via Retrieval-Augmented Generation | None |
 | 25-01-07 | [DECA](https://arxiv.org/abs/2501.03747) | Arxiv 2025 | Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series | None |
+| 25-01-10 | [MPT](https://arxiv.org/abs/2501.06386) | Arxiv 2025 | Using Pre-trained LLMs for Multivariate Time Series Forecasting | None |
 
 
 </details>
