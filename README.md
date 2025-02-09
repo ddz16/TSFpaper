@@ -178,6 +178,10 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-01-06 | [Sensorformer](https://arxiv.org/abs/2501.03284)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sensorformer: Cross-patch attention with global-patch compression is effective for high-dimensional multivariate time series forecasting | [Sensorformer](https://github.com/BigYellowTiger/Sensorformer)
 25-01-14 | [LiPFormer](https://arxiv.org/abs/2501.10448)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICDE 2025 | Towards Lightweight Time Series Forecasting: a Patch-wise Transformer with Weak Data Enriching | None
 25-01-22 | [T-Graphormer](https://arxiv.org/abs/2501.13274)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | T-Graphormer: Using Transformers for Spatiotemporal Forecasting | None
+25-01-23 | [FreEformer](https://arxiv.org/abs/2501.13989)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting | None
+25-01-24 | [VarDrop](https://arxiv.org/abs/2501.14183)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting | [VarDrop](https://github.com/kaist-dmlab/VarDrop)
+25-01-28 | [Spikformer](https://arxiv.org/abs/2501.16745)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Toward Relative Positional Encoding in Spiking Transformers | None
+
 
 
 </details>
@@ -272,9 +276,9 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-12-18 | [PreMixer](https://arxiv.org/abs/2412.13607) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | PreMixer: MLP-Based Pre-training Enhanced MLP-Mixers for Large-scale Traffic Forecasting | None |
 | 24-12-22 | [WPMixer](https://arxiv.org/abs/2412.17176) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | AAAI 2025 | WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting | None |
 | 24-12-30 | [AverageLinear](https://arxiv.org/abs/2412.20727) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | AverageLinear: Enhance Long-Term Time series forcasting with simple averaging | None |
+| 25-01-27 | [SWIFT](https://arxiv.org/abs/2501.16178) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting | [swift](https://github.com/lancelotxwx/swift) |
 | 25-01-28 | [Amplifier](https://arxiv.org/abs/2501.17216) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting | [amplifier](https://github.com/aikunyi/amplifier) |
 | 25-01-31 | [BEAT](https://arxiv.org/abs/2501.19065) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting | None |
-
 
 
 </details>
