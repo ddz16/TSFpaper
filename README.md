@@ -280,6 +280,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-01-27 | [SWIFT](https://arxiv.org/abs/2501.16178) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | SWIFT: Mapping Sub-series with Wavelet Decomposition Improves Time Series Forecasting | [swift](https://github.com/lancelotxwx/swift) |
 | 25-01-28 | [Amplifier](https://arxiv.org/abs/2501.17216) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting | [amplifier](https://github.com/aikunyi/amplifier) |
 | 25-01-31 | [BEAT](https://arxiv.org/abs/2501.19065) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting | None |
+| 25-02-05 | [MTLinear](https://arxiv.org/abs/2502.03571) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | A Multi-Task Learning Approach to Linear Multivariate Forecasting | [MTLinear](https://github.com/azencot-group/MTLinear) |
 
 
 </details>
@@ -567,6 +568,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-12-21 | [TimeRAG](https://arxiv.org/abs/2412.16643) | ICASSP 2025 | TimeRAG: Boosting LLM Time Series Forecasting via Retrieval-Augmented Generation | None |
 | 25-01-07 | [DECA](https://arxiv.org/abs/2501.03747) | Arxiv 2025 | Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series | None |
 | 25-01-10 | [MPT](https://arxiv.org/abs/2501.06386) | Arxiv 2025 | Using Pre-trained LLMs for Multivariate Time Series Forecasting | None |
+| 25-02-04 | [LASTS](https://arxiv.org/abs/2502.01922) | Arxiv 2025 | LAST SToP For Modeling Asynchronous Time Series | None |
 
 
 </details>
@@ -624,6 +626,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-11-05 | [TSMamba](https://arxiv.org/abs/2411.02941) | Arxiv 2024 | A Mamba Foundation Model for Time Series Forecasting | None |
 | 24-11-24 | [TableTime](https://arxiv.org/abs/2411.15737) | Arxiv 2024 | TableTime: Reformulating Time Series Classification as Zero-Shot Table Understanding via Large Language Models | [TableTime](https://github.com/realwangjiahao/TableTime) |
 | 24-12-01 | [WQ4TS](https://arxiv.org/abs/2412.00772) | Arxiv 2024 | A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series | None |
+| 25-02-02 | [Sundial](https://arxiv.org/abs/2502.00816) | Arxiv 2025 | Sundial: A Family of Highly Capable Time Series Foundation Models | None |
+| 25-02-05 | [TopoCL](https://arxiv.org/abs/2502.02924) | Arxiv 2025 | TopoCL: Topological Contrastive Learning for Time Series | None |
+| 25-02-05 | [GTM](https://arxiv.org/abs/2502.03264) | Arxiv 2025 | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | None |
 
 
 </details>
