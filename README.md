@@ -272,6 +272,8 @@ Date     | Method                                        |Type| Conference | Pap
 | 24-12-18 | [PreMixer](https://arxiv.org/abs/2412.13607) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2024 | PreMixer: MLP-Based Pre-training Enhanced MLP-Mixers for Large-scale Traffic Forecasting | None |
 | 24-12-22 | [WPMixer](https://arxiv.org/abs/2412.17176) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | AAAI 2025 | WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting | None |
 | 24-12-30 | [AverageLinear](https://arxiv.org/abs/2412.20727) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | AverageLinear: Enhance Long-Term Time series forcasting with simple averaging | None |
+| 25-01-28 | [Amplifier](https://arxiv.org/abs/2501.17216) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting | [amplifier](https://github.com/aikunyi/amplifier) |
+| 25-01-31 | [BEAT](https://arxiv.org/abs/2501.19065) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting | None |
 
 
 
@@ -708,6 +710,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-12-23 | [EasyTime](https://arxiv.org/abs/2412.17603) | ICDE 2025 | EasyTime: Time Series Forecasting Made Easy | None |
 | 24-12-27 | [RS3GP](https://arxiv.org/abs/2412.19727) | Arxiv 2024 | Learning to Forget: Bayesian Time Series Forecasting using Recurrent Sparse Spectrum Signature Gaussian Processes | None |
 | 25-01-06 | [TabPFN-TS](https://arxiv.org/abs/2501.02945) | NIPSW 2024 | The Tabular Foundation Model TabPFN Outperforms Specialized Time Series Forecasting Models Based on Simple Features | [TabPFN-TS](https://github.com/liam-sbhoo/tabpfn-time-series) |
+| 25-01-26 | [TCTNN](https://arxiv.org/abs/2501.15388) | Arxiv 2025 | Guaranteed Multidimensional Time Series Prediction via Deterministic Tensor Completion Theory | [TCTNN](https://github.com/HaoShu2000/TCTNN) |
 
 
 </details>
