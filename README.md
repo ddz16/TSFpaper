@@ -643,6 +643,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-11-11 | [Hybrid-MMF](https://arxiv.org/abs/2411.06735) | Arxiv 2024 | Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data | [Multimodal_Forecasting](https://github.com/Rose-STL-Lab/Multimodal_Forecasting) |
 | 24-12-16 | [ChatTime](https://arxiv.org/abs/2412.11376) | AAAI 2025 | ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data | [ChatTime](https://github.com/forestsking/chattime) |
 | 25-01-13 | [TextFusionHTS](https://arxiv.org/abs/2501.07048) | NIPSW 2024 | Unveiling the Potential of Text in High-Dimensional Time Series Forecasting | [TextFusionHTS](https://github.com/xinzzzhou/textfusionhts) |
+| 25-02-06 | [Time-VLM](https://arxiv.org/abs/2502.04395) | Arxiv 2025 | Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting | None |
+
 
 </details>
 
