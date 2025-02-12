@@ -182,6 +182,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-01-23 | [FreEformer](https://arxiv.org/abs/2501.13989)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting | None
 25-01-24 | [VarDrop](https://arxiv.org/abs/2501.14183)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting | [VarDrop](https://github.com/kaist-dmlab/VarDrop)
 25-01-28 | [Spikformer](https://arxiv.org/abs/2501.16745)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Toward Relative Positional Encoding in Spiking Transformers | None
+25-02-10 | [Powerformer](https://arxiv.org/abs/2502.06151)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Powerformer: A Transformer with Weighted Causal Attention for Time-series Forecasting | None
+25-02-11 | [SAMoVAR](https://arxiv.org/abs/2502.07244)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting | [SAMoVAR](https://github.com/LJC-FVNR/Structural-Aligned-Mixture-of-VAR)
 
 
 
@@ -632,6 +634,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-05 | [TopoCL](https://arxiv.org/abs/2502.02924) | Arxiv 2025 | TopoCL: Topological Contrastive Learning for Time Series | None |
 | 25-02-05 | [GTM](https://arxiv.org/abs/2502.03264) | Arxiv 2025 | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | None |
 | 25-02-05 | [CAPE](https://arxiv.org/abs/2502.03393) | Arxiv 2025 | CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting | None |
+| 25-02-09 | [Reasoning](https://arxiv.org/abs/2502.06037) | Arxiv 2025 | Investigating Compositional Reasoning in Time Series Foundation Models | [tsfm_reasoning](https://github.com/PotosnakW/neuralforecast/tree/tsfm_reasoning) |
 
 
 </details>
@@ -691,6 +694,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-13 | [WormKAN](https://arxiv.org/abs/2410.10041) | NIPSW 2024 | Are KAN Effective for Identifying and Tracking Concept Drift in Time Series? | None |
 | 24-10-19 | [HiPPO-KAN](https://arxiv.org/abs/2410.14939) | Arxiv 2024 | HiPPO-KAN: Efficient KAN Model for Time Series Analysis | None |
 | 24-12-19 | [NBEATS-KAN](https://arxiv.org/abs/2412.17853) | NIPSW 2024 | Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks | None |
+| 25-02-10 | [TimeKAN](https://arxiv.org/abs/2502.06910) | ICLR 2025 | TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting | [TimeKAN](https://github.com/huangst21/TimeKAN) |
+
 
 </details>
 
