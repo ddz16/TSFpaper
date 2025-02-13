@@ -314,7 +314,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-10-21 | [TimeMixer++](https://arxiv.org/abs/2410.16032) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| [TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis](https://zhuanlan.zhihu.com/p/12926871013) | None |
 | 24-11-07 | [EffiCANet](https://arxiv.org/abs/2411.04669) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024| EffiCANet: Efficient Time Series Forecasting with Convolutional Attention | None |
 | 24-12-23 | [xPatch](https://arxiv.org/abs/2412.17323) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | AAAI 2025 | xPatch: Dual-Stream Time Series Forecasting with Exponential Seasonal-Trend Decomposition | [xPatch](https://github.com/stitsyuk/xpatch) |
-
+| 25-01-23 | [TVNet](https://openreview.net/forum?id=MZDdTzN6Cy) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2025 | TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation | None |
 
 </details>
 
