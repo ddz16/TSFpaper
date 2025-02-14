@@ -46,14 +46,14 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 23-03-25|[STGNN](https://arxiv.org/abs/2303.14483)🔥 |TKDE 2023|Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey|None
 23-05-01|[Diffusion](https://arxiv.org/abs/2305.00624)|Arxiv 2023|Diffusion Models for Time Series Applications: A Survey|None
 23-06-14|[LargeST](https://arxiv.org/abs/2306.08259)|NIPS 2023|LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting|[largest](https://github.com/liuxu77/largest)
-23-06-16|[SSL](https://arxiv.org/abs/2306.10125)|TPAMI 2024|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
+23-06-16|[SSL](https://arxiv.org/abs/2306.10125)🔥|TPAMI 2024|Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects|None
 23-06-20|[OpenSTL](https://arxiv.org/abs/2306.11249)|NIPS 2023|OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning|[Benchmark](https://github.com/chengtan9907/OpenSTL)
-23-07-07|[GNN](https://arxiv.org/abs/2307.03759)|Arxiv 2023|A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection|[PaperList](https://github.com/KimMeen/Awesome-GNN4TS)
+23-07-07|[GNN](https://arxiv.org/abs/2307.03759)🔥|Arxiv 2023|A Survey on Graph Neural Networks for Time Series: Forecasting, Classification, Imputation, and Anomaly Detection|[PaperList](https://github.com/KimMeen/Awesome-GNN4TS)
 23-10-09|[BasicTS](https://arxiv.org/abs/2310.06119)|TKDE 2024|Exploring Progress in Multivariate Time Series Forecasting: Comprehensive Benchmarking and Heterogeneity Analysis|[BasicTS](https://github.com/GestaltCogTeam/BasicTS)
 23-10-11|[ProbTS](https://arxiv.org/abs/2310.07446)|Arxiv 2023|ProbTS: Benchmarking Point and Distributional Forecasting across Diverse Prediction Horizons|[ProbTS](https://github.com/microsoft/probts)
 23-12-28|[TSPP](https://arxiv.org/abs/2312.17100)|Arxiv 2023|TSPP: A Unified Benchmarking Tool for Time-series Forecasting|[TSPP](https://github.com/NVIDIA/DeepLearningExamples)
 24-01-05|[Diffusion](https://arxiv.org/abs/2401.03006)|Arxiv 2024|The Rise of Diffusion Models in Time-Series Forecasting|None
-24-02-15|[LLM](https://arxiv.org/abs/2402.10350)|Arxiv 2024|Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review|None
+24-02-15|[LLM](https://arxiv.org/abs/2402.10350)🔥|Arxiv 2024|Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review|None
 24-03-21|[FM](https://arxiv.org/abs/2403.14735)|KDD 2024|Foundation Models for Time Series Analysis: A Tutorial and Survey| None
 24-03-29|[TFB](https://arxiv.org/abs/2403.20150)🌟 |VLDB 2024|TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods|[TFB](https://github.com/decisionintelligence/TFB)
 24-04-24|[Mamba-360](https://arxiv.org/abs/2404.16112)|Arxiv 2024|Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges|[Mamba-360](https://github.com/badripatro/mamba360)
