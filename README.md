@@ -616,6 +616,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | Arxiv 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
 | 24-03-19 | [CrossTimeNet](https://arxiv.org/abs/2403.12372) | Arxiv 2024 | Learning Transferable Time Series Classifier with Cross-Domain Pre-training from Language Model | [crosstimenet](https://github.com/mingyue-cheng/crosstimenet) |
 | 24-03-31 | [SimTS](https://arxiv.org/abs/2303.18205) | ICASSP 2024 | Rethinking Contrastive Representation Learning for Time Series Forecasting | [simTS](https://github.com/xingyu617/SimTS_Representation_Learning) |
+| 24-05-02 | [UP2ME](https://openreview.net/forum?id=aR3uxWlZhX) | ICML 2024 | UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis | [UP2ME](https://github.com/Thinklab-SJTU/UP2ME) |
 | 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
 | 24-05-24 | [NuwaTS](https://arxiv.org/abs/2405.15317) | Arxiv 2024 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series | [NuwaTS](https://github.com/Chengyui/NuwaTS) |
 | 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
@@ -641,6 +642,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-05 | [CAPE](https://arxiv.org/abs/2502.03393) | Arxiv 2025 | CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting | None |
 | 25-02-09 | [Reasoning](https://arxiv.org/abs/2502.06037) | Arxiv 2025 | Investigating Compositional Reasoning in Time Series Foundation Models | [tsfm_reasoning](https://github.com/PotosnakW/neuralforecast/tree/tsfm_reasoning) |
 | 25-02-14 | [AdaPTS](https://arxiv.org/abs/2502.10235) | Arxiv 2025 | AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting | [AdaPTS](https://github.com/abenechehab/AdaPTS) |
+
 
 
 </details>
