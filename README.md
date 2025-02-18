@@ -67,6 +67,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-10-29|[STGNN](https://arxiv.org/abs/2410.22377) |Arxiv 2024| A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification | None
 24-12-19|[Benchmark](https://arxiv.org/abs/2412.14435)🌟 |AAAI 2025| Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine | [bench](https://github.com/luisroque/bench)
 25-02-11|[Physiome-ODE](https://arxiv.org/abs/2502.07489) |ICLR 2025| Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs | [Physiome-ODE](https://anonymous.4open.science/r/Phyisiome-ODE-E53D)
+25-02-15|[Channel-Strategy](https://arxiv.org/abs/2502.10721) |Arxiv 2025| A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective | [CS4TS](https://github.com/decisionintelligence/CS4TS)
 
 
 </details>
@@ -185,6 +186,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-02-10 | [Powerformer](https://arxiv.org/abs/2502.06151)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Powerformer: A Transformer with Weighted Causal Attention for Time-series Forecasting | None
 25-02-11 | [SAMoVAR](https://arxiv.org/abs/2502.07244)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting | [SAMoVAR](https://github.com/LJC-FVNR/Structural-Aligned-Mixture-of-VAR)
 25-02-12 | [HDT](https://arxiv.org/abs/2502.08302)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting | [HDT](https://github.com/hdtkk/HDT)
+25-02-13 | [FaCT](https://arxiv.org/abs/2502.09683)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting? | None
+25-02-17 | [S2TX](https://arxiv.org/abs/2502.11340)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting | None
 
 
 </details>
@@ -284,6 +287,8 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-01-28 | [Amplifier](https://arxiv.org/abs/2501.17216) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting | [amplifier](https://github.com/aikunyi/amplifier) |
 | 25-01-31 | [BEAT](https://arxiv.org/abs/2501.19065) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting | None |
 | 25-02-05 | [MTLinear](https://arxiv.org/abs/2502.03571) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | A Multi-Task Learning Approach to Linear Multivariate Forecasting | [MTLinear](https://github.com/azencot-group/MTLinear) |
+| 25-02-14 | [HADL](https://arxiv.org/abs/2502.10569) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | HADL Framework for Noise Resilient Long-Term Time Series Forecasting | [HADL](https://github.com/forgee-master/HADL) |
+| 25-02-17 | [IMTS-Mixer](https://arxiv.org/abs/2502.11816) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | IMTS-Mixer: Mixer-Networks for Irregular Multivariate Time Series Forecasting | [IMTS-Mixer](https://anonymous.4open.science/r/IMTS-Mixer-D63C/) |
 
 
 </details>
@@ -635,6 +640,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-05 | [GTM](https://arxiv.org/abs/2502.03264) | Arxiv 2025 | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | None |
 | 25-02-05 | [CAPE](https://arxiv.org/abs/2502.03393) | Arxiv 2025 | CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting | None |
 | 25-02-09 | [Reasoning](https://arxiv.org/abs/2502.06037) | Arxiv 2025 | Investigating Compositional Reasoning in Time Series Foundation Models | [tsfm_reasoning](https://github.com/PotosnakW/neuralforecast/tree/tsfm_reasoning) |
+| 25-02-14 | [AdaPTS](https://arxiv.org/abs/2502.10235) | Arxiv 2025 | AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting | [AdaPTS](https://github.com/abenechehab/AdaPTS) |
 
 
 </details>
@@ -709,6 +715,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-05-25 | [Ensembling](https://arxiv.org/abs/2305.15786) | ICML 2023 | Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting | None |
 | 24-12-08 | [CurseofAttention](https://arxiv.org/abs/2412.06061) | Arxiv 2024 | Curse of Attention: A Kernel-Based Perspective for Why Transformers Fail to Generalize on Time Series Forecasting and Beyond | None |
 | 24-12-27 | [BAPC](https://arxiv.org/abs/2412.19897) | Arxiv 2024 | Surrogate Modeling for Explainable Predictive Time Series Corrections | None |
+| 25-02-14 | [WeaKL](https://arxiv.org/abs/2502.10485) | Arxiv 2025 | Forecasting time series with constraints | [WeaKL](https://github.com/NathanDoumeche/WeaKL) |
 
 </details>
 
