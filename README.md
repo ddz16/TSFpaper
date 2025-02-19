@@ -524,6 +524,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-02 | [HPO](https://arxiv.org/abs/2501.01394)| Arxiv 2025 | A Unified Hyperparameter Optimization Pipeline for Transformer-Based Time Series Forecasting Models | [HPO](https://github.com/jingjing-unilu/HPO_transformer_time_series) |
 | 25-01-06 | [Sequence Complementor](https://arxiv.org/abs/2501.02735)| AAAI 2025 | Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences | None |
 | 25-01-09 | [TAFAS](https://arxiv.org/abs/2501.04970)| AAAI 2025 | Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation | [TAFAS](https://github.com/kimanki/TAFAS) |
+| 25-01-23 | [PN-Train](https://openreview.net/forum?id=a9vey6B54y)| ICLR 2025 | Investigating Pattern Neurons in Urban Time Series Forecasting | [PN-Train](https://anonymous.4open.science/r/PN-Train) |
 
 
 </details>
