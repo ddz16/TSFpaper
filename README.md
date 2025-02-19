@@ -181,6 +181,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-01-14 | [LiPFormer](https://arxiv.org/abs/2501.10448)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | ICDE 2025 | Towards Lightweight Time Series Forecasting: a Patch-wise Transformer with Weak Data Enriching | None
 25-01-22 | [T-Graphormer](https://arxiv.org/abs/2501.13274)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | T-Graphormer: Using Transformers for Spatiotemporal Forecasting | None
 25-01-23 | [FreEformer](https://arxiv.org/abs/2501.13989)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting | None
+25-01-23 | [SimMTSF](https://openreview.net/forum?id=oANkBaVci5)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2025 | A Simple Baseline for Multivariate Time Series Forecasting | None
 25-01-24 | [VarDrop](https://arxiv.org/abs/2501.14183)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting | [VarDrop](https://github.com/kaist-dmlab/VarDrop)
 25-01-28 | [Spikformer](https://arxiv.org/abs/2501.16745)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Toward Relative Positional Encoding in Spiking Transformers | None
 25-02-10 | [Powerformer](https://arxiv.org/abs/2502.06151)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Powerformer: A Transformer with Weighted Causal Attention for Time-series Forecasting | None
@@ -394,6 +395,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-11-26 | [MTS-UNMixers](https://arxiv.org/abs/2411.17770) | Arxiv 2024 | MTS-UNMixers: Multivariate Time Series Forecasting via Channel-Time Dual Unmixing | [MTS-UNMixers](https://github.com/zhu-0108/mts-unmixers) |
 | 24-12-01 | [DSSRNN](https://arxiv.org/abs/2412.00994) | Arxiv 2024 | DSSRNN: Decomposition-Enhanced State-Space Recurrent Neural Network for Time-Series Analysis | [DSSRNN](https://github.com/ahmad-shirazi/DSSRNN) |
 | 25-01-23 | [ACSSM](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 | Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series | None |
+| 25-01-23 | [S4M](https://openreview.net/forum?id=BkftcwIVmR) | ICLR 2025 | S4M: S4 for multivariate time series forecasting with Missing values | None |
 
 
 </details>
@@ -439,6 +441,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-11-07 | [S2DBM](https://arxiv.org/abs/2411.04491) | Arxiv 2024 | Series-to-Series Diffusion Bridge Model | None |
 | 24-11-12 | [FM-TS](https://arxiv.org/abs/2411.07506) | Arxiv 2024 | FM-TS: Flow Matching for Time Series Generation | [FMTS](https://github.com/UNITES-Lab/FMTS) |
 | 24-12-12 | [ARMD](https://arxiv.org/abs/2412.09328) | AAAI 2025 | Auto-Regressive Moving Diffusion Models for Time Series Forecasting | [ARMD](https://github.com/daxin007/ARMD) |
+| 25-01-23 | [D3U](https://openreview.net/forum?id=HdUkF1Qk7g) | ICLR 2025 | Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting | None |
 
 
 </details>
@@ -743,6 +746,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-01-06 | [TabPFN-TS](https://arxiv.org/abs/2501.02945) | NIPSW 2024 | The Tabular Foundation Model TabPFN Outperforms Specialized Time Series Forecasting Models Based on Simple Features | [TabPFN-TS](https://github.com/liam-sbhoo/tabpfn-time-series) |
 | 25-01-23 | [TS-LIF](https://openreview.net/forum?id=rDe9yQQYKt) | ICLR 2025 | TS-LIF: A Temporal Segment Spiking Neuron Network for Time Series Forecasting | None |
 | 25-01-23 | [LCESN](https://openreview.net/forum?id=KeRwLLwZaw) | ICLR 2025 | Locally Connected Echo State Networks for Time Series Forecasting | [LCESN](https://github.com/FloopCZ/echo-state-networks) |
+| 25-01-23 | [KooNPro](https://openreview.net/forum?id=5oSUgTzs8Y) | ICLR 2025 | KooNPro: A Variance-Aware Koopman Probabilistic Model Enhanced by Neural Processes for Time Series Forecasting | [Koonpro](https://github.com/Rrh-Zheng/Koonpro) |
 | 25-01-26 | [TCTNN](https://arxiv.org/abs/2501.15388) | Arxiv 2025 | Guaranteed Multidimensional Time Series Prediction via Deterministic Tensor Completion Theory | [TCTNN](https://github.com/HaoShu2000/TCTNN) |
 | 25-01-27 | [METAFORS](https://arxiv.org/abs/2501.16325) | Arxiv 2025 | Tailored Forecasting from Short Time Series via Meta-learning | None |
 
