@@ -68,6 +68,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-12-19|[Benchmark](https://arxiv.org/abs/2412.14435)🌟 |AAAI 2025| Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine | [bench](https://github.com/luisroque/bench)
 25-02-11|[Physiome-ODE](https://arxiv.org/abs/2502.07489) |ICLR 2025| Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs | [Physiome-ODE](https://anonymous.4open.science/r/Phyisiome-ODE-E53D)
 25-02-15|[Channel-Strategy](https://arxiv.org/abs/2502.10721) |Arxiv 2025| A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective | [CS4TS](https://github.com/decisionintelligence/CS4TS)
+25-02-17|[Positional-Encoding](https://arxiv.org/abs/2502.12370) |Arxiv 2025| Positional Encoding in Transformer-Based Time Series Models: A Survey | [pe-benchmark](https://github.com/imics-lab/positional-encoding-benchmark)
 
 
 </details>
@@ -693,6 +694,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 24-09-29 | [EvoMSN](https://arxiv.org/abs/2409.19718) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2024 | Evolving Multi-Scale Normalization for Time Series Forecasting under Distribution Shifts | [EvoMSN](https://github.com/qindalin/evomsn)  |
 | 24-12-11 | [Proceed](https://arxiv.org/abs/2412.08435) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting | [Proceed](https://github.com/SJTU-DMTai/OnlineTSF)  |
 | 25-01-23 | [DSOF](https://openreview.net/forum?id=I0n3EyogMi) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2025 | Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage | None  |
+| 25-02-18 | [LSTD](https://arxiv.org/abs/2502.12603) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Disentangling Long-Short Term State Under Unknown Interventions for Online Time Series Forecasting | [LSTD](https://github.com/DMIRLAB-Group/LSTD)  |
+| 25-02-18 | [AdapTS](https://arxiv.org/abs/2502.12920) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Lightweight Online Adaption for Time Series Foundation Model Forecasts | None |
 
 </details>
 
