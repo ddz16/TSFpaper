@@ -526,6 +526,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-06 | [Sequence Complementor](https://arxiv.org/abs/2501.02735)| AAAI 2025 | Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences | None |
 | 25-01-09 | [TAFAS](https://arxiv.org/abs/2501.04970)| AAAI 2025 | Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation | [TAFAS](https://github.com/kimanki/TAFAS) |
 | 25-01-23 | [PN-Train](https://openreview.net/forum?id=a9vey6B54y)| ICLR 2025 | Investigating Pattern Neurons in Urban Time Series Forecasting | [PN-Train](https://anonymous.4open.science/r/PN-Train) |
+| 25-01-23 | [CoMRes](https://openreview.net/forum?id=bRa4JLPzii)| ICLR 2025 | CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution | None |
 
 
 </details>
@@ -648,7 +649,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-05 | [CAPE](https://arxiv.org/abs/2502.03393) | Arxiv 2025 | CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting | None |
 | 25-02-09 | [Reasoning](https://arxiv.org/abs/2502.06037) | Arxiv 2025 | Investigating Compositional Reasoning in Time Series Foundation Models | [tsfm_reasoning](https://github.com/PotosnakW/neuralforecast/tree/tsfm_reasoning) |
 | 25-02-14 | [AdaPTS](https://arxiv.org/abs/2502.10235) | Arxiv 2025 | AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting | [AdaPTS](https://github.com/abenechehab/AdaPTS) |
-
+| 25-02-17 | [Robustness](https://arxiv.org/abs/2502.12226) | Arxiv 2025 | On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series | None |
 
 
 </details>
