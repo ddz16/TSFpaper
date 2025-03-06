@@ -515,7 +515,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-30 | [DisenTS](https://arxiv.org/abs/2410.22981) | Arxiv 2024 | DisenTS: Disentangled Channel Evolving Pattern Modeling for Multivariate Time Series Forecasting | None |
 | 24-10-30 | [CM](https://arxiv.org/abs/2410.23222) | Arxiv 2024 | Partial Channel Dependence with Channel Masks for Time Series Foundation Models | [CM](https://github.com/seunghan96/CM) |
 | 24-10-31 | [MLP replace attention](https://arxiv.org/abs/2410.24023) | Arxiv 2024 | Approximate attention with MLP: a pruning strategy for attention-based model in multivariate time series forecasting | None |
-| 24-11-12 | [RAF](https://arxiv.org/abs/2411.08249) | Arxiv 2024 | Retrieval Augmented Time Series Forecasting | None |
+| 24-11-12 | [RAF](https://arxiv.org/abs/2411.08249) | Arxiv 2024 | Retrieval Augmented Time Series Forecasting | [RAF](https://github.com/kutaytire/retrieval-augmented-time-series-forecasting) |
 | 24-11-24 | [Freq-Synth](https://arxiv.org/abs/2411.15743) | Arxiv 2024 | Beyond Data Scarcity: A Frequency-Driven Framework for Zero-Shot Forecasting | None |
 | 24-12-02 | [TimeLinear](https://arxiv.org/abs/2412.01557) | Arxiv 2024 | How Much Can Time-related Features Enhance Time Series Forecasting? | [TimeLinear](https://github.com/zclzcl0223/TimeLinear) |
 | 24-12-06 | [WaveToken](https://arxiv.org/abs/2412.05244) | Arxiv 2024 | Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization | None |
@@ -588,6 +588,17 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 
 </details>
+
+
+<details><summary><h2 style="display: inline;">Multi-Agent.</h2></summary>
+
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
+| 24-08-18 | [Agentic-RAG](https://arxiv.org/abs/2408.14484) | KDDW 2024 | Agentic Retrieval-Augmented Generation for Time Series Analysis | None |
+
+
+</details>
+
 
 
 <details><summary><h2 style="display: inline;">Pretrain & Representation.</h2></summary>
