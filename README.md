@@ -69,6 +69,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 25-02-11|[Physiome-ODE](https://arxiv.org/abs/2502.07489) |ICLR 2025| Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs | [Physiome-ODE](https://anonymous.4open.science/r/Phyisiome-ODE-E53D)
 25-02-15|[Channel-Strategy](https://arxiv.org/abs/2502.10721) |Arxiv 2025| A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective | [CS4TS](https://github.com/decisionintelligence/CS4TS)
 25-02-17|[Positional-Encoding](https://arxiv.org/abs/2502.12370) |Arxiv 2025| Positional Encoding in Transformer-Based Time Series Models: A Survey | [pe-benchmark](https://github.com/imics-lab/positional-encoding-benchmark)
+25-02-19|[LTSF](https://arxiv.org/abs/2502.14045) |Arxiv 2025| Position: There are no Champions in Long-Term Time Series Forecasting | None
 
 
 </details>
@@ -293,6 +294,8 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-02-05 | [MTLinear](https://arxiv.org/abs/2502.03571) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | A Multi-Task Learning Approach to Linear Multivariate Forecasting | [MTLinear](https://github.com/azencot-group/MTLinear) |
 | 25-02-14 | [HADL](https://arxiv.org/abs/2502.10569) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | HADL Framework for Noise Resilient Long-Term Time Series Forecasting | [HADL](https://github.com/forgee-master/HADL) |
 | 25-02-17 | [IMTS-Mixer](https://arxiv.org/abs/2502.11816) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | IMTS-Mixer: Mixer-Networks for Irregular Multivariate Time Series Forecasting | [IMTS-Mixer](https://anonymous.4open.science/r/IMTS-Mixer-D63C/) |
+| 25-02-20 | [TimeDistill](https://arxiv.org/abs/2502.15016) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation | None |
+| 25-02-28 | [UltraSTF](https://arxiv.org/abs/2502.20634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | A Compact Model for Large-Scale Time Series Forecasting | None |
 
 
 </details>
@@ -530,7 +533,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-09 | [TAFAS](https://arxiv.org/abs/2501.04970)| AAAI 2025 | Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation | [TAFAS](https://github.com/kimanki/TAFAS) |
 | 25-01-23 | [PN-Train](https://openreview.net/forum?id=a9vey6B54y)| ICLR 2025 | Investigating Pattern Neurons in Urban Time Series Forecasting | [PN-Train](https://anonymous.4open.science/r/PN-Train) |
 | 25-01-23 | [CoMRes](https://openreview.net/forum?id=bRa4JLPzii)| ICLR 2025 | CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution | None |
+| 25-02-20 | [SCAM](https://arxiv.org/abs/2502.14704)| Arxiv 2025 | Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting | [SCAM](https://anonymous.4open.science/r/SCAM-BDD3) |
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
+
 
 
 </details>
@@ -730,6 +735,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-10-19 | [HiPPO-KAN](https://arxiv.org/abs/2410.14939) | Arxiv 2024 | HiPPO-KAN: Efficient KAN Model for Time Series Analysis | None |
 | 24-12-19 | [NBEATS-KAN](https://arxiv.org/abs/2412.17853) | NIPSW 2024 | Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks | None |
 | 25-02-10 | [TimeKAN](https://arxiv.org/abs/2502.06910) | ICLR 2025 | TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting | [TimeKAN](https://github.com/huangst21/TimeKAN) |
+| 25-02-25 | [TSKANMixer](https://arxiv.org/abs/2502.18410) | AAAIW 2025 | TSKANMixer: Kolmogorov-Arnold Networks with MLP-Mixer Model for Time Series Forecasting | None |
 
 
 </details>
