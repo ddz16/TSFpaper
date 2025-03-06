@@ -190,6 +190,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-02-12 | [HDT](https://arxiv.org/abs/2502.08302)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | HDT: Hierarchical Discrete Transformer for Multivariate Time Series Forecasting | [HDT](https://github.com/hdtkk/HDT)
 25-02-13 | [FaCT](https://arxiv.org/abs/2502.09683)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting? | None
 25-02-17 | [S2TX](https://arxiv.org/abs/2502.11340)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting | None
+25-02-19 | [AutoFormer-TS](https://arxiv.org/abs/2502.13721)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Learning Novel Transformer Architecture for Time-series Forecasting | None
+25-03-03 | [ContexTST](https://arxiv.org/abs/2503.01157)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting | None
 
 
 </details>
@@ -396,7 +398,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-11-26 | [MTS-UNMixers](https://arxiv.org/abs/2411.17770) | Arxiv 2024 | MTS-UNMixers: Multivariate Time Series Forecasting via Channel-Time Dual Unmixing | [MTS-UNMixers](https://github.com/zhu-0108/mts-unmixers) |
 | 24-12-01 | [DSSRNN](https://arxiv.org/abs/2412.00994) | Arxiv 2024 | DSSRNN: Decomposition-Enhanced State-Space Recurrent Neural Network for Time-Series Analysis | [DSSRNN](https://github.com/ahmad-shirazi/DSSRNN) |
 | 25-01-23 | [ACSSM](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 | Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series | None |
-| 25-01-23 | [S4M](https://openreview.net/forum?id=BkftcwIVmR) | ICLR 2025 | S4M: S4 for multivariate time series forecasting with Missing values | None |
+| 25-01-23 | [S4M](https://openreview.net/forum?id=BkftcwIVmR) | ICLR 2025 | S4M: S4 for multivariate time series forecasting with Missing values | [S4M](https://github.com/WINTERWEEL/S4M) |
 
 
 </details>
@@ -443,6 +445,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-11-12 | [FM-TS](https://arxiv.org/abs/2411.07506) | Arxiv 2024 | FM-TS: Flow Matching for Time Series Generation | [FMTS](https://github.com/UNITES-Lab/FMTS) |
 | 24-12-12 | [ARMD](https://arxiv.org/abs/2412.09328) | AAAI 2025 | Auto-Regressive Moving Diffusion Models for Time Series Forecasting | [ARMD](https://github.com/daxin007/ARMD) |
 | 25-01-23 | [D3U](https://openreview.net/forum?id=HdUkF1Qk7g) | ICLR 2025 | Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting | None |
+| 25-03-02 | [DyDiff](https://arxiv.org/abs/2503.00951) | ICLR 2025 | Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models | [DyDiff](https://github.com/thuml/dynamical-diffusion) |
 
 
 </details>
@@ -527,6 +530,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-09 | [TAFAS](https://arxiv.org/abs/2501.04970)| AAAI 2025 | Battling the Non-stationarity in Time Series Forecasting via Test-time Adaptation | [TAFAS](https://github.com/kimanki/TAFAS) |
 | 25-01-23 | [PN-Train](https://openreview.net/forum?id=a9vey6B54y)| ICLR 2025 | Investigating Pattern Neurons in Urban Time Series Forecasting | [PN-Train](https://anonymous.4open.science/r/PN-Train) |
 | 25-01-23 | [CoMRes](https://openreview.net/forum?id=bRa4JLPzii)| ICLR 2025 | CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution | None |
+| 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
 
 
 </details>
@@ -661,6 +665,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-09 | [Reasoning](https://arxiv.org/abs/2502.06037) | Arxiv 2025 | Investigating Compositional Reasoning in Time Series Foundation Models | [tsfm_reasoning](https://github.com/PotosnakW/neuralforecast/tree/tsfm_reasoning) |
 | 25-02-14 | [AdaPTS](https://arxiv.org/abs/2502.10235) | Arxiv 2025 | AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting | [AdaPTS](https://github.com/abenechehab/AdaPTS) |
 | 25-02-17 | [Robustness](https://arxiv.org/abs/2502.12226) | Arxiv 2025 | On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series | None |
+| 25-02-28 | [TimesBERT](https://arxiv.org/abs/2502.21245) | Arxiv 2025 | TimesBERT: A BERT-Style Foundation Model for Time Series Understanding | None |
 
 
 </details>
@@ -676,6 +681,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-13 | [TextFusionHTS](https://arxiv.org/abs/2501.07048) | NIPSW 2024 | Unveiling the Potential of Text in High-Dimensional Time Series Forecasting | [TextFusionHTS](https://github.com/xinzzzhou/textfusionhts) |
 | 25-02-06 | [Time-VLM](https://arxiv.org/abs/2502.04395) | Arxiv 2025 | Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting | None |
 | 25-02-13 | [TaTS](https://arxiv.org/abs/2502.08942) | Arxiv 2025 | Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative | None |
+| 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
 
 
 </details>
