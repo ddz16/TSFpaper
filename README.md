@@ -699,6 +699,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 21-06-13 | [FOIL](https://arxiv.org/abs/2406.09130) | ICML 2024 | Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning | [FOIL](https://github.com/adityalab/foil) |
 | 24-08-24 | [STONE](https://dl.acm.org/doi/abs/10.1145/3637528.3671680) | KDD 2024 | STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts | [STONE](https://github.com/PoorOtterBob/STONE-KDD-2024) |
 | 24-12-15 | [LTG](https://arxiv.org/abs/2412.11171) | Arxiv 2024 | Learning Latent Spaces for Domain Generalization in Time Series Forecasting | None |
+| 25-02-23 | [LCA](https://arxiv.org/abs/2502.16637) | Arxiv 2025 | Time Series Domain Adaptation via Latent Invariant Causal Mechanism | [LCA](https://github.com/DMIRLAB-Group/LCA) |
 
 
 </details>
