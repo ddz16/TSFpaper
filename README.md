@@ -192,6 +192,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-02-13 | [FaCT](https://arxiv.org/abs/2502.09683)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Channel Dependence, Limited Lookback Windows, and the Simplicity of Datasets: How Biased is Time Series Forecasting? | None
 25-02-17 | [S2TX](https://arxiv.org/abs/2502.11340)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | S2TX: Cross-Attention Multi-Scale State-Space Transformer for Time Series Forecasting | None
 25-02-19 | [AutoFormer-TS](https://arxiv.org/abs/2502.13721)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Learning Novel Transformer Architecture for Time-series Forecasting | None
+25-02-27 | [PFformer](https://arxiv.org/abs/2502.20571)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | PAKDD 2025 | PFformer: A Position-Free Transformer Variant for Extreme-Adaptive Multivariate Time Series Forecasting | None
 25-03-03 | [ContexTST](https://arxiv.org/abs/2503.01157)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting | None
 
 
@@ -296,6 +297,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-02-17 | [IMTS-Mixer](https://arxiv.org/abs/2502.11816) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | IMTS-Mixer: Mixer-Networks for Irregular Multivariate Time Series Forecasting | [IMTS-Mixer](https://anonymous.4open.science/r/IMTS-Mixer-D63C/) |
 | 25-02-20 | [TimeDistill](https://arxiv.org/abs/2502.15016) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation | None |
 | 25-02-28 | [UltraSTF](https://arxiv.org/abs/2502.20634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | A Compact Model for Large-Scale Time Series Forecasting | None |
+| 25-03-04 | [CDFM](https://arxiv.org/abs/2503.02609) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Lightweight Channel-wise Dynamic Fusion Model: Non-stationary Time Series Forecasting via Entropy Analysis | None |
 
 
 </details>
