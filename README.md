@@ -70,6 +70,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 25-02-15|[Channel-Strategy](https://arxiv.org/abs/2502.10721) |Arxiv 2025| A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective | [CS4TS](https://github.com/decisionintelligence/CS4TS)
 25-02-17|[Positional-Encoding](https://arxiv.org/abs/2502.12370) |Arxiv 2025| Positional Encoding in Transformer-Based Time Series Models: A Survey | [pe-benchmark](https://github.com/imics-lab/positional-encoding-benchmark)
 25-02-19|[LTSF](https://arxiv.org/abs/2502.14045) |Arxiv 2025| Position: There are no Champions in Long-Term Time Series Forecasting | None
+25-02-26|[FinTSB](https://arxiv.org/abs/2502.18834) |Arxiv 2025| FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting | [FinTSB](https://github.com/TongjiFinLab/FinTSB)
 
 
 </details>
@@ -453,6 +454,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-11-12 | [FM-TS](https://arxiv.org/abs/2411.07506) | Arxiv 2024 | FM-TS: Flow Matching for Time Series Generation | [FMTS](https://github.com/UNITES-Lab/FMTS) |
 | 24-12-12 | [ARMD](https://arxiv.org/abs/2412.09328) | AAAI 2025 | Auto-Regressive Moving Diffusion Models for Time Series Forecasting | [ARMD](https://github.com/daxin007/ARMD) |
 | 25-01-23 | [D3U](https://openreview.net/forum?id=HdUkF1Qk7g) | ICLR 2025 | Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting | None |
+| 25-02-16 | [LDM4TS](https://arxiv.org/abs/2502.14887) | Arxiv 2025 | Vision-Enhanced Time Series Forecasting via Latent Diffusion Models | None |
 | 25-02-26 | [Hutch++](https://arxiv.org/abs/2502.18808) | AISTATS 2025 | Optimal Stochastic Trace Estimation in Generative Modeling | [Hutch++](https://github.com/xinyangATK/GenHutch-plus-plus) |
 | 25-03-02 | [DyDiff](https://arxiv.org/abs/2503.00951) | ICLR 2025 | Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models | [DyDiff](https://github.com/thuml/dynamical-diffusion) |
 
@@ -679,6 +681,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-17 | [Robustness](https://arxiv.org/abs/2502.12226) | Arxiv 2025 | On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series | None |
 | 25-02-22 | [TimePFN](https://arxiv.org/abs/2502.16294) | AAAI 2025 | TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data | [TimePFN](https://github.com/egetaga/timepfn) |
 | 25-02-28 | [TimesBERT](https://arxiv.org/abs/2502.21245) | Arxiv 2025 | TimesBERT: A BERT-Style Foundation Model for Time Series Understanding | None |
+| 25-03-04 | [SeqFusion](https://arxiv.org/abs/2503.02836) | Arxiv 2025 | SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting | [SeqFusion](https://github.com/Tingji2419/SeqFusion) |
 
 
 </details>
