@@ -365,6 +365,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-10-17 | [GNeuralFlow](https://arxiv.org/abs/2410.14030) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | NIPS 2024 | Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series | [GNeuralFlow](https://github.com/gmerca/GNeuralFlow) |
 | 24-10-24 | [TEAM](https://arxiv.org/abs/2410.19192) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2025 | TEAM: Topological Evolution-aware Framework for Traffic Forecasting | [TEAM](https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting) |
 | 25-01-22 | [TimeFilter](https://arxiv.org/abs/2501.13041) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting | [TimeFilter](https://github.com/troubadour000/timefilter) |
+| 25-02-21 | [EVTSF](https://arxiv.org/abs/2502.15296) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning | None |
 
 
 </details>
@@ -450,6 +451,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-11-12 | [FM-TS](https://arxiv.org/abs/2411.07506) | Arxiv 2024 | FM-TS: Flow Matching for Time Series Generation | [FMTS](https://github.com/UNITES-Lab/FMTS) |
 | 24-12-12 | [ARMD](https://arxiv.org/abs/2412.09328) | AAAI 2025 | Auto-Regressive Moving Diffusion Models for Time Series Forecasting | [ARMD](https://github.com/daxin007/ARMD) |
 | 25-01-23 | [D3U](https://openreview.net/forum?id=HdUkF1Qk7g) | ICLR 2025 | Diffusion-based Decoupled Deterministic and Uncertain Framework for Probabilistic Multivariate Time Series Forecasting | None |
+| 25-02-26 | [Hutch++](https://arxiv.org/abs/2502.18808) | AISTATS 2025 | Optimal Stochastic Trace Estimation in Generative Modeling | [Hutch++](https://github.com/xinyangATK/GenHutch-plus-plus) |
 | 25-03-02 | [DyDiff](https://arxiv.org/abs/2503.00951) | ICLR 2025 | Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models | [DyDiff](https://github.com/thuml/dynamical-diffusion) |
 
 
@@ -596,6 +598,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-10 | [MPT](https://arxiv.org/abs/2501.06386) | Arxiv 2025 | Using Pre-trained LLMs for Multivariate Time Series Forecasting | None |
 | 25-02-04 | [LASTS](https://arxiv.org/abs/2502.01922) | Arxiv 2025 | LAST SToP For Modeling Asynchronous Time Series | None |
 | 25-02-09 | [FinSeer](https://arxiv.org/abs/2502.05878) | Arxiv 2025 | Retrieval-augmented Large Language Models for Financial Time Series Forecasting | None |
+| 25-03-05 | [SMETimes](https://arxiv.org/abs/2503.03594) | Arxiv 2025 | Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs | [SMETimes](https://github.com/xiyan1234567/SMETimes) |
 
 
 </details>
@@ -672,6 +675,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-09 | [Reasoning](https://arxiv.org/abs/2502.06037) | Arxiv 2025 | Investigating Compositional Reasoning in Time Series Foundation Models | [tsfm_reasoning](https://github.com/PotosnakW/neuralforecast/tree/tsfm_reasoning) |
 | 25-02-14 | [AdaPTS](https://arxiv.org/abs/2502.10235) | Arxiv 2025 | AdaPTS: Adapting Univariate Foundation Models to Probabilistic Multivariate Time Series Forecasting | [AdaPTS](https://github.com/abenechehab/AdaPTS) |
 | 25-02-17 | [Robustness](https://arxiv.org/abs/2502.12226) | Arxiv 2025 | On Creating a Causally Grounded Usable Rating Method for Assessing the Robustness of Foundation Models Supporting Time Series | None |
+| 25-02-22 | [TimePFN](https://arxiv.org/abs/2502.16294) | AAAI 2025 | TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data | [TimePFN](https://github.com/egetaga/timepfn) |
 | 25-02-28 | [TimesBERT](https://arxiv.org/abs/2502.21245) | Arxiv 2025 | TimesBERT: A BERT-Style Foundation Model for Time Series Understanding | None |
 
 
