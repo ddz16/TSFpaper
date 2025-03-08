@@ -296,8 +296,10 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-02-14 | [HADL](https://arxiv.org/abs/2502.10569) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | HADL Framework for Noise Resilient Long-Term Time Series Forecasting | [HADL](https://github.com/forgee-master/HADL) |
 | 25-02-17 | [IMTS-Mixer](https://arxiv.org/abs/2502.11816) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | IMTS-Mixer: Mixer-Networks for Irregular Multivariate Time Series Forecasting | [IMTS-Mixer](https://anonymous.4open.science/r/IMTS-Mixer-D63C/) |
 | 25-02-20 | [TimeDistill](https://arxiv.org/abs/2502.15016) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation | None |
+| 25-02-27 | [FIA-Net](https://arxiv.org/abs/2502.19983) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Efficient Time Series Forecasting via Hyper-Complex Models and Frequency Aggregation | [FIA-Net](https://anonymous.4open.science/r/research-1803/) |
 | 25-02-28 | [UltraSTF](https://arxiv.org/abs/2502.20634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | A Compact Model for Large-Scale Time Series Forecasting | None |
 | 25-03-04 | [CDFM](https://arxiv.org/abs/2503.02609) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Lightweight Channel-wise Dynamic Fusion Model: Non-stationary Time Series Forecasting via Entropy Analysis | None |
+
 
 
 </details>
