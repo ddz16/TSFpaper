@@ -682,6 +682,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-22 | [TimePFN](https://arxiv.org/abs/2502.16294) | AAAI 2025 | TimePFN: Effective Multivariate Time Series Forecasting with Synthetic Data | [TimePFN](https://github.com/egetaga/timepfn) |
 | 25-02-28 | [TimesBERT](https://arxiv.org/abs/2502.21245) | Arxiv 2025 | TimesBERT: A BERT-Style Foundation Model for Time Series Understanding | None |
 | 25-03-04 | [SeqFusion](https://arxiv.org/abs/2503.02836) | Arxiv 2025 | SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting | [SeqFusion](https://github.com/Tingji2419/SeqFusion) |
+| 25-03-06 | [TimeFound](https://arxiv.org/abs/2503.04118) | Arxiv 2025 | TimeFound: A Foundation Model for Time Series Forecasting | None |
 
 
 </details>
