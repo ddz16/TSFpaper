@@ -664,7 +664,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) 🌟 | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
 | 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | Arxiv 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
 | 24-09-24 | [Time-MoE](https://arxiv.org/abs/2409.16040) | ICLR 2025 | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://zhuanlan.zhihu.com/p/2950313586) | [Time-MoE](https://github.com/Time-MoE/Time-MoE) |
-| 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | ICLR 2025 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | None |
+| 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | ICLR 2025 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | [Timer-XL](https://github.com/thuml/Timer-XL) |
 | 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
 | 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
 | 24-10-30 | [FlexTSF](https://arxiv.org/abs/2410.23160) | Arxiv 2024 | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | [FlexTSF](https://github.com/jingge326/flextsf) |
@@ -672,7 +672,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-11-05 | [TSMamba](https://arxiv.org/abs/2411.02941) | Arxiv 2024 | A Mamba Foundation Model for Time Series Forecasting | None |
 | 24-11-24 | [TableTime](https://arxiv.org/abs/2411.15737) | Arxiv 2024 | TableTime: Reformulating Time Series Classification as Zero-Shot Table Understanding via Large Language Models | [TableTime](https://github.com/realwangjiahao/TableTime) |
 | 24-12-01 | [WQ4TS](https://arxiv.org/abs/2412.00772) | Arxiv 2024 | A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series | None |
-| 25-01-27 | [TimeHF](https://arxiv.org/abs/2501.15942v1) | Arxiv 2025 | TimeHF: Billion-Scale Time Series Models Guided by Human Feedback | None |
+| 25-01-27 | [TimeHF](https://arxiv.org/abs/2501.15942) | Arxiv 2025 | TimeHF: Billion-Scale Time Series Models Guided by Human Feedback | None |
 | 25-02-02 | [Sundial](https://arxiv.org/abs/2502.00816) | Arxiv 2025 | Sundial: A Family of Highly Capable Time Series Foundation Models | None |
 | 25-02-05 | [TopoCL](https://arxiv.org/abs/2502.02924) | Arxiv 2025 | TopoCL: Topological Contrastive Learning for Time Series | None |
 | 25-02-05 | [GTM](https://arxiv.org/abs/2502.03264) | Arxiv 2025 | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | None |
