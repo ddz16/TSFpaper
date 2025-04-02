@@ -196,6 +196,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-02-27 | [PFformer](https://arxiv.org/abs/2502.20571)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | PAKDD 2025 | PFformer: A Position-Free Transformer Variant for Extreme-Adaptive Multivariate Time Series Forecasting | None
 25-03-03 | [ContexTST](https://arxiv.org/abs/2503.01157)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Unify and Anchor: A Context-Aware Transformer for Cross-Domain Time Series Forecasting | None
 25-03-07 | [PPDformer](https://ieeexplore.ieee.org/document/10890581)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICASSP 2025 | PPDformer: Channel-Specific Periodic Patch Division for Time Series Forecasting | [PPDformer](https://github.com/damonwan1/PPDformer)
+25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 
 
 
