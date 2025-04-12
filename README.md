@@ -312,6 +312,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-02-28 | [UltraSTF](https://arxiv.org/abs/2502.20634) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | A Compact Model for Large-Scale Time Series Forecasting | None |
 | 25-03-04 | [CDFM](https://arxiv.org/abs/2503.02609) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Lightweight Channel-wise Dynamic Fusion Model: Non-stationary Time Series Forecasting via Entropy Analysis | None |
 | 25-03-30 | [SFNN](https://arxiv.org/abs/2503.23621) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting | None |
+| 25-04-02 | [DRAN](https://arxiv.org/abs/2504.01531) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting | None |
 
 
 
@@ -346,6 +347,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 25-01-23 | [TVNet](https://openreview.net/forum?id=MZDdTzN6Cy) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2025 | TVNet: A Novel Time Series Analysis Method Based on Dynamic Convolution and 3D-Variation | None |
 
 </details>
+
 
 <details><summary><h2 style="display: inline;">GNN.</h2></summary>
 
