@@ -558,7 +558,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-23 | [CoMRes](https://openreview.net/forum?id=bRa4JLPzii)| ICLR 2025 | CoMRes: Semi-Supervised Time Series Forecasting Utilizing Consensus Promotion of Multi-Resolution | None |
 | 25-02-20 | [SCAM](https://arxiv.org/abs/2502.14704)| Arxiv 2025 | Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting | [SCAM](https://anonymous.4open.science/r/SCAM-BDD3) |
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
-
+| 25-03-25 | [Rejection](https://arxiv.org/abs/2503.19656)| Arxiv 2025 | Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms | None |
 
 
 </details>
@@ -723,6 +723,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-06 | [Time-VLM](https://arxiv.org/abs/2502.04395) | Arxiv 2025 | Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting | None |
 | 25-02-13 | [TaTS](https://arxiv.org/abs/2502.08942) | Arxiv 2025 | Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative | None |
 | 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
+| 25-03-21 | [MTBench](https://arxiv.org/abs/2503.16858) | Arxiv 2025 | MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering | [MTBench](https://github.com/Graph-and-Geometric-Learning/MTBench) |
 
 
 </details>
