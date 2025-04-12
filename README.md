@@ -200,6 +200,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-03-07 | [PPDformer](https://ieeexplore.ieee.org/document/10890581)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICASSP 2025 | PPDformer: Channel-Specific Periodic Patch Division for Time Series Forecasting | [PPDformer](https://github.com/damonwan1/PPDformer)
 25-03-10 | [Attn-L-Reg](https://arxiv.org/abs/2503.06867)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Enhancing Time Series Forecasting via Logic-Inspired Regularization | None
 25-03-11 | [MFRS](https://arxiv.org/abs/2503.08328)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | MFRS: A Multi-Frequency Reference Series Approach to Scalable and Accurate Time-Series Forecasting | [MFRS](https://github.com/yuliang555/MFRS)
+25-03-13 | [EiFormer](https://arxiv.org/abs/2503.10858)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Towards Efficient Large Scale Spatial-Temporal Time Series Forecasting via Improved Inverted Transformers | None
 25-03-31 | [CITRAS](https://arxiv.org/abs/2503.24007)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CITRAS: Covariate-Informed Transformer for Time Series Forecasting | None
 25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 
@@ -418,6 +419,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-12-01 | [DSSRNN](https://arxiv.org/abs/2412.00994) | Arxiv 2024 | DSSRNN: Decomposition-Enhanced State-Space Recurrent Neural Network for Time-Series Analysis | [DSSRNN](https://github.com/ahmad-shirazi/DSSRNN) |
 | 25-01-23 | [ACSSM](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 | Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series | None |
 | 25-01-23 | [S4M](https://openreview.net/forum?id=BkftcwIVmR) | ICLR 2025 | S4M: S4 for multivariate time series forecasting with Missing values | [S4M](https://github.com/WINTERWEEL/S4M) |
+| 25-03-13 | [Mamba-ProbTSF](https://arxiv.org/abs/2503.10873) | Arxiv 2025 | Mamba time series forecasting with uncertainty propagation | [mamba-probtsf](https://github.com/pessoap/mamba-probtsf) |
 | 25-04-10 | [ms-Mamba](https://arxiv.org/abs/2504.07654) | Arxiv 2025 | ms-Mamba: Multi-scale Mamba for Time-Series Forecasting | None |
 
 
@@ -698,6 +700,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-28 | [TimesBERT](https://arxiv.org/abs/2502.21245) | Arxiv 2025 | TimesBERT: A BERT-Style Foundation Model for Time Series Understanding | None |
 | 25-03-04 | [SeqFusion](https://arxiv.org/abs/2503.02836) | Arxiv 2025 | SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting | [SeqFusion](https://github.com/Tingji2419/SeqFusion) |
 | 25-03-06 | [TimeFound](https://arxiv.org/abs/2503.04118) | Arxiv 2025 | TimeFound: A Foundation Model for Time Series Forecasting | None |
+| 25-03-06 | [TS-RAG](https://arxiv.org/abs/2503.07649) | Arxiv 2025 | TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster | None |
 
 
 </details>
