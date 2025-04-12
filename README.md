@@ -421,6 +421,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-01-23 | [ACSSM](https://openreview.net/forum?id=8zJRon6k5v) | ICLR 2025 | Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series | None |
 | 25-01-23 | [S4M](https://openreview.net/forum?id=BkftcwIVmR) | ICLR 2025 | S4M: S4 for multivariate time series forecasting with Missing values | [S4M](https://github.com/WINTERWEEL/S4M) |
 | 25-03-13 | [Mamba-ProbTSF](https://arxiv.org/abs/2503.10873) | Arxiv 2025 | Mamba time series forecasting with uncertainty propagation | [mamba-probtsf](https://github.com/pessoap/mamba-probtsf) |
+| 25-04-02 | [Attention Mamba](https://arxiv.org/abs/2504.02013) | Arxiv 2025 | Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements | None |
 | 25-04-10 | [ms-Mamba](https://arxiv.org/abs/2504.07654) | Arxiv 2025 | ms-Mamba: Multi-scale Mamba for Time-Series Forecasting | None |
 
 
