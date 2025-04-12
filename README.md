@@ -805,6 +805,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-01-23 | [KooNPro](https://openreview.net/forum?id=5oSUgTzs8Y) | ICLR 2025 | KooNPro: A Variance-Aware Koopman Probabilistic Model Enhanced by Neural Processes for Time Series Forecasting | [Koonpro](https://github.com/Rrh-Zheng/Koonpro) |
 | 25-01-26 | [TCTNN](https://arxiv.org/abs/2501.15388) | Arxiv 2025 | Guaranteed Multidimensional Time Series Prediction via Deterministic Tensor Completion Theory | [TCTNN](https://github.com/HaoShu2000/TCTNN) |
 | 25-01-27 | [METAFORS](https://arxiv.org/abs/2501.16325) | Arxiv 2025 | Tailored Forecasting from Short Time Series via Meta-learning | None |
+| 25-03-26 | [PINN](https://arxiv.org/abs/2503.20144) | Arxiv 2025 | Physics-Informed Neural Networks with Unknown Partial Differential Equations: an Application in Multivariate Time Series | None |
 
 
 </details>
