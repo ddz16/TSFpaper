@@ -72,6 +72,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 25-02-19|[LTSF](https://arxiv.org/abs/2502.14045) |Arxiv 2025| Position: There are no Champions in Long-Term Time Series Forecasting | None
 25-02-26|[FinTSB](https://arxiv.org/abs/2502.18834) |Arxiv 2025| FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting | [FinTSB](https://github.com/TongjiFinLab/FinTSB)
 25-03-13|[DL](https://arxiv.org/abs/2503.10198) |Arxiv 2025| Deep Learning for Time Series Forecasting: A Survey | None
+25-04-05|[FoundationModels](https://arxiv.org/abs/2504.04011) |Arxiv 2025| Foundation Models for Time Series: A Survey | None
 
 
 </details>
@@ -199,6 +200,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-03-07 | [PPDformer](https://ieeexplore.ieee.org/document/10890581)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICASSP 2025 | PPDformer: Channel-Specific Periodic Patch Division for Time Series Forecasting | [PPDformer](https://github.com/damonwan1/PPDformer)
 25-03-10 | [Attn-L-Reg](https://arxiv.org/abs/2503.06867)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Enhancing Time Series Forecasting via Logic-Inspired Regularization | None
 25-03-11 | [MFRS](https://arxiv.org/abs/2503.08328)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | MFRS: A Multi-Frequency Reference Series Approach to Scalable and Accurate Time-Series Forecasting | [MFRS](https://github.com/yuliang555/MFRS)
+25-03-31 | [CITRAS](https://arxiv.org/abs/2503.24007)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CITRAS: Covariate-Informed Transformer for Time Series Forecasting | None
 25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 
 
@@ -612,6 +614,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-04 | [LASTS](https://arxiv.org/abs/2502.01922) | Arxiv 2025 | LAST SToP For Modeling Asynchronous Time Series | None |
 | 25-02-09 | [FinSeer](https://arxiv.org/abs/2502.05878) | Arxiv 2025 | Retrieval-augmented Large Language Models for Financial Time Series Forecasting | None |
 | 25-03-05 | [SMETimes](https://arxiv.org/abs/2503.03594) | Arxiv 2025 | Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs | [SMETimes](https://github.com/xiyan1234567/SMETimes) |
+| 25-03-11 | [LangTime](https://arxiv.org/abs/2503.08271) | Arxiv 2025 | LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization | [LangTime](https://github.com/niuwz/LangTime) |
+| 25-03-12 | [LLM-PS](https://arxiv.org/abs/2503.09656) | Arxiv 2025 | LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics | None |
 | 25-04-10 | [MLTA](https://arxiv.org/abs/2504.07360) | DASFAA 2025 | Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs | [MLTA](https://github.com/ztb-35/MLTA) |
 
 
