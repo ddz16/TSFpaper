@@ -201,6 +201,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-03-10 | [Attn-L-Reg](https://arxiv.org/abs/2503.06867)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Enhancing Time Series Forecasting via Logic-Inspired Regularization | None
 25-03-11 | [MFRS](https://arxiv.org/abs/2503.08328)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | MFRS: A Multi-Frequency Reference Series Approach to Scalable and Accurate Time-Series Forecasting | [MFRS](https://github.com/yuliang555/MFRS)
 25-03-13 | [EiFormer](https://arxiv.org/abs/2503.10858)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Towards Efficient Large Scale Spatial-Temporal Time Series Forecasting via Improved Inverted Transformers | None
+25-03-22 | [Sentinel](https://arxiv.org/abs/2503.17658)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sentinel: Multi-Patch Transformer with Temporal and Channel Attention for Time Series Forecasting | None
 25-03-31 | [CITRAS](https://arxiv.org/abs/2503.24007)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CITRAS: Covariate-Informed Transformer for Time Series Forecasting | None
 25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 
@@ -618,6 +619,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-05 | [SMETimes](https://arxiv.org/abs/2503.03594) | Arxiv 2025 | Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs | [SMETimes](https://github.com/xiyan1234567/SMETimes) |
 | 25-03-11 | [LangTime](https://arxiv.org/abs/2503.08271) | Arxiv 2025 | LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization | [LangTime](https://github.com/niuwz/LangTime) |
 | 25-03-12 | [LLM-PS](https://arxiv.org/abs/2503.09656) | Arxiv 2025 | LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics | None |
+| 25-04-02 | [ModelSelection](https://arxiv.org/abs/2504.02119) | Arxiv 2025 | Efficient Model Selection for Time Series Forecasting via LLMs | None |
 | 25-04-10 | [MLTA](https://arxiv.org/abs/2504.07360) | DASFAA 2025 | Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs | [MLTA](https://github.com/ztb-35/MLTA) |
 
 
@@ -701,6 +703,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-04 | [SeqFusion](https://arxiv.org/abs/2503.02836) | Arxiv 2025 | SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting | [SeqFusion](https://github.com/Tingji2419/SeqFusion) |
 | 25-03-06 | [TimeFound](https://arxiv.org/abs/2503.04118) | Arxiv 2025 | TimeFound: A Foundation Model for Time Series Forecasting | None |
 | 25-03-06 | [TS-RAG](https://arxiv.org/abs/2503.07649) | Arxiv 2025 | TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster | None |
+| 25-03-21 | [TRACE](https://arxiv.org/abs/2503.16991) | Arxiv 2025 | TRACE: Time SeRies PArameter EffiCient FinE-tuning | None |
 
 
 </details>
