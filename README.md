@@ -617,6 +617,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-04 | [LASTS](https://arxiv.org/abs/2502.01922) | Arxiv 2025 | LAST SToP For Modeling Asynchronous Time Series | None |
 | 25-02-09 | [FinSeer](https://arxiv.org/abs/2502.05878) | Arxiv 2025 | Retrieval-augmented Large Language Models for Financial Time Series Forecasting | None |
 | 25-03-05 | [SMETimes](https://arxiv.org/abs/2503.03594) | Arxiv 2025 | Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs | [SMETimes](https://github.com/xiyan1234567/SMETimes) |
+| 25-03-10 | [LTM](https://arxiv.org/abs/2503.07682) | Arxiv 2025 | A Time Series Multitask Framework Integrating a Large Language Model, Pre-Trained Time Series Model, and Knowledge Graph | None |
 | 25-03-11 | [LangTime](https://arxiv.org/abs/2503.08271) | Arxiv 2025 | LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization | [LangTime](https://github.com/niuwz/LangTime) |
 | 25-03-12 | [LLM-PS](https://arxiv.org/abs/2503.09656) | Arxiv 2025 | LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics | None |
 | 25-04-02 | [ModelSelection](https://arxiv.org/abs/2504.02119) | Arxiv 2025 | Efficient Model Selection for Time Series Forecasting via LLMs | None |
@@ -703,6 +704,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-04 | [SeqFusion](https://arxiv.org/abs/2503.02836) | Arxiv 2025 | SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting | [SeqFusion](https://github.com/Tingji2419/SeqFusion) |
 | 25-03-06 | [TimeFound](https://arxiv.org/abs/2503.04118) | Arxiv 2025 | TimeFound: A Foundation Model for Time Series Forecasting | None |
 | 25-03-06 | [TS-RAG](https://arxiv.org/abs/2503.07649) | Arxiv 2025 | TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster | None |
+| 25-03-15 | [ChronosX](https://arxiv.org/abs/2503.12107) | AISTATS 2025 | ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables | [chronosx](https://github.com/amazon-science/chronos-forecasting/tree/chronosx) |
 | 25-03-21 | [TRACE](https://arxiv.org/abs/2503.16991) | Arxiv 2025 | TRACE: Time SeRies PArameter EffiCient FinE-tuning | None |
 
 
