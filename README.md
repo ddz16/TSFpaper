@@ -313,7 +313,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-03-04 | [CDFM](https://arxiv.org/abs/2503.02609) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Lightweight Channel-wise Dynamic Fusion Model: Non-stationary Time Series Forecasting via Entropy Analysis | None |
 | 25-03-30 | [SFNN](https://arxiv.org/abs/2503.23621) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting | None |
 | 25-04-02 | [DRAN](https://arxiv.org/abs/2504.01531) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting | None |
-
+| 25-04-11 | [FilterTS](https://doi.org/10.1609/aaai.v39i20.35438) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting | [FilterTS](https://github.com/wyl010607/FilterTS) |
 
 
 </details>
