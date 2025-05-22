@@ -205,6 +205,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-03-31 | [CITRAS](https://arxiv.org/abs/2503.24007)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CITRAS: Covariate-Informed Transformer for Time Series Forecasting | None
 25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 25-04-17 | [TimeCapsule](https://arxiv.org/abs/2504.12721)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations | None
+25-05-04 | [CASA](https://arxiv.org/abs/2505.02011)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | IJCAI 2025 | CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting | [casa](https://github.com/lmh9507/casa)
+25-05-05 | [SCFormer](https://arxiv.org/abs/2505.02655)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | SCFormer: Structured Channel-wise Transformer with Cumulative Historical State for Multivariate Time Series Forecasting | [SCFormer](https://github.com/ShiweiGuo1995/SCFormer)
 25-05-19 | [TQNet](https://arxiv.org/abs/2505.12917)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2025 | Temporal Query Network for Efficient Multivariate Time Series Forecasting | [TQNet](https://github.com/ACAT-SCUT/TQNet)
 25-05-20 | [LMHR](https://arxiv.org/abs/2505.14737)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Leveraging Multivariate Long-Term History Representation for Time Series Forecasting | None
 25-05-21 | [Sonnet](https://arxiv.org/abs/2505.15312)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting | [Sonnet](https://github.com/ClaudiaShu/Sonnet)
@@ -392,6 +394,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 24-10-24 | [TEAM](https://arxiv.org/abs/2410.19192) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | VLDB 2025 | TEAM: Topological Evolution-aware Framework for Traffic Forecasting | [TEAM](https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting) |
 | 25-01-22 | [TimeFilter](https://arxiv.org/abs/2501.13041) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting | [TimeFilter](https://github.com/troubadour000/timefilter) |
 | 25-02-21 | [EVTSF](https://arxiv.org/abs/2502.15296) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning | None |
+| 25-05-07 | [STRGCN](https://arxiv.org/abs/2505.04167) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | STRGCN: Capturing Asynchronous Spatio-Temporal Dependencies for Irregular Multivariate Time Series Forecasting | None |
 
 
 </details>
@@ -644,6 +647,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-12 | [LLM-PS](https://arxiv.org/abs/2503.09656) | Arxiv 2025 | LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics | None |
 | 25-04-02 | [ModelSelection](https://arxiv.org/abs/2504.02119) | Arxiv 2025 | Efficient Model Selection for Time Series Forecasting via LLMs | None |
 | 25-04-10 | [MLTA](https://arxiv.org/abs/2504.07360) | DASFAA 2025 | Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs | [MLTA](https://github.com/ztb-35/MLTA) |
+| 25-05-04 | [TimeKD](https://arxiv.org/abs/2505.02138) | ICDE 2025 | Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation | [timekd](https://github.com/chenxiliu-hnu/timekd) |
 | 25-05-16 | [Logo-LLM](https://arxiv.org/abs/2505.11017) | Arxiv 2025 | Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting | None |
 | 25-05-19 | [SGCMA](https://arxiv.org/abs/2505.13175) | Arxiv 2025 | Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment | None |
 
@@ -750,6 +754,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
 | 25-03-21 | [MTBench](https://arxiv.org/abs/2503.16858) | Arxiv 2025 | MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering | [MTBench](https://github.com/Graph-and-Geometric-Learning/MTBench) |
 | 25-04-28 | [MCD-TSF](https://arxiv.org/abs/2504.19669) | Arxiv 2025 | Multimodal Conditioned Diffusive Time Series Forecasting | [MCD-TSF](https://github.com/synlp/MCD-TSF) |
+| 25-05-02 | [Dual-Forecaster](https://arxiv.org/abs/2505.01135) | Arxiv 2025 | Dual-Forecaster: A Multimodal Time Series Model Integrating Descriptive and Predictive Texts | None |
 | 25-05-15 | [ChronoSteer](https://arxiv.org/abs/2505.10083) | Arxiv 2025 | ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data | None |
 | 25-05-16 | [CAPTime](https://arxiv.org/abs/2505.10774) | Arxiv 2025 | Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting | None |
 | 25-05-20 | [CHARM](https://arxiv.org/abs/2505.14543) | Arxiv 2025 | Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions | None |
