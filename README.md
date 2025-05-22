@@ -317,8 +317,11 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-03-30 | [SFNN](https://arxiv.org/abs/2503.23621) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting | None |
 | 25-04-02 | [DRAN](https://arxiv.org/abs/2504.01531) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting | None |
 | 25-04-11 | [FilterTS](https://doi.org/10.1609/aaai.v39i20.35438) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting | [FilterTS](https://github.com/wyl010607/FilterTS) |
+| 25-05-01 | [AiT](https://arxiv.org/abs/2505.00590) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | Unlocking the Potential of Linear Networks for Irregular Multivariate Time Series Forecasting | None |
 | 25-05-07 | [RAFT](https://arxiv.org/abs/2505.04163) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2025 | Retrieval Augmented Time Series Forecasting | [RAFT](https://github.com/archon159/RAFT) |
 | 25-05-12 | [OLinear](https://arxiv.org/abs/2505.08550) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain | [OLinear](https://anonymous.4open.science/r/OLinear) |
+| 25-05-13 | [MDMixer](https://arxiv.org/abs/2505.08199) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | A Multi-scale Representation Learning Framework for Long-Term Time Series Forecasting | None |
+| 25-05-16 | [APN](https://arxiv.org/abs/2505.11250) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline | None |
 | 25-05-17 | [WaveTS](https://arxiv.org/abs/2505.11781) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting | None |
 
 
@@ -746,6 +749,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-13 | [TaTS](https://arxiv.org/abs/2502.08942) | Arxiv 2025 | Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative | None |
 | 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
 | 25-03-21 | [MTBench](https://arxiv.org/abs/2503.16858) | Arxiv 2025 | MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering | [MTBench](https://github.com/Graph-and-Geometric-Learning/MTBench) |
+| 25-04-28 | [MCD-TSF](https://arxiv.org/abs/2504.19669) | Arxiv 2025 | Multimodal Conditioned Diffusive Time Series Forecasting | [MCD-TSF](https://github.com/synlp/MCD-TSF) |
 | 25-05-15 | [ChronoSteer](https://arxiv.org/abs/2505.10083) | Arxiv 2025 | ChronoSteer: Bridging Large Language Model and Time Series Foundation Model via Synthetic Data | None |
 | 25-05-16 | [CAPTime](https://arxiv.org/abs/2505.10774) | Arxiv 2025 | Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting | None |
 | 25-05-20 | [CHARM](https://arxiv.org/abs/2505.14543) | Arxiv 2025 | Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions | None |
