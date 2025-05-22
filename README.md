@@ -205,6 +205,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-03-31 | [CITRAS](https://arxiv.org/abs/2503.24007)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CITRAS: Covariate-Informed Transformer for Time Series Forecasting | None
 25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 25-04-17 | [TimeCapsule](https://arxiv.org/abs/2504.12721)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations | None
+25-05-20 | [LMHR](https://arxiv.org/abs/2505.14737)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Leveraging Multivariate Long-Term History Representation for Time Series Forecasting | None
 25-05-21 | [Sonnet](https://arxiv.org/abs/2505.15312)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting | [Sonnet](https://github.com/ClaudiaShu/Sonnet)
 
 
@@ -563,7 +564,10 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
 | 25-03-25 | [Rejection](https://arxiv.org/abs/2503.19656)| Arxiv 2025 | Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms | None |
 | 25-04-19 | [Pets](https://arxiv.org/abs/2504.14209)| Arxiv 2025 | Pets: General Pattern Assisted Architecture For Time Series Analysis | None |
+| 25-05-20 | [Adaptive tokenization](https://arxiv.org/abs/2505.14411)| Arxiv 2025 | Byte Pair Encoding for Efficient Time Series Forecasting | None |
+| 25-05-20 | [Toto](https://arxiv.org/abs/2505.14766)| Arxiv 2025 | This Time is Different: An Observability Perspective on Time Series Foundation Models | [Toto](https://github.com/datadog/toto) |
 | 25-05-21 | [Adaptive Optimization](https://arxiv.org/abs/2505.15354)| Arxiv 2025 | Human in the Loop Adaptive Optimization for Improved Time Series Forecasting | None |
+
 
 
 </details>
@@ -731,6 +735,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-13 | [TaTS](https://arxiv.org/abs/2502.08942) | Arxiv 2025 | Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative | None |
 | 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
 | 25-03-21 | [MTBench](https://arxiv.org/abs/2503.16858) | Arxiv 2025 | MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering | [MTBench](https://github.com/Graph-and-Geometric-Learning/MTBench) |
+| 25-05-20 | [CHARM](https://arxiv.org/abs/2505.14543) | Arxiv 2025 | Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions | None |
+| 25-05-21 | [MoTime](https://arxiv.org/abs/2505.15072) | Arxiv 2025 | MoTime: A Dataset Suite for Multimodal Time Series Forecasting | None |
 
 
 </details>
