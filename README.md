@@ -478,6 +478,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-02-26 | [Hutch++](https://arxiv.org/abs/2502.18808) | AISTATS 2025 | Optimal Stochastic Trace Estimation in Generative Modeling | [Hutch++](https://github.com/xinyangATK/GenHutch-plus-plus) |
 | 25-03-02 | [DyDiff](https://arxiv.org/abs/2503.00951) | ICLR 2025 | Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models | [DyDiff](https://github.com/thuml/dynamical-diffusion) |
 | 25-05-07 | [NsDiff](https://arxiv.org/abs/2505.04278) | ICML 2025 | Non-stationary Diffusion For Probabilistic Time Series Forecasting | [NsDiff](https://github.com/wwy155/NsDiff) |
+| 25-05-16 | [FALDA](https://arxiv.org/abs/2505.11306) | Arxiv 2025 | Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion | None |
 
 
 </details>
@@ -566,6 +567,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
 | 25-03-25 | [Rejection](https://arxiv.org/abs/2503.19656)| Arxiv 2025 | Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms | None |
 | 25-04-19 | [Pets](https://arxiv.org/abs/2504.14209)| Arxiv 2025 | Pets: General Pattern Assisted Architecture For Time Series Analysis | None |
+| 25-05-13 | [SPAT](https://arxiv.org/abs/2505.08768)| Arxiv 2025 | SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models | [SPAT](https://anonymous.4open.science/r/SPAT-6042) |
+| 25-05-16 | [X-Freq](https://arxiv.org/abs/2505.11567)| Arxiv 2025 | Beyond Time: Cross-Dimensional Frequency Supervision for Time Series Forecasting | None |
 | 25-05-16 | [KNN-MTS](https://arxiv.org/abs/2505.11625)| TNNLS 2024 | Nearest Neighbor Multivariate Time Series Forecasting | [KNN-MTS](https://github.com/hlhang9527/KNN-MTS) |
 | 25-05-20 | [Adaptive tokenization](https://arxiv.org/abs/2505.14411)| Arxiv 2025 | Byte Pair Encoding for Efficient Time Series Forecasting | None |
 | 25-05-20 | [Toto](https://arxiv.org/abs/2505.14766)| Arxiv 2025 | This Time is Different: An Observability Perspective on Time Series Foundation Models | [Toto](https://github.com/datadog/toto) |
@@ -739,6 +742,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-13 | [TaTS](https://arxiv.org/abs/2502.08942) | Arxiv 2025 | Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative | None |
 | 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
 | 25-03-21 | [MTBench](https://arxiv.org/abs/2503.16858) | Arxiv 2025 | MTBench: A Multimodal Time Series Benchmark for Temporal Reasoning and Question Answering | [MTBench](https://github.com/Graph-and-Geometric-Learning/MTBench) |
+| 25-05-16 | [CAPTime](https://arxiv.org/abs/2505.10774) | Arxiv 2025 | Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting | None |
 | 25-05-20 | [CHARM](https://arxiv.org/abs/2505.14543) | Arxiv 2025 | Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions | None |
 | 25-05-21 | [MoTime](https://arxiv.org/abs/2505.15072) | Arxiv 2025 | MoTime: A Dataset Suite for Multimodal Time Series Forecasting | None |
 
