@@ -205,6 +205,8 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-03-31 | [CITRAS](https://arxiv.org/abs/2503.24007)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CITRAS: Covariate-Informed Transformer for Time Series Forecasting | None
 25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 25-04-17 | [TimeCapsule](https://arxiv.org/abs/2504.12721)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations | None
+25-04-26 | [TSRM](https://arxiv.org/abs/2504.18878)| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | TSRM: A Lightweight Temporal Feature Encoding Architecture for Time Series Forecasting and Imputation | [TSRM](https://github.com/RobertLeppich/TSRM)
+25-05-01 | [Gateformer](https://arxiv.org/abs/2505.00307)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Gateformer: Advancing Multivariate Time Series Forecasting through Temporal and Variate-Wise Attention with Gated Representations | [Gateformer](https://github.com/nyuolab/gateformer)
 25-05-04 | [CASA](https://arxiv.org/abs/2505.02011)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | IJCAI 2025 | CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting | [casa](https://github.com/lmh9507/casa)
 25-05-05 | [SCFormer](https://arxiv.org/abs/2505.02655)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | SCFormer: Structured Channel-wise Transformer with Cumulative Historical State for Multivariate Time Series Forecasting | [SCFormer](https://github.com/ShiweiGuo1995/SCFormer)
 25-05-19 | [TQNet](https://arxiv.org/abs/2505.12917)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2025 | Temporal Query Network for Efficient Multivariate Time Series Forecasting | [TQNet](https://github.com/ACAT-SCUT/TQNet)
@@ -323,8 +325,10 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-05-07 | [RAFT](https://arxiv.org/abs/2505.04163) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2025 | Retrieval Augmented Time Series Forecasting | [RAFT](https://github.com/archon159/RAFT) |
 | 25-05-12 | [OLinear](https://arxiv.org/abs/2505.08550) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain | [OLinear](https://anonymous.4open.science/r/OLinear) |
 | 25-05-13 | [MDMixer](https://arxiv.org/abs/2505.08199) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | A Multi-scale Representation Learning Framework for Long-Term Time Series Forecasting | None |
+| 25-05-15 | [ALinear](https://arxiv.org/abs/2505.10172) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Does Scaling Law Apply in Time Series Forecasting? | None |
 | 25-05-16 | [APN](https://arxiv.org/abs/2505.11250) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline | None |
 | 25-05-17 | [WaveTS](https://arxiv.org/abs/2505.11781) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting | None |
+| 25-05-20 | [CRAFT](https://arxiv.org/abs/2505.13896) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | CRAFT: Time Series Forecasting with Cross-Future Behavior Awareness | [CRAFT](https://github.com/CRAFTinTSF/CRAFT) |
 
 
 </details>
@@ -576,6 +580,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
 | 25-03-25 | [Rejection](https://arxiv.org/abs/2503.19656)| Arxiv 2025 | Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms | None |
 | 25-04-19 | [Pets](https://arxiv.org/abs/2504.14209)| Arxiv 2025 | Pets: General Pattern Assisted Architecture For Time Series Analysis | None |
+| 25-04-24 | [Training Policy](https://arxiv.org/abs/2504.17493)| Arxiv 2025 | Goal-Oriented Time-Series Forecasting: Foundation Framework Design | None |
 | 25-05-13 | [SPAT](https://arxiv.org/abs/2505.08768)| Arxiv 2025 | SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models | [SPAT](https://anonymous.4open.science/r/SPAT-6042) |
 | 25-05-16 | [X-Freq](https://arxiv.org/abs/2505.11567)| Arxiv 2025 | Beyond Time: Cross-Dimensional Frequency Supervision for Time Series Forecasting | None |
 | 25-05-16 | [KNN-MTS](https://arxiv.org/abs/2505.11625)| TNNLS 2024 | Nearest Neighbor Multivariate Time Series Forecasting | [KNN-MTS](https://github.com/hlhang9527/KNN-MTS) |
@@ -827,6 +832,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 </details>
 
+
 <details><summary><h2 style="display: inline;">Other.</h2></summary>
 
 Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
@@ -852,6 +858,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-01-26 | [TCTNN](https://arxiv.org/abs/2501.15388) | Arxiv 2025 | Guaranteed Multidimensional Time Series Prediction via Deterministic Tensor Completion Theory | [TCTNN](https://github.com/HaoShu2000/TCTNN) |
 | 25-01-27 | [METAFORS](https://arxiv.org/abs/2501.16325) | Arxiv 2025 | Tailored Forecasting from Short Time Series via Meta-learning | None |
 | 25-03-26 | [PINN](https://arxiv.org/abs/2503.20144) | Arxiv 2025 | Physics-Informed Neural Networks with Unknown Partial Differential Equations: an Application in Multivariate Time Series | None |
+| 25-05-09 | [FOCUS](https://arxiv.org/abs/2505.05738) | Arxiv 2025 | Accurate and Efficient Multivariate Time Series Forecasting via Offline Clustering | None |
 
 
 </details>
