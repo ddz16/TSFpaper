@@ -561,6 +561,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-02-20 | [SCAM](https://arxiv.org/abs/2502.14704)| Arxiv 2025 | Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting | [SCAM](https://anonymous.4open.science/r/SCAM-BDD3) |
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
 | 25-03-25 | [Rejection](https://arxiv.org/abs/2503.19656)| Arxiv 2025 | Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms | None |
+| 25-04-19 | [Pets](https://arxiv.org/abs/2504.14209)| Arxiv 2025 | Pets: General Pattern Assisted Architecture For Time Series Analysis | None |
 
 
 </details>
@@ -776,6 +777,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 24-12-19 | [NBEATS-KAN](https://arxiv.org/abs/2412.17853) | NIPSW 2024 | Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks | None |
 | 25-02-10 | [TimeKAN](https://arxiv.org/abs/2502.06910) | ICLR 2025 | TimeKAN: KAN-based Frequency Decomposition Learning Architecture for Long-term Time Series Forecasting | [TimeKAN](https://github.com/huangst21/TimeKAN) |
 | 25-02-25 | [TSKANMixer](https://arxiv.org/abs/2502.18410) | AAAIW 2025 | TSKANMixer: Kolmogorov-Arnold Networks with MLP-Mixer Model for Time Series Forecasting | None |
+| 25-04-23 | [iTFKAN](https://arxiv.org/abs/2504.16432) | Arxiv 2025 | iTFKAN: Interpretable Time Series Forecasting with Kolmogorov-Arnold Network | None |
 
 
 </details>
