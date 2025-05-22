@@ -713,6 +713,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-06 | [TS-RAG](https://arxiv.org/abs/2503.07649) | Arxiv 2025 | TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster | None |
 | 25-03-15 | [ChronosX](https://arxiv.org/abs/2503.12107) | AISTATS 2025 | ChronosX: Adapting Pretrained Time Series Models with Exogenous Variables | [chronosx](https://github.com/amazon-science/chronos-forecasting/tree/chronosx) |
 | 25-03-21 | [TRACE](https://arxiv.org/abs/2503.16991) | Arxiv 2025 | TRACE: Time SeRies PArameter EffiCient FinE-tuning | None |
+| 25-05-21 | [Time Tracker](https://arxiv.org/abs/2505.15151) | Arxiv 2025 | Time Tracker: Mixture-of-Experts-Enhanced Foundation Time Series Forecasting Model with Decoupled Training Pipelines | None |
 
 
 </details>
