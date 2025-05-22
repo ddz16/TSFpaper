@@ -205,6 +205,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-03-31 | [CITRAS](https://arxiv.org/abs/2503.24007)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CITRAS: Covariate-Informed Transformer for Time Series Forecasting | None
 25-04-02 | [Times2D](https://arxiv.org/abs/2504.00118)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting | [Times2D](https://github.com/Tims2D/Times2D)
 25-04-17 | [TimeCapsule](https://arxiv.org/abs/2504.12721)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | TimeCapsule: Solving the Jigsaw Puzzle of Long-Term Time Series Forecasting with Compressed Predictive Representations | None
+25-05-19 | [TQNet](https://arxiv.org/abs/2505.12917)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2025 | Temporal Query Network for Efficient Multivariate Time Series Forecasting | [TQNet](https://github.com/ACAT-SCUT/TQNet)
 25-05-20 | [LMHR](https://arxiv.org/abs/2505.14737)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Leveraging Multivariate Long-Term History Representation for Time Series Forecasting | None
 25-05-21 | [Sonnet](https://arxiv.org/abs/2505.15312)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting | [Sonnet](https://github.com/ClaudiaShu/Sonnet)
 
@@ -316,7 +317,7 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-03-30 | [SFNN](https://arxiv.org/abs/2503.23621) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Simple Feedfoward Neural Networks are Almost All You Need for Time Series Forecasting | None |
 | 25-04-02 | [DRAN](https://arxiv.org/abs/2504.01531) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting | None |
 | 25-04-11 | [FilterTS](https://doi.org/10.1609/aaai.v39i20.35438) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting | [FilterTS](https://github.com/wyl010607/FilterTS) |
-
+| 25-05-07 | [RAFT](https://arxiv.org/abs/2505.04163) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2025 | Retrieval Augmented Time Series Forecasting | [RAFT](https://github.com/archon159/RAFT) |
 
 </details>
 
@@ -476,6 +477,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-02-16 | [LDM4TS](https://arxiv.org/abs/2502.14887) | Arxiv 2025 | Vision-Enhanced Time Series Forecasting via Latent Diffusion Models | None |
 | 25-02-26 | [Hutch++](https://arxiv.org/abs/2502.18808) | AISTATS 2025 | Optimal Stochastic Trace Estimation in Generative Modeling | [Hutch++](https://github.com/xinyangATK/GenHutch-plus-plus) |
 | 25-03-02 | [DyDiff](https://arxiv.org/abs/2503.00951) | ICLR 2025 | Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models | [DyDiff](https://github.com/thuml/dynamical-diffusion) |
+| 25-05-07 | [NsDiff](https://arxiv.org/abs/2505.04278) | ICML 2025 | Non-stationary Diffusion For Probabilistic Time Series Forecasting | [NsDiff](https://github.com/wwy155/NsDiff) |
 
 
 </details>
@@ -564,6 +566,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
 | 25-03-25 | [Rejection](https://arxiv.org/abs/2503.19656)| Arxiv 2025 | Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms | None |
 | 25-04-19 | [Pets](https://arxiv.org/abs/2504.14209)| Arxiv 2025 | Pets: General Pattern Assisted Architecture For Time Series Analysis | None |
+| 25-05-16 | [KNN-MTS](https://arxiv.org/abs/2505.11625)| TNNLS 2024 | Nearest Neighbor Multivariate Time Series Forecasting | [KNN-MTS](https://github.com/hlhang9527/KNN-MTS) |
 | 25-05-20 | [Adaptive tokenization](https://arxiv.org/abs/2505.14411)| Arxiv 2025 | Byte Pair Encoding for Efficient Time Series Forecasting | None |
 | 25-05-20 | [Toto](https://arxiv.org/abs/2505.14766)| Arxiv 2025 | This Time is Different: An Observability Perspective on Time Series Foundation Models | [Toto](https://github.com/datadog/toto) |
 | 25-05-21 | [Adaptive Optimization](https://arxiv.org/abs/2505.15354)| Arxiv 2025 | Human in the Loop Adaptive Optimization for Improved Time Series Forecasting | None |
@@ -632,6 +635,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-12 | [LLM-PS](https://arxiv.org/abs/2503.09656) | Arxiv 2025 | LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics | None |
 | 25-04-02 | [ModelSelection](https://arxiv.org/abs/2504.02119) | Arxiv 2025 | Efficient Model Selection for Time Series Forecasting via LLMs | None |
 | 25-04-10 | [MLTA](https://arxiv.org/abs/2504.07360) | DASFAA 2025 | Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs | [MLTA](https://github.com/ztb-35/MLTA) |
+| 25-05-19 | [SGCMA](https://arxiv.org/abs/2505.13175) | Arxiv 2025 | Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment | None |
 
 
 </details>
