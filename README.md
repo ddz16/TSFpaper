@@ -671,8 +671,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 </details>
 
 
-
-<details><summary><h2 style="display: inline;">Pretrain & Representation.</h2></summary>
+<details><summary><h2 style="display: inline;">Representation Learning.</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
@@ -684,20 +683,38 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-02-07 | [DBPM](https://arxiv.org/abs/2302.03357) | ICLR 2024 | Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach | None |
 | 23-03-01 | [TimeMAE](https://arxiv.org/abs/2303.00320) | Arxiv 2023 | TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders | [TimeMAE](https://github.com/Mingyue-Cheng/TimeMAE) |
 | 23-08-02 | [Floss](https://arxiv.org/abs/2308.01011) | Arxiv 2023 | Enhancing Representation Learning for Periodic Time Series with Floss: A Frequency Domain Regularization Approach | [floss](https://github.com/agustdd/floss) |
-| 23-10-14 | [TimesFM](https://arxiv.org/abs/2310.10688) | ICML 2024 | A decoder-only foundation model for time-series forecasting | None |
 | 23-12-01 | [STD_MAE](https://arxiv.org/abs/2312.00516) | Arxiv 2023 | Spatio-Temporal-Decoupled Masked Pre-training for Traffic Forecasting | [STD_MAE](https://github.com/jimmy-7664/std_mae) |
 | 23-12-25 | [TimesURL](https://arxiv.org/abs/2312.15709) | AAAI 2024 | TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning | None |
-| 24-01-08 | [TTMs](https://arxiv.org/abs/2401.03955) | Arxiv 2024 | Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series | [TTMs](https://huggingface.co/ibm-granite/granite-timeseries-ttm-v1) |
 | 24-01-16 | [SoftCLT](https://openreview.net/forum?id=pAsQSWlDUf) | ICLR 2024 | Soft Contrastive Learning for Time Series | None |
 | 24-01-16 | [PITS](https://openreview.net/forum?id=WS7GuBDFa2) | ICLR 2024 | Learning to Embed Time Series Patches Independently | [PITS](https://github.com/seunghan96/pits) |
 | 24-01-16 | [T-Rep](https://openreview.net/forum?id=3y2TfP966N) | ICLR 2024 | T-Rep: Representation Learning for Time Series using Time-Embeddings | None |
+
+
+</details>
+
+
+<details><summary><h2 style="display: inline;">Foundation Model.</h2></summary>
+
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
+| 23-10-14 | [TimesFM](https://arxiv.org/abs/2310.10688) | ICML 2024 | A decoder-only foundation model for time-series forecasting | [timesfm](https://github.com/google-research/timesfm) |
+| 24-01-08 | [TTMs](https://arxiv.org/abs/2401.03955) | Arxiv 2024 | Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series | [TTMs](https://huggingface.co/ibm-granite/granite-timeseries-ttm-v1) |
+| 24-02-04 | [Timer](https://arxiv.org/abs/2402.02368) | ICML 2024 | [Timer: Generative Pre-trained Transformers Are Large Time Series Models](https://zhuanlan.zhihu.com/p/698842899) | [Timer](https://github.com/thuml/Large-Time-Series-Model) |
+| 24-02-04 | [Moirai](https://arxiv.org/abs/2402.02592) | ICML 2024 | [Unified Training of Universal Time Series Forecasting Transformers](https://zhuanlan.zhihu.com/p/698842899) | [Moirai](https://github.com/SalesforceAIResearch/uni2ts) |
+| 24-02-06 | [MOMENT](https://arxiv.org/abs/2402.03885) | ICML 2024 | [MOMENT: A Family of Open Time-series Foundation Models](https://zhuanlan.zhihu.com/p/698842899) | [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md) |
+
+
+</details>
+
+
+<details><summary><h2 style="display: inline;">Pretrain & Representation.</h2></summary>
+
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
 | 24-01-16 | [AutoTCL](https://openreview.net/forum?id=EIPLdFy3vp) | ICLR 2024 | Parametric Augmentation for Time Series Contrastive Learning | None |
 | 24-01-16 | [AutoCon](https://openreview.net/forum?id=nBCuRzjqK7) | ICLR 2024 | Self-Supervised Contrastive Forecasting | [AutoCon](https://github.com/junwoopark92/self-supervised-contrastive-forecsating) |
 | 24-01-29 | [MLEM](https://arxiv.org/abs/2401.15935) | Arxiv 2024 | Self-Supervised Learning in Event Sequences: A Comparative Study and Hybrid Approach of Generative Modeling and Contrastive Learning| [MLEM](https://github.com/VityaVitalich/MLEM) |
-| 24-02-04 | [Timer](https://arxiv.org/abs/2402.02368) | ICML 2024 | [Timer: Generative Pre-trained Transformers Are Large Time Series Models](https://zhuanlan.zhihu.com/p/698842899) | [Timer](https://github.com/thuml/Large-Time-Series-Model) |
 | 24-02-04 | [TimeSiam](https://arxiv.org/abs/2402.02475) | ICML 2024 | TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling | None |
-| 24-02-04 | [Moirai](https://arxiv.org/abs/2402.02592) | ICML 2024 | [Unified Training of Universal Time Series Forecasting Transformers](https://zhuanlan.zhihu.com/p/698842899) | [Moirai](https://github.com/SalesforceAIResearch/uni2ts) |
-| 24-02-06 | [MOMENT](https://arxiv.org/abs/2402.03885) | ICML 2024 | [MOMENT: A Family of Open Time-series Foundation Models](https://zhuanlan.zhihu.com/p/698842899) | [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md) |
 | 24-02-14 | [GTT](https://arxiv.org/abs/2402.07570) | Arxiv 2024 | Only the Curve Shape Matters: Training Foundation Models for Zero-Shot Multivariate Time Series Forecasting through Next Curve Shape Prediction | [GTT](https://github.com/cfeng783/gtt) |
 | 24-02-19 | [UniST](https://arxiv.org/abs/2402.11838) | KDD 2024 | UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction | [UniST](https://github.com/tsinghua-fib-lab/UniST) |
 | 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | Arxiv 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
