@@ -34,7 +34,7 @@ Each paper may apply to one or several types of forecasting, including univariat
 
 🚩 2024/12/30: **Christoph Bergmeir raised insightful questions about the benchmarks in the field of time series forecasting during [his talk at NIPS 2024](https://cbergmeir.com/talks/neurips2024/). This critique is highly valuable and well worth watching. I strongly recommend watching this talk before embarking on time series research.**
 
-🚩 2025/06/02: **I have categorized the papers in the Pretrain & Representation Table into two groups: Representation Learning and Foundation Models. The former focuses on designing pretrain tasks (such as contrastive learning and masked modeling), while the latter typically provides time series foundation models pre-trained on large-scale time series datasets.**
+🚩 2025/06/02: **I have divided the papers in the Pretrain & Representation Table into two groups: Representation Learning and Foundation Models. The former focuses on designing pretrain tasks (such as contrastive learning and masked modeling), while the latter typically provides time series foundation models pre-trained on large-scale time series datasets.**
 
 <details><summary><h2 style="display: inline;">Survey & Benchmark.</h2></summary>
 
