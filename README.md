@@ -696,6 +696,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-04 | [TimeSiam](https://arxiv.org/abs/2402.02475) | ICML 2024 | TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling | None |
 | 24-03-19 | [CrossTimeNet](https://arxiv.org/abs/2403.12372) | WSDM 2025 | Cross-Domain Pre-training with Language Models for Transferable Time Series Representations | [crosstimenet](https://github.com/mingyue-cheng/crosstimenet) |
 | 24-03-31 | [SimTS](https://arxiv.org/abs/2303.18205) | ICASSP 2024 | Rethinking Contrastive Representation Learning for Time Series Forecasting | [simTS](https://github.com/xingyu617/SimTS_Representation_Learning) |
+| 24-05-02 | [UP2ME](https://openreview.net/forum?id=aR3uxWlZhX) | ICML 2024 | UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis | [UP2ME](https://github.com/Thinklab-SJTU/UP2ME) |
+| 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
+| 24-08-24 | [TSDE](https://dl.acm.org/doi/abs/10.1145/3637528.3671673) | KDD 2024 | Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask | [TSDE](https://github.com/llcresearch/TSDE) |
 
 
 </details>
@@ -715,6 +718,18 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | TMLR 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
 | 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | KDD 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | [GPHT](https://github.com/icantnamemyself/GPHT) |
 | 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | NIPS 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
+| 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
+| 24-05-24 | [NuwaTS](https://arxiv.org/abs/2405.15317) | Arxiv 2024 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series | [NuwaTS](https://github.com/Chengyui/NuwaTS) |
+| 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
+| 24-07-10 | [ViTime](https://arxiv.org/abs/2407.07311) | Arxiv 2024 | ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting | [ViTime](https://github.com/IkeYang/ViTime) |
+| 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
+| 24-08-16 | [OpenCity](https://arxiv.org/abs/2408.10269) | Arxiv 2024 | OpenCity: Open Spatio-Temporal Foundation Models for Traffic Prediction | [OpenCity](https://github.com/hkuds/opencity) |
+| 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) 🌟 | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
+| 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | Arxiv 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
+| 24-09-24 | [Time-MoE](https://arxiv.org/abs/2409.16040) | ICLR 2025 | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://zhuanlan.zhihu.com/p/2950313586) | [Time-MoE](https://github.com/Time-MoE/Time-MoE) |
+| 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | ICLR 2025 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | [Timer-XL](https://github.com/thuml/Timer-XL) |
+| 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
+| 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
 
 
 </details>
@@ -724,21 +739,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
-| 24-05-02 | [UP2ME](https://openreview.net/forum?id=aR3uxWlZhX) | ICML 2024 | UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis | [UP2ME](https://github.com/Thinklab-SJTU/UP2ME) |
-| 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
-| 24-05-24 | [NuwaTS](https://arxiv.org/abs/2405.15317) | Arxiv 2024 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series | [NuwaTS](https://github.com/Chengyui/NuwaTS) |
-| 24-05-24 | [ROSE](https://arxiv.org/abs/2405.17478) | Arxiv 2024 | ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning | None |
-| 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
-| 24-07-10 | [ViTime](https://arxiv.org/abs/2407.07311) | Arxiv 2024 | ViTime: A Visual Intelligence-Based Foundation Model for Time Series Forecasting | [ViTime](https://github.com/IkeYang/ViTime) |
-| 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
-| 24-08-16 | [OpenCity](https://arxiv.org/abs/2408.10269) | Arxiv 2024 | OpenCity: Open Spatio-Temporal Foundation Models for Traffic Prediction | [OpenCity](https://github.com/hkuds/opencity) |
-| 24-08-24 | [TSDE](https://dl.acm.org/doi/abs/10.1145/3637528.3671673) | KDD 2024 | Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask | [TSDE](https://github.com/llcresearch/TSDE) |
-| 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) 🌟 | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
-| 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | Arxiv 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
-| 24-09-24 | [Time-MoE](https://arxiv.org/abs/2409.16040) | ICLR 2025 | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://zhuanlan.zhihu.com/p/2950313586) | [Time-MoE](https://github.com/Time-MoE/Time-MoE) |
-| 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | ICLR 2025 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | [Timer-XL](https://github.com/thuml/Timer-XL) |
-| 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
-| 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
 | 24-10-30 | [FlexTSF](https://arxiv.org/abs/2410.23160) | Arxiv 2024 | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | [FlexTSF](https://github.com/jingge326/flextsf) |
 | 24-10-31 | [ICF](https://arxiv.org/abs/2410.24087) | Arxiv 2024 | In-Context Fine-Tuning for Time-Series Foundation Models | None |
 | 24-11-05 | [TSMamba](https://arxiv.org/abs/2411.02941) | Arxiv 2024 | A Mamba Foundation Model for Time Series Forecasting | None |
