@@ -638,6 +638,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-21 | [LLM-TS](https://arxiv.org/abs/2410.16489) | Arxiv 2024 | LLM-TS Integrator: Integrating LLM for Enhanced Time Series Modeling | None |
 | 24-10-28 | [Strada-LLM](https://arxiv.org/abs/2410.20856) | Arxiv 2024 | Strada-LLM: Graph LLM for traffic prediction | None |
 | 24-10-29 | [Fourier-Head](https://arxiv.org/abs/2410.22269) | Arxiv 2024 | Fourier Head: Helping Large Language Models Learn Complex Probability Distributions | [Fourier-Head](https://github.com/nate-gillman/fourier-head) |
+| 24-11-24 | [TableTime](https://arxiv.org/abs/2411.15737) | Arxiv 2024 | TableTime: Reformulating Time Series Classification as Zero-Shot Table Understanding via Large Language Models | [TableTime](https://github.com/realwangjiahao/TableTime) |
 | 24-11-24 | [LeMoLE](https://arxiv.org/abs/2412.00053) | Arxiv 2024 | LeMoLE: LLM-Enhanced Mixture of Linear Experts for Time Series Forecasting | None |
 | 24-12-03 | [LLMForecaster](https://arxiv.org/abs/2412.02525) | Arxiv 2024 | LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data | None |
 | 24-12-06 | [NNCL-TLLM](https://arxiv.org/abs/2412.04806) | Arxiv 2024 | Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning | None |
@@ -730,6 +731,12 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | ICLR 2025 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | [Timer-XL](https://github.com/thuml/Timer-XL) |
 | 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
 | 24-10-14 | [Moirai-MoE](https://arxiv.org/abs/2410.10469) | Arxiv 2024 | Moirai-MoE: Empowering Time Series Foundation Models with Sparse Mixture of Experts | None |
+| 24-10-30 | [FlexTSF](https://arxiv.org/abs/2410.23160) | Arxiv 2024 | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | [FlexTSF](https://github.com/jingge326/flextsf) |
+| 24-10-31 | [ICF](https://arxiv.org/abs/2410.24087) | Arxiv 2024 | In-Context Fine-Tuning for Time-Series Foundation Models | None |
+| 24-11-05 | [TSMamba](https://arxiv.org/abs/2411.02941) | Arxiv 2024 | A Mamba Foundation Model for Time Series Forecasting | None |
+| 24-12-01 | [WQ4TS](https://arxiv.org/abs/2412.00772) | Arxiv 2024 | A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series | None |
+| 25-01-27 | [TimeHF](https://arxiv.org/abs/2501.15942) | Arxiv 2025 | TimeHF: Billion-Scale Time Series Models Guided by Human Feedback | None |
+| 25-02-02 | [Sundial](https://arxiv.org/abs/2502.00816) | Arxiv 2025 | Sundial: A Family of Highly Capable Time Series Foundation Models | None |
 
 
 </details>
@@ -739,13 +746,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
-| 24-10-30 | [FlexTSF](https://arxiv.org/abs/2410.23160) | Arxiv 2024 | FlexTSF: A Universal Forecasting Model for Time Series with Variable Regularities | [FlexTSF](https://github.com/jingge326/flextsf) |
-| 24-10-31 | [ICF](https://arxiv.org/abs/2410.24087) | Arxiv 2024 | In-Context Fine-Tuning for Time-Series Foundation Models | None |
-| 24-11-05 | [TSMamba](https://arxiv.org/abs/2411.02941) | Arxiv 2024 | A Mamba Foundation Model for Time Series Forecasting | None |
-| 24-11-24 | [TableTime](https://arxiv.org/abs/2411.15737) | Arxiv 2024 | TableTime: Reformulating Time Series Classification as Zero-Shot Table Understanding via Large Language Models | [TableTime](https://github.com/realwangjiahao/TableTime) |
-| 24-12-01 | [WQ4TS](https://arxiv.org/abs/2412.00772) | Arxiv 2024 | A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series | None |
-| 25-01-27 | [TimeHF](https://arxiv.org/abs/2501.15942) | Arxiv 2025 | TimeHF: Billion-Scale Time Series Models Guided by Human Feedback | None |
-| 25-02-02 | [Sundial](https://arxiv.org/abs/2502.00816) | Arxiv 2025 | Sundial: A Family of Highly Capable Time Series Foundation Models | None |
 | 25-02-05 | [TopoCL](https://arxiv.org/abs/2502.02924) | Arxiv 2025 | TopoCL: Topological Contrastive Learning for Time Series | None |
 | 25-02-05 | [GTM](https://arxiv.org/abs/2502.03264) | Arxiv 2025 | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | None |
 | 25-02-05 | [CAPE](https://arxiv.org/abs/2502.03393) | Arxiv 2025 | CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting | None |
