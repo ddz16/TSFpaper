@@ -662,17 +662,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 </details>
 
 
-<details><summary><h2 style="display: inline;">Multi-Agent.</h2></summary>
-
-Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
------|----|-----|-----|-----
-| 24-08-18 | [Agentic-RAG](https://arxiv.org/abs/2408.14484) | KDDW 2024 | Agentic Retrieval-Augmented Generation for Time Series Analysis | None |
-| 25-04-14 | [IA_news_model](https://arxiv.org/abs/2504.10210) | Arxiv 2025 | Can Competition Enhance the Proficiency of Agents Powered by Large Language Models in the Realm of News-driven Time Series Forecasting? | [IA_news_model](https://anonymous.4open.science/r/IA_news_model-D7D6) |
-
-
-</details>
-
-
 <details><summary><h2 style="display: inline;">Representation Learning.</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
@@ -764,7 +753,19 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 </details>
 
-<details><summary><h2 style="display: inline;">Multimodal.</h2></summary>
+
+<details><summary><h2 style="display: inline;">Multi-Agent.</h2></summary>
+
+Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
+-----|----|-----|-----|-----
+| 24-08-18 | [Agentic-RAG](https://arxiv.org/abs/2408.14484) | KDDW 2024 | Agentic Retrieval-Augmented Generation for Time Series Analysis | None |
+| 25-04-14 | [IA_news_model](https://arxiv.org/abs/2504.10210) | Arxiv 2025 | Can Competition Enhance the Proficiency of Agents Powered by Large Language Models in the Realm of News-driven Time Series Forecasting? | [IA_news_model](https://anonymous.4open.science/r/IA_news_model-D7D6) |
+
+
+</details>
+
+
+<details><summary><h2 style="display: inline;">Multi-Modal.</h2></summary>
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
