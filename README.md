@@ -331,9 +331,14 @@ Date     | Method                                        |Type| Conference | Pap
 | 25-05-16 | [APN](https://arxiv.org/abs/2505.11250) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline | None |
 | 25-05-17 | [WaveTS](https://arxiv.org/abs/2505.11781) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Multi-Order Wavelet Derivative Transform for Deep Time Series Forecasting | None |
 | 25-05-20 | [CRAFT](https://arxiv.org/abs/2505.13896) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | CRAFT: Time Series Forecasting with Cross-Future Behavior Awareness | [CRAFT](https://github.com/CRAFTinTSF/CRAFT) |
+| 25-05-25 | [CMoS](https://arxiv.org/abs/2505.19090) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICML 2025 | CMoS: Rethinking Time Series Prediction Through the Lens of Chunk-wise Spatial Correlations | [CMoS](https://github.com/cstcloudops/cmos) |
+| 25-05-29 | [CrossLinear](https://arxiv.org/abs/2505.23116) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | KDD 2025 | CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables | [CrossLinear](https://github.com/mumiao2000/CrossLinear) |
+
 
 
 </details>
+
+
 
 <details><summary><h2 style="display: inline;">TCN/CNN.</h2></summary>
 
