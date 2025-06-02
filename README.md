@@ -406,6 +406,7 @@ Date | Method | Type | Conference | Paper Title and Paper Interpretation (In Chi
 | 25-01-22 | [TimeFilter](https://arxiv.org/abs/2501.13041) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting | [TimeFilter](https://github.com/troubadour000/timefilter) |
 | 25-02-21 | [EVTSF](https://arxiv.org/abs/2502.15296) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Beyond Fixed Variables: Expanding-variate Time Series Forecasting via Flat Scheme and Spatio-temporal Focal Learning | None |
 | 25-05-07 | [STRGCN](https://arxiv.org/abs/2505.04167) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | Arxiv 2025 | STRGCN: Capturing Asynchronous Spatio-Temporal Dependencies for Irregular Multivariate Time Series Forecasting | None |
+| 25-05-23 | [HyperIMTS](https://arxiv.org/abs/2505.17431) | ![Irregular_time_series](https://img.shields.io/badge/-Irregular-orange) | ICML 2025 | HyperIMTS: Hypergraph Neural Network for Irregular Multivariate Time Series Forecasting | [HyperIMTS](https://github.com/Ladbaby/PyOmniTS) |
 
 
 </details>
