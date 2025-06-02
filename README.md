@@ -689,6 +689,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-02 | [UP2ME](https://openreview.net/forum?id=aR3uxWlZhX) | ICML 2024 | UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis | [UP2ME](https://github.com/Thinklab-SJTU/UP2ME) |
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 | 24-08-24 | [TSDE](https://dl.acm.org/doi/abs/10.1145/3637528.3671673) | KDD 2024 | Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask | [TSDE](https://github.com/llcresearch/TSDE) |
+| 25-02-05 | [TopoCL](https://arxiv.org/abs/2502.02924) | Arxiv 2025 | TopoCL: Topological Contrastive Learning for Time Series | None |
 
 
 </details>
@@ -726,16 +727,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-12-01 | [WQ4TS](https://arxiv.org/abs/2412.00772) | Arxiv 2024 | A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series | None |
 | 25-01-27 | [TimeHF](https://arxiv.org/abs/2501.15942) | Arxiv 2025 | TimeHF: Billion-Scale Time Series Models Guided by Human Feedback | None |
 | 25-02-02 | [Sundial](https://arxiv.org/abs/2502.00816) | Arxiv 2025 | Sundial: A Family of Highly Capable Time Series Foundation Models | None |
-
-
-</details>
-
-
-<details><summary><h2 style="display: inline;">Pretrain & Representation.</h2></summary>
-
-Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
------|----|-----|-----|-----
-| 25-02-05 | [TopoCL](https://arxiv.org/abs/2502.02924) | Arxiv 2025 | TopoCL: Topological Contrastive Learning for Time Series | None |
 | 25-02-05 | [GTM](https://arxiv.org/abs/2502.03264) | Arxiv 2025 | General Time-series Model for Universal Knowledge Representation of Multivariate Time-Series data | None |
 | 25-02-05 | [CAPE](https://arxiv.org/abs/2502.03393) | Arxiv 2025 | CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting | None |
 | 25-02-09 | [Reasoning](https://arxiv.org/abs/2502.06037) | Arxiv 2025 | Investigating Compositional Reasoning in Time Series Foundation Models | [tsfm_reasoning](https://github.com/PotosnakW/neuralforecast/tree/tsfm_reasoning) |
@@ -752,6 +743,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 
 </details>
+
 
 
 <details><summary><h2 style="display: inline;">Multi-Agent.</h2></summary>
