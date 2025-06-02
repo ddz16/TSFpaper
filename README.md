@@ -694,6 +694,9 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-01-16 | [AutoTCL](https://openreview.net/forum?id=EIPLdFy3vp) | ICLR 2024 | Parametric Augmentation for Time Series Contrastive Learning | None |
 | 24-01-16 | [AutoCon](https://openreview.net/forum?id=nBCuRzjqK7) | ICLR 2024 | Self-Supervised Contrastive Learning for Long-term Forecasting | [AutoCon](https://github.com/junwoopark92/self-supervised-contrastive-forecsating) |
 | 24-02-04 | [TimeSiam](https://arxiv.org/abs/2402.02475) | ICML 2024 | TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling | None |
+| 24-03-19 | [CrossTimeNet](https://arxiv.org/abs/2403.12372) | WSDM 2025 | Cross-Domain Pre-training with Language Models for Transferable Time Series Representations | [crosstimenet](https://github.com/mingyue-cheng/crosstimenet) |
+| 24-03-31 | [SimTS](https://arxiv.org/abs/2303.18205) | ICASSP 2024 | Rethinking Contrastive Representation Learning for Time Series Forecasting | [simTS](https://github.com/xingyu617/SimTS_Representation_Learning) |
+
 
 </details>
 
@@ -708,6 +711,10 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-02-04 | [Moirai](https://arxiv.org/abs/2402.02592) | ICML 2024 | [Unified Training of Universal Time Series Forecasting Transformers](https://zhuanlan.zhihu.com/p/698842899) | [Moirai](https://github.com/SalesforceAIResearch/uni2ts) |
 | 24-02-06 | [MOMENT](https://arxiv.org/abs/2402.03885) | ICML 2024 | [MOMENT: A Family of Open Time-series Foundation Models](https://zhuanlan.zhihu.com/p/698842899) | [MOMENT](https://anonymous.4open.science/r/BETT-773F/README.md) |
 | 24-02-14 | [GTT](https://dl.acm.org/doi/10.1145/3627673.3679931) | CIKM 2024 | General Time Transformer: an Encoder-only Foundation Model for Zero-Shot Multivariate Time Series Forecasting | [GTT](https://github.com/cfeng783/gtt) |
+| 24-02-19 | [UniST](https://arxiv.org/abs/2402.11838) | KDD 2024 | UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction | [UniST](https://github.com/tsinghua-fib-lab/UniST) |
+| 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | TMLR 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
+| 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | KDD 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | [GPHT](https://github.com/icantnamemyself/GPHT) |
+| 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | NIPS 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
 
 
 </details>
@@ -717,12 +724,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
-| 24-02-19 | [UniST](https://arxiv.org/abs/2402.11838) | KDD 2024 | UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction | [UniST](https://github.com/tsinghua-fib-lab/UniST) |
-| 24-02-26 | [TOTEM](https://arxiv.org/abs/2402.16412) | TMLR 2024 | TOTEM: TOkenized Time Series EMbeddings for General Time Series Analysis | [TOTEM](https://github.com/SaberaTalukder/TOTEM) |
-| 24-02-26 | [GPHT](https://arxiv.org/abs/2402.16516) | KDD 2024 | Generative Pretrained Hierarchical Transformer for Time Series Forecasting | [GPHT](https://github.com/icantnamemyself/GPHT) |
-| 24-02-29 | [UniTS](https://arxiv.org/abs/2403.00131) | Arxiv 2024 | UniTS: Building a Unified Time Series Model | [UniTS](https://github.com/mims-harvard/UniTS) |
-| 24-03-19 | [CrossTimeNet](https://arxiv.org/abs/2403.12372) | Arxiv 2024 | Learning Transferable Time Series Classifier with Cross-Domain Pre-training from Language Model | [crosstimenet](https://github.com/mingyue-cheng/crosstimenet) |
-| 24-03-31 | [SimTS](https://arxiv.org/abs/2303.18205) | ICASSP 2024 | Rethinking Contrastive Representation Learning for Time Series Forecasting | [simTS](https://github.com/xingyu617/SimTS_Representation_Learning) |
 | 24-05-02 | [UP2ME](https://openreview.net/forum?id=aR3uxWlZhX) | ICML 2024 | UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis | [UP2ME](https://github.com/Thinklab-SJTU/UP2ME) |
 | 24-05-17 | [UniCL](https://arxiv.org/abs/2405.10597) | Arxiv 2024 | UniCL: A Universal Contrastive Learning Framework for Large Time Series Models | [UniTS](https://github.com/mims-harvard/UniTS) |
 | 24-05-24 | [NuwaTS](https://arxiv.org/abs/2405.15317) | Arxiv 2024 | NuwaTS: a Foundation Model Mending Every Incomplete Time Series | [NuwaTS](https://github.com/Chengyui/NuwaTS) |
