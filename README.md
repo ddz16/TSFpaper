@@ -496,6 +496,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-03-02 | [DyDiff](https://arxiv.org/abs/2503.00951) | ICLR 2025 | Dynamical Diffusion: Learning Temporal Dynamics with Diffusion Models | [DyDiff](https://github.com/thuml/dynamical-diffusion) |
 | 25-05-07 | [NsDiff](https://arxiv.org/abs/2505.04278) | ICML 2025 | Non-stationary Diffusion For Probabilistic Time Series Forecasting | [NsDiff](https://github.com/wwy155/NsDiff) |
 | 25-05-16 | [FALDA](https://arxiv.org/abs/2505.11306) | Arxiv 2025 | Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion | None |
+| 25-05-29 | [K2VAE](https://arxiv.org/abs/2505.23017) | ICML 2025 | K2VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting | [k2vae](https://github.com/decisionintelligence/k2vae) |
 
 
 </details>
