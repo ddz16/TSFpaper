@@ -677,9 +677,11 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
 | 20-10-06 | [TST](https://arxiv.org/abs/2010.02803) | KDD 2021 | A Transformer-based Framework for Multivariate Time Series Representation Learning | [mvts_transformer](https://github.com/gzerveas/mvts_transformer)   |
+| 21-06-26 | [TS-TCC](https://arxiv.org/abs/2106.14112) | IJCAI 2021 | Time-Series Representation Learning via Temporal and Contextual Contrasting | [TS-TCC](https://github.com/emadeldeen24/TS-TCC) |
 | 21-09-29 | [CoST](https://openreview.net/forum?id=PilZY3omXV2) | ICLR 2022 | CoST: Contrastive Learning of Disentangled Seasonal-Trend Representations for Time Series Forecasting | [CoST](https://github.com/salesforce/CoST)   |
 | 22-05-16 | [LaST](https://openreview.net/pdf?id=C9yUwd72yy) | NIPS 2022 | LaST: Learning Latent Seasonal-Trend Representations for Time Series Forecasting | [LaST](https://github.com/zhycs/LaST)   |
 | 22-06-18 | [STEP](https://arxiv.org/abs/2206.09113) | KDD 2022 | Pre-training Enhanced Spatial-temporal Graph Neural Network for Multivariate Time Series Forecasting | [STEP](https://github.com/zezhishao/step)   |
+| 22-06-28 | [TS2Vec](https://ojs.aaai.org/index.php/AAAI/article/view/20881) | AAAI 2022 | TS2Vec: Towards Universal Representation of Time Series | [ts2vec](https://github.com/zhihanyue/ts2vec) |
 | 23-02-02 | [SimMTM](https://arxiv.org/abs/2302.00861) | NIPS 2023 | SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling | [SimMTM](https://github.com/thuml/simmtm) |
 | 23-02-07 | [DBPM](https://arxiv.org/abs/2302.03357) | ICLR 2024 | Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach | None |
 | 23-03-01 | [TimeMAE](https://arxiv.org/abs/2303.00320) | Arxiv 2023 | TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders | [TimeMAE](https://github.com/Mingyue-Cheng/TimeMAE) |
