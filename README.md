@@ -443,6 +443,8 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 | 25-03-13 | [Mamba-ProbTSF](https://arxiv.org/abs/2503.10873) | Arxiv 2025 | Mamba time series forecasting with uncertainty propagation | [mamba-probtsf](https://github.com/pessoap/mamba-probtsf) |
 | 25-04-02 | [Attention Mamba](https://arxiv.org/abs/2504.02013) | Arxiv 2025 | Attention Mamba: Time Series Modeling with Adaptive Pooling Acceleration and Receptive Field Enhancements | None |
 | 25-04-10 | [ms-Mamba](https://arxiv.org/abs/2504.07654) | Arxiv 2025 | ms-Mamba: Multi-scale Mamba for Time-Series Forecasting | None |
+| 25-05-27 | [TimePro](https://arxiv.org/abs/2505.20774) | ICML 2025 | TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state | [TimePro](https://github.com/xwmaxwma/TimePro) |
+
 
 
 </details>
@@ -658,6 +660,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-05-04 | [TimeKD](https://arxiv.org/abs/2505.02138) | ICDE 2025 | Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation | [timekd](https://github.com/chenxiliu-hnu/timekd) |
 | 25-05-16 | [Logo-LLM](https://arxiv.org/abs/2505.11017) | Arxiv 2025 | Logo-LLM: Local and Global Modeling with Large Language Models for Time Series Forecasting | None |
 | 25-05-19 | [SGCMA](https://arxiv.org/abs/2505.13175) | Arxiv 2025 | Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment | None |
+| 25-05-30 | [TimeReasoner](https://arxiv.org/abs/2505.24511) | Arxiv 2025 | Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting | [TimeReasoner](https://github.com/realwangjiahao/TimeReasoner) |
 
 
 </details>
