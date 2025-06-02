@@ -591,7 +591,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-03-02 | [PS_Loss](https://arxiv.org/abs/2503.00877)| Arxiv 2025 | Patch-wise Structural Loss for Time Series Forecasting | [PS_Loss](https://github.com/Dilfiraa/PS_Loss) |
 | 25-03-25 | [Rejection](https://arxiv.org/abs/2503.19656)| Arxiv 2025 | Towards Reliable Time Series Forecasting under Future Uncertainty: Ambiguity and Novelty Rejection Mechanisms | None |
 | 25-04-19 | [Pets](https://arxiv.org/abs/2504.14209)| Arxiv 2025 | Pets: General Pattern Assisted Architecture For Time Series Analysis | None |
-| 25-04-24 | [Training Policy](https://arxiv.org/abs/2504.17493)| Arxiv 2025 | Goal-Oriented Time-Series Forecasting: Foundation Framework Design | None |
+| 25-04-24 | [Training Policy](https://arxiv.org/abs/2504.17493)| Arxiv 2025 | Goal-Oriented Time-Series Forecasting: Foundation Framework Design | [GOTSF](https://github.com/netop-team/gotsf) |
 | 25-05-13 | [SPAT](https://arxiv.org/abs/2505.08768)| Arxiv 2025 | SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models | [SPAT](https://anonymous.4open.science/r/SPAT-6042) |
 | 25-05-16 | [X-Freq](https://arxiv.org/abs/2505.11567)| Arxiv 2025 | Beyond Time: Cross-Dimensional Frequency Supervision for Time Series Forecasting | None |
 | 25-05-16 | [KNN-MTS](https://arxiv.org/abs/2505.11625)| TNNLS 2024 | Nearest Neighbor Multivariate Time Series Forecasting | [KNN-MTS](https://github.com/hlhang9527/KNN-MTS) |
