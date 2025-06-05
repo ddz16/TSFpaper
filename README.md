@@ -780,6 +780,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-12-04 | [ChatTS](https://arxiv.org/abs/2412.03104) | VLDB 2025 | ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning | [ChatTS](https://github.com/NetManAIOps/ChatTS) |
 | 24-12-16 | [ChatTime](https://arxiv.org/abs/2412.11376) | AAAI 2025 | ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data | [ChatTime](https://github.com/forestsking/chattime) |
 | 25-01-13 | [TextFusionHTS](https://arxiv.org/abs/2501.07048) | NIPSW 2024 | Unveiling the Potential of Text in High-Dimensional Time Series Forecasting | [TextFusionHTS](https://github.com/xinzzzhou/textfusionhts) |
+| 25-01-13 | [TempoGPT](https://arxiv.org/abs/2501.07335) | Arxiv 2025 | TempoGPT: Enhancing Time Series Reasoning via Quantizing Embedding | [TempoGPT](https://github.com/zhanghaochuan20/TempoGPT) |
 | 25-02-06 | [Time-VLM](https://arxiv.org/abs/2502.04395) | Arxiv 2025 | Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting | None |
 | 25-02-13 | [TaTS](https://arxiv.org/abs/2502.08942) | Arxiv 2025 | Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative | None |
 | 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
