@@ -65,7 +65,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 24-07-29|[Transformer](https://arxiv.org/abs/2407.19784) |Arxiv 2024| Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting| None
 24-10-14|[GIFT-Eval](https://arxiv.org/abs/2410.10393) |Arxiv 2024| GIFT-Eval: A Benchmark For General Time Series Forecasting Model Evaluation | None
 24-10-15|[FoundTS](https://arxiv.org/abs/2410.11802) |Arxiv 2024| FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting | [FoundTS](https://anonymous.4open.science/r/FoundTS-C2B0)
-24-10-24|[Architecture](https://arxiv.org/abs/2411.05793) |Arxiv 2024| A Comprehensive Survey of Time Series Forecasting: Architectural Diversity and Open Challenges | None
+24-10-24|[Architecture](https://arxiv.org/abs/2411.05793) |AIR 2025| A Comprehensive Survey of Time Series Forecasting: Architectural Diversity and Open Challenges | None
 24-10-29|[STGNN](https://arxiv.org/abs/2410.22377) |Arxiv 2024| A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification | None
 24-12-19|[Benchmark](https://arxiv.org/abs/2412.14435)🌟 |AAAI 2025| Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine | [bench](https://github.com/luisroque/bench)
 25-02-11|[Physiome-ODE](https://arxiv.org/abs/2502.07489) |ICLR 2025| Physiome-ODE: A Benchmark for Irregularly Sampled Multivariate Time Series Forecasting Based on Biological ODEs | [Physiome-ODE](https://anonymous.4open.science/r/Phyisiome-ODE-E53D)
