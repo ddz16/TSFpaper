@@ -642,7 +642,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-07-30 | [FedTime](https://arxiv.org/abs/2407.20503) | Arxiv 2024 | A federated large language model for long-term time series forecasting | None |
 | 24-08-22 | [LLMGeovec](https://arxiv.org/abs/2408.12116) | Arxiv 2024 | Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning | None |
 | 24-08-24 | [RePST](https://arxiv.org/abs/2408.14505) | Arxiv 2024 | Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming | None |
-| 24-09-17 | [MLLM](https://arxiv.org/abs/2409.11376) | Arxiv 2024 | Towards Time Series Reasoning with LLMs | None |
+| 24-09-17 | [MLLM](https://arxiv.org/abs/2409.11376) | NIPSW 2024 | Towards Time Series Reasoning with LLMs | None |
 | 24-10-04 | [MetaTST](https://arxiv.org/abs/2410.03806) | Arxiv 2024 | Metadata Matters for Time Series: Informative Forecasting with Transformers | None |
 | 24-10-15 | [LLM-Mixer](https://arxiv.org/abs/2410.11674) | Arxiv 2024 | LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting | [LLMMixer](https://github.com/Kowsher/LLMMixer) |
 | 24-10-16 | [NoLLM](https://arxiv.org/abs/2410.12326) | Arxiv 2024 | Revisited Large Language Model for Time Series Analysis through Modality Alignment | None |
