@@ -636,7 +636,6 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | NIPS 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
 | 24-06-03 | [TimeCMA](https://arxiv.org/abs/2406.01638) | Arxiv 2024 | TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment | None |
 | 24-06-07 | [LMGF](https://arxiv.org/abs/2406.05249) | Arxiv 2024 | A Language Model-Guided Framework for Mining Time Series with Distributional Shifts | None |
-| 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [Time-MMD](https://github.com/AdityaLab/Time-MMD) |
 | 24-06-20 | [LTSM-bundle](https://arxiv.org/abs/2406.14045) | Arxiv 2024 | Understanding Different Design Choices in Training Large Time Series Models | [ltsm](https://github.com/daochenzha/ltsm) |
 | 24-06-22 | [AreLLMUseful](https://arxiv.org/abs/2406.16964)🌟 | NIPS 2024 | Are Language Models Actually Useful for Time Series Forecasting? | [ts_models](https://github.com/bennytmt/ts_models) |
 | 24-07-30 | [FedTime](https://arxiv.org/abs/2407.20503) | Arxiv 2024 | A federated large language model for long-term time series forecasting | None |
@@ -729,7 +728,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-07-10 | [Toto](https://arxiv.org/abs/2407.07874) | Arxiv 2024 | Toto: Time Series Optimized Transformer for Observability | None |
 | 24-08-16 | [OpenCity](https://arxiv.org/abs/2408.10269) | Arxiv 2024 | OpenCity: Open Spatio-Temporal Foundation Models for Traffic Prediction | [OpenCity](https://github.com/hkuds/opencity) |
 | 24-08-30 | [VisionTS](https://arxiv.org/abs/2408.17253) 🌟 | Arxiv 2024 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters | [VisionTS](https://github.com/Keytoyze/VisionTS) |
-| 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | Arxiv 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
+| 24-09-17 | [ImplicitReason](https://arxiv.org/abs/2409.10840) | NIPSW 2024 | Implicit Reasoning in Deep Time Series Forecasting | None |
 | 24-09-24 | [Time-MoE](https://arxiv.org/abs/2409.16040) | ICLR 2025 | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://zhuanlan.zhihu.com/p/2950313586) | [Time-MoE](https://github.com/Time-MoE/Time-MoE) |
 | 24-10-07 | [Timer-XL](https://arxiv.org/abs/2410.04803) | ICLR 2025 | Timer-XL: Long-Context Transformers for Unified Time Series Forecasting | [Timer-XL](https://github.com/thuml/Timer-XL) |
 | 24-10-09 | [OTiS](https://arxiv.org/abs/2410.07299) | Arxiv 2024 | Towards Generalisable Time Series Understanding Across Domains | [otis](https://github.com/oetu/otis) |
@@ -774,7 +773,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
-| 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | Arxiv 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [time-mmd](https://github.com/adityalab/time-mmd) |
+| 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | NIPS 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [time-mmd](https://github.com/adityalab/time-mmd) |
 | 24-10-16 | [ContextFormer](https://arxiv.org/abs/2410.12672) | Arxiv 2024 | Context Matters: Leveraging Contextual Features for Time Series Forecasting | None |
 | 24-11-11 | [Hybrid-MMF](https://arxiv.org/abs/2411.06735) | Arxiv 2024 | Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data | [Multimodal_Forecasting](https://github.com/Rose-STL-Lab/Multimodal_Forecasting) |
 | 24-12-16 | [ChatTime](https://arxiv.org/abs/2412.11376) | AAAI 2025 | ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data | [ChatTime](https://github.com/forestsking/chattime) |
