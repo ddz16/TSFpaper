@@ -76,6 +76,7 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 25-02-26|[FinTSB](https://arxiv.org/abs/2502.18834) |Arxiv 2025| FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting | [FinTSB](https://github.com/TongjiFinLab/FinTSB)
 25-03-13|[DL](https://arxiv.org/abs/2503.10198) |Arxiv 2025| Deep Learning for Time Series Forecasting: A Survey | None
 25-04-05|[FoundationModels](https://arxiv.org/abs/2504.04011) |Arxiv 2025| Foundation Models for Time Series: A Survey | None
+25-04-10|[Survey](https://www.techrxiv.org/users/909144/articles/1283131-a-comprehensive-survey-of-time-series-forecasting-concepts-challenges-and-future-directions) |Arxiv 2025| A Comprehensive Survey of Time Series Forecasting: Concepts, Challenges, and Future Directions | [PaperList](https://github.com/USTCAGI/Awesome-Papers-Time-Series-Forecasting)
 
 
 </details>
