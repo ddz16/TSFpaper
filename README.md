@@ -805,6 +805,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 21-02-13 | [DAF](https://arxiv.org/abs/2102.06828) | ICML 2022 | Domain Adaptation for Time Series Forecasting via Attention Sharing | [DAF](https://github.com/leejoonhun/daf) |
 | 21-06-13 | [FOIL](https://arxiv.org/abs/2406.09130) | ICML 2024 | Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning | [FOIL](https://github.com/adityalab/foil) |
 | 24-08-24 | [STONE](https://dl.acm.org/doi/abs/10.1145/3637528.3671680) | KDD 2024 | STONE: A Spatio-temporal OOD Learning Framework Kills Both Spatial and Temporal Shifts | [STONE](https://github.com/PoorOtterBob/STONE-KDD-2024) |
+| 24-10-06 | [EAC](https://arxiv.org/pdf/2410.12593) | ICLR 2025 | Expand and Compress: Exploring Tuning Principles for Continual Spatio-Temporal Graph Forecasting | [EAC](https://github.com/Onedean/EAC) |
 | 24-12-15 | [LTG](https://arxiv.org/abs/2412.11171) | Arxiv 2024 | Learning Latent Spaces for Domain Generalization in Time Series Forecasting | None |
 | 25-02-23 | [LCA](https://arxiv.org/abs/2502.16637) | Arxiv 2025 | Time Series Domain Adaptation via Latent Invariant Causal Mechanism | [LCA](https://github.com/DMIRLAB-Group/LCA) |
 
@@ -827,6 +828,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 25-01-23 | [DSOF](https://openreview.net/forum?id=I0n3EyogMi) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2025 | Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage | None  |
 | 25-02-18 | [LSTD](https://arxiv.org/abs/2502.12603) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Disentangling Long-Short Term State Under Unknown Interventions for Online Time Series Forecasting | [LSTD](https://github.com/DMIRLAB-Group/LSTD)  |
 | 25-02-18 | [AdapTS](https://arxiv.org/abs/2502.12920) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Lightweight Online Adaption for Time Series Foundation Model Forecasts | None |
+| 25-05-31 | [ST-TTC](https://arxiv.org/pdf/2506.00635) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Learning with Calibration: Exploring Test-Time Computing of Spatio-Temporal Forecasting |  None  |
 
 </details>
 
