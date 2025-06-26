@@ -828,6 +828,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 | 25-01-23 | [DSOF](https://openreview.net/forum?id=I0n3EyogMi) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | ICLR 2025 | Fast and Slow Streams for Online Time Series Forecasting Without Information Leakage | None  |
 | 25-02-18 | [LSTD](https://arxiv.org/abs/2502.12603) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | AAAI 2025 | Disentangling Long-Short Term State Under Unknown Interventions for Online Time Series Forecasting | [LSTD](https://github.com/DMIRLAB-Group/LSTD)  |
 | 25-02-18 | [AdapTS](https://arxiv.org/abs/2502.12920) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Lightweight Online Adaption for Time Series Foundation Model Forecasts | None |
+| 25-05-28 | [CEP](https://arxiv.org/abs/2506.14790) | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | Arxiv 2025 | Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting | [CEP TS](https://github.com/ztxtech/cep_ts) |
 | 25-05-31 | [ST-TTC](https://arxiv.org/pdf/2506.00635) | ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Learning with Calibration: Exploring Test-Time Computing of Spatio-Temporal Forecasting |  None  |
 
 </details>
