@@ -217,7 +217,7 @@ Date|Method|Type|Conference|Paper Title and Paper Interpretation (In Chinese)|Co
 25-05-20 | [LMHR](https://arxiv.org/abs/2505.14737)| ![spatio-temporal forecasting](https://img.shields.io/badge/-SpatioTemporal-blue) | Arxiv 2025 | Leveraging Multivariate Long-Term History Representation for Time Series Forecasting | None
 25-05-21 | [Sonnet](https://arxiv.org/abs/2505.15312)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting | [Sonnet](https://github.com/ClaudiaShu/Sonnet)
 25-05-22 | [CAIFormer](https://arxiv.org/abs/2505.16308)| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | CAIFormer: A Causal Informed Transformer for Multivariate Time Series Forecasting | None
-25-06-10 | [ChannelTokenFormer](https://arxiv.org/abs/2506.08660) | Arxiv 2025 | Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness | None
+25-06-10 | [ChannelTokenFormer](https://arxiv.org/abs/2506.08660) | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | Arxiv 2025 | Towards Robust Real-World Multivariate Time Series Forecasting: A Unified Framework for Dependency, Asynchrony, and Missingness | None
 
 
 </details>
