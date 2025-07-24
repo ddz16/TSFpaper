@@ -603,7 +603,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-05-20 | [Adaptive tokenization](https://arxiv.org/abs/2505.14411)| Arxiv 2025 | Byte Pair Encoding for Efficient Time Series Forecasting | None |
 | 25-05-20 | [Toto](https://arxiv.org/abs/2505.14766)| Arxiv 2025 | This Time is Different: An Observability Perspective on Time Series Foundation Models | [Toto](https://github.com/datadog/toto) |
 | 25-05-21 | [Adaptive Optimization](https://arxiv.org/abs/2505.15354)| Arxiv 2025 | Human in the Loop Adaptive Optimization for Improved Time Series Forecasting | None |
-
+| 25-07-21 | [PRO-DYN](https://arxiv.org/abs/2507.15774)| Arxiv 2025 | Dynamics is what you need for time-series forecasting! | None |
 
 
 </details>
