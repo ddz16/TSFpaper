@@ -673,6 +673,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-05-19 | [SGCMA](https://arxiv.org/abs/2505.13175) | Arxiv 2025 | Enhancing LLMs for Time Series Forecasting via Structure-Guided Cross-Modal Alignment | None |
 | 25-05-30 | [TimeReasoner](https://arxiv.org/abs/2505.24511) | Arxiv 2025 | Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting | [TimeReasoner](https://github.com/realwangjiahao/TimeReasoner) |
 | 25-06-12 | [Time-R1](https://arxiv.org/abs/2506.10630) | Arxiv 2025 | Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs | [Time-R1](https://github.com/lqzxt/Time-R1) |
+| 25-08-08 | [TokenCast](https://arxiv.org/abs/2508.09191) | Arxiv 2025 | From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization | [TokenCast](https://github.com/Xiaoyu-Tao/TokenCast) |
 
 
 </details>
