@@ -606,7 +606,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-05-21 | [Adaptive Optimization](https://arxiv.org/abs/2505.15354)| Arxiv 2025 | Human in the Loop Adaptive Optimization for Improved Time Series Forecasting | None |
 | 25-05-29 | [PIR](https://arxiv.org/abs/2505.23583)| NIPS 2025 | Improving Time Series Forecasting via Instance-aware Post-hoc Revision | [PIR](https://github.com/icantnamemyself/PIR) |
 | 25-07-21 | [PRO-DYN](https://arxiv.org/abs/2507.15774)| Arxiv 2025 | Dynamics is what you need for time-series forecasting! | None |
-
+| 25-09-17 | [AliO](https://openreview.net/forum?id=AuOZDp4gy7)| NIPS 2025 | [AliO: Output Alignment Matters in Long-Term Time Series Forecasting](https://www.youtube.com/watch?v=dennqibYeNo) | [AliO](https://github.com/eai-lab/AliO) |
+| 25-11-08 | [PFRP](https://arxiv.org/abs/2511.05859)| AAAI 2026 | Predicting the Future by Retrieving the Past | [PFRP](https://github.com/ddz16/PFRP) |
 
 </details>
 
