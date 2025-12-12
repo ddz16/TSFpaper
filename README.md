@@ -783,6 +783,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
+| 24-03-19 | [InstructTime](https://dl.acm.org/doi/abs/10.1145/3701551.3703499) | WSDM 2025 | InstructTime: Advancing Time Series Classification with Multimodal Language Modeling | [InstructTime](https://github.com/Mingyue-Cheng/InstructTime) |
 | 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | NIPS 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [time-mmd](https://github.com/adityalab/time-mmd) |
 | 24-10-16 | [ContextFormer](https://arxiv.org/abs/2410.12672) | Arxiv 2024 | Context Matters: Leveraging Contextual Features for Time Series Forecasting | None |
 | 24-11-11 | [Hybrid-MMF](https://arxiv.org/abs/2411.06735) | Arxiv 2024 | Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data | [Multimodal_Forecasting](https://github.com/Rose-STL-Lab/Multimodal_Forecasting) |
