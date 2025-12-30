@@ -710,6 +710,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-05-02 | [UP2ME](https://openreview.net/forum?id=aR3uxWlZhX) | ICML 2024 | UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis | [UP2ME](https://github.com/Thinklab-SJTU/UP2ME) |
 | 24-05-28 | [TSRM](https://arxiv.org/abs/2405.18165) | Arxiv 2024 | Time Series Representation Models | [TSRM](https://github.com/RobertLeppich/TSRM) |
 | 24-08-24 | [TSDE](https://dl.acm.org/doi/abs/10.1145/3637528.3671673) | KDD 2024 | Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask | [TSDE](https://github.com/llcresearch/TSDE) |
+| 25-01-22 | [PPT](https://openreview.net/pdf?id=7zwIEbSTDy) | ICLR 2025 | PPT: Patch Order Do Matters In Time Series Pretext Task | [PPT](https://github.com/eai-lab/PPT) |
 | 25-02-05 | [TopoCL](https://arxiv.org/abs/2502.02924) | Arxiv 2025 | TopoCL: Topological Contrastive Learning for Time Series | None |
 
 
