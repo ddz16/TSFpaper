@@ -804,6 +804,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-05-16 | [CAPTime](https://arxiv.org/abs/2505.10774) | Arxiv 2025 | Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting | None |
 | 25-05-20 | [CHARM](https://arxiv.org/abs/2505.14543) | Arxiv 2025 | Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions | None |
 | 25-05-21 | [MoTime](https://arxiv.org/abs/2505.15072) | Arxiv 2025 | MoTime: A Dataset Suite for Multimodal Time Series Forecasting | None |
+| 26-01-13 | [WhatIfTSF](https://arxiv.org/abs/2601.08509) | Arxiv 2026 | What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting | [WhatIfTSF](https://github.com/jinkwan1115/WhatIfTSF) |
 
 
 </details>
