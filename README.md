@@ -629,24 +629,24 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 23-11-24 | [FPT++](https://arxiv.org/abs/2311.14782) 🌟 | Arxiv 2023 | One Fits All: Universal Time Series Analysis by Pretrained LM and Specially Designed Adaptors | [GPT4TS_Adapter](https://github.com/PSacfc/GPT4TS_Adapter) |
 | 24-01-18 | [ST-LLM](https://arxiv.org/abs/2401.10134) | Arxiv 2024 | Spatial-Temporal Large Language Model for Traffic Prediction | None |
 | 24-02-01 | [LLMICL](https://arxiv.org/abs/2402.00795) | Arxiv 2024 | LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law | [LLMICL](https://github.com/AntonioLiu97/llmICL) |
-| 24-02-04 | [AutoTimes](https://arxiv.org/abs/2402.02370) | Arxiv 2024 | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | [AutoTimes](https://github.com/thuml/AutoTimes) |
+| 24-02-04 | [AutoTimes](https://arxiv.org/abs/2402.02370) | NIPS 2024 | AutoTimes: Autoregressive Time Series Forecasters via Large Language Models | [AutoTimes](https://github.com/thuml/AutoTimes) |
 | 24-02-05 | [Position](https://openreview.net/attachment?id=iroZNDxFJZ&name=pdf) | ICML 2024 | Position: What Can Large Language Models Tell Us about Time Series Analysis | None |
 | 24-02-07 | [aLLM4TS](https://arxiv.org/abs/2402.04852) | ICML 2024 | Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning | None |
 | 24-02-16 | [TSFwithLLM](https://arxiv.org/abs/2402.10835) | Arxiv 2024 | Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities | None |
 | 24-02-25 | [LSTPrompt](https://arxiv.org/abs/2402.16132) | Arxiv 2024 | LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting | [LSTPrompt](https://github.com/AdityaLab/lstprompt) |
 | 24-03-09 | [S2IP-LLM](https://arxiv.org/abs/2403.05798) | ICML 2024 | S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting | None |
-| 24-03-12 | [CALF](https://arxiv.org/abs/2403.07300) | Arxiv 2024 | CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning | [CALF](https://github.com/Hank0626/CALF) |
+| 24-03-12 | [CALF](https://arxiv.org/abs/2403.07300) | AAAI 2025 | CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning | [CALF](https://github.com/Hank0626/CALF) |
 | 24-03-12 | [Chronos](https://arxiv.org/abs/2403.07815) 🌟 | Arxiv 2024 | Chronos: Learning the Language of Time Series | [Chronos](https://github.com/amazon-science/chronos-forecasting) |
 | 24-04-17 | [TSandLanguage](https://arxiv.org/abs/2404.11757) | Arxiv 2024 | Language Models Still Struggle to Zero-shot Reason about Time Series | [TSandLanguage](https://github.com/behavioral-data/TSandLanguage) |
 | 24-05-22 | [TGForecaster](https://arxiv.org/abs/2405.13522) | Arxiv 2024 | Beyond Trend and Periodicity: Guiding Time Series Forecasting with Textual Cues | [tgtsf](https://github.com/vewoxic/tgtsf) |
 | 24-05-23 | [Time-FFM](https://arxiv.org/abs/2405.14252) | NIPS 2024 | Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting | None |
-| 24-06-03 | [TimeCMA](https://arxiv.org/abs/2406.01638) | Arxiv 2024 | TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment | None |
+| 24-06-03 | [TimeCMA](https://arxiv.org/abs/2406.01638) | AAAI 2025 | TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment | [TimeCMA](https://github.com/ChenxiLiu-HNU/TimeCMA) |
 | 24-06-07 | [LMGF](https://arxiv.org/abs/2406.05249) | Arxiv 2024 | A Language Model-Guided Framework for Mining Time Series with Distributional Shifts | None |
 | 24-06-20 | [LTSM-bundle](https://arxiv.org/abs/2406.14045) | Arxiv 2024 | Understanding Different Design Choices in Training Large Time Series Models | [ltsm](https://github.com/daochenzha/ltsm) |
 | 24-06-22 | [AreLLMUseful](https://arxiv.org/abs/2406.16964)🌟 | NIPS 2024 | Are Language Models Actually Useful for Time Series Forecasting? | [ts_models](https://github.com/bennytmt/ts_models) |
 | 24-07-30 | [FedTime](https://arxiv.org/abs/2407.20503) | Arxiv 2024 | A federated large language model for long-term time series forecasting | None |
 | 24-08-22 | [LLMGeovec](https://arxiv.org/abs/2408.12116) | Arxiv 2024 | Geolocation Representation from Large Language Models are Generic Enhancers for Spatio-Temporal Learning | None |
-| 24-08-24 | [RePST](https://arxiv.org/abs/2408.14505) | Arxiv 2024 | Empowering Pre-Trained Language Models for Spatio-Temporal Forecasting via Decoupling Enhanced Discrete Reprogramming | None |
+| 24-08-24 | [RePST](https://arxiv.org/abs/2408.14505) | IJCAI 2025 | RePST: Language Model Empowered Spatio-Temporal Forecasting via Semantic-Oriented Reprogramming | [RePST](https://github.com/usail-hkust/REPST) |
 | 24-09-17 | [MLLM](https://arxiv.org/abs/2409.11376) | NIPSW 2024 | Towards Time Series Reasoning with LLMs | None |
 | 24-10-04 | [MetaTST](https://arxiv.org/abs/2410.03806) | Arxiv 2024 | Metadata Matters for Time Series: Informative Forecasting with Transformers | None |
 | 24-10-15 | [LLM-Mixer](https://arxiv.org/abs/2410.11674) | Arxiv 2024 | LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting | [LLMMixer](https://github.com/Kowsher/LLMMixer) |
@@ -665,6 +665,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-10 | [MPT](https://arxiv.org/abs/2501.06386) | Arxiv 2025 | Using Pre-trained LLMs for Multivariate Time Series Forecasting | None |
 | 25-02-04 | [LASTS](https://arxiv.org/abs/2502.01922) | Arxiv 2025 | LAST SToP For Modeling Asynchronous Time Series | None |
 | 25-02-09 | [FinSeer](https://arxiv.org/abs/2502.05878) | Arxiv 2025 | Retrieval-augmented Large Language Models for Financial Time Series Forecasting | None |
+| 25-02-25 | [STEM-LTS](https://ojs.aaai.org/index.php/AAAI/article/view/34447) | AAAI 2025 | STEM-LTS: Integrating Semantic-Temporal Dynamics in LLM-driven Time Series Analysis | [STEM-LTS](https://github.com/DataLab-atom/STEM-LTS) |
 | 25-03-05 | [SMETimes](https://arxiv.org/abs/2503.03594) | Arxiv 2025 | Small but Mighty: Enhancing Time Series Forecasting with Lightweight LLMs | [SMETimes](https://github.com/xiyan1234567/SMETimes) |
 | 25-03-10 | [LTM](https://arxiv.org/abs/2503.07682) | Arxiv 2025 | A Time Series Multitask Framework Integrating a Large Language Model, Pre-Trained Time Series Model, and Knowledge Graph | None |
 | 25-03-11 | [LangTime](https://arxiv.org/abs/2503.08271) | ICML 2025 | LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization | [LangTime](https://github.com/niuwz/LangTime) |
@@ -677,6 +678,8 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-05-30 | [TimeReasoner](https://arxiv.org/abs/2505.24511) | Arxiv 2025 | Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting | [TimeReasoner](https://github.com/realwangjiahao/TimeReasoner) |
 | 25-06-12 | [Time-R1](https://arxiv.org/abs/2506.10630) | Arxiv 2025 | Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs | [Time-R1](https://github.com/lqzxt/Time-R1) |
 | 25-08-08 | [TokenCast](https://arxiv.org/abs/2508.09191) | Arxiv 2025 | From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization | [TokenCast](https://github.com/Xiaoyu-Tao/TokenCast) |
+| 25-08-16 | [FreqLLM](https://www.ijcai.org/proceedings/2025/377) | IJCAI 2025 | FreqLLM: Frequency-Aware Large Language Models for Time Series Forecasting | [FreqLLM](https://github.com/biya0105/FreqLLM) |
+| 25-08-16 | [LLM-TPF](https://www.ijcai.org/proceedings/2025/671) | IJCAI 2025 | LLM-TPF: Multiscale Temporal Periodicity-Semantic Fusion LLMs for Time Series Forecasting | [LLM-TPF](https://github.com/switchsky/LLM-TPF) |
 | 25-09-15 | [FSTLLM](https://openreview.net/pdf?id=oyoiHf51es) | ICML 2025 | FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting | [FSTLLM](https://github.com/JIANGYUE61610306/FSTLLM) |
 
 
@@ -784,8 +787,10 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 
 Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 -----|----|-----|-----|-----
+| 24-02-20 | [GPT4MTS](https://ojs.aaai.org/index.php/AAAI/article/view/30383) | AAAI 2024 | GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting | [GPT4MTS](https://github.com/Flora-jia-jfr/GPT4MTS-Prompt-based-Large-Language-Model-for-Multimodal-Time-series-Forecasting) |
 | 24-03-19 | [InstructTime](https://dl.acm.org/doi/abs/10.1145/3701551.3703499) | WSDM 2025 | InstructTime: Advancing Time Series Classification with Multimodal Language Modeling | [InstructTime](https://github.com/Mingyue-Cheng/InstructTime) |
 | 24-06-12 | [Time-MMD](https://arxiv.org/abs/2406.08627) | NIPS 2024 | Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis | [time-mmd](https://github.com/adityalab/time-mmd) |
+| 24-09-26 | [From News to Forecast](https://arxiv.org/abs/2409.17515) | NIPS 2024 | From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection | [From_News_to_Forecast](https://github.com/ameliawong1996/From_News_to_Forecast) |
 | 24-10-16 | [ContextFormer](https://arxiv.org/abs/2410.12672) | Arxiv 2024 | Context Matters: Leveraging Contextual Features for Time Series Forecasting | None |
 | 24-11-11 | [Hybrid-MMF](https://arxiv.org/abs/2411.06735) | Arxiv 2024 | Multi-Modal Forecaster: Jointly Predicting Time Series and Textual Data | [Multimodal_Forecasting](https://github.com/Rose-STL-Lab/Multimodal_Forecasting) |
 | 24-12-04 | [ChatTS](https://arxiv.org/abs/2412.03104) | VLDB 2025 | ChatTS: Aligning Time Series with LLMs via Synthetic Data for Enhanced Understanding and Reasoning | [ChatTS](https://github.com/NetManAIOps/ChatTS) |
@@ -794,6 +799,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-01-13 | [TempoGPT](https://arxiv.org/abs/2501.07335) | Arxiv 2025 | TempoGPT: Enhancing Time Series Reasoning via Quantizing Embedding | [TempoGPT](https://github.com/zhanghaochuan20/TempoGPT) |
 | 25-02-03 | [Position](https://arxiv.org/abs/2502.01477) | Arxiv 2025 | Position: Empowering Time Series Reasoning with Multimodal LLMs | None |
 | 25-02-06 | [Time-VLM](https://arxiv.org/abs/2502.04395) | ICML 2025 | Time-VLM: Exploring Multimodal Vision-Language Models for Augmented Time Series Forecasting | [TimeVLM](https://github.com/CityMind-Lab/ICML25-TimeVLM) |
+| 25-02-07 | [CAMEF](https://arxiv.org/abs/2502.04592) | KDD 2025 | CAMEF: Causal-Augmented Multi-Modality Event-Driven Financial Forecasting by Integrating Time Series Patterns and Salient Macroeconomic Announcements | [CAMEF](https://github.com/lakebodhi/CAMEF) |
 | 25-02-13 | [TaTS](https://arxiv.org/abs/2502.08942) | Arxiv 2025 | Language in the Flow of Time: Time-Series-Paired Texts Weaved into a Unified Temporal Narrative | None |
 | 25-02-26 | [Time-MQA](https://arxiv.org/abs/2503.01875) | ACL 2025 | Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement | [Time-MQA](https://huggingface.co/Time-MQA) |
 | 25-03-02 | [TimeXL](https://arxiv.org/abs/2503.01013) | Arxiv 2025 | Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop | None |
@@ -804,6 +810,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 25-05-16 | [CAPTime](https://arxiv.org/abs/2505.10774) | Arxiv 2025 | Context-Aware Probabilistic Modeling with LLM for Multimodal Time Series Forecasting | None |
 | 25-05-20 | [CHARM](https://arxiv.org/abs/2505.14543) | Arxiv 2025 | Time to Embed: Unlocking Foundation Models for Time Series with Channel Descriptions | None |
 | 25-05-21 | [MoTime](https://arxiv.org/abs/2505.15072) | Arxiv 2025 | MoTime: A Dataset Suite for Multimodal Time Series Forecasting | None |
+| 25-08-16 | [Beyond Statistical Analysis](https://www.ijcai.org/proceedings/2025/745) | IJCAI 2025 | Beyond Statistical Analysis: Multimodal Framework for Time Series Forecasting with LLM-Driven Temporal Pattern | None |
 | 26-01-13 | [WhatIfTSF](https://arxiv.org/abs/2601.08509) | Arxiv 2026 | What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting | [WhatIfTSF](https://github.com/jinkwan1115/WhatIfTSF) |
 
 
