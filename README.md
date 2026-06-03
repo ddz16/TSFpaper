@@ -778,7 +778,7 @@ Date|Method|Conference| Paper Title and Paper Interpretation (In Chinese) |Code
 | 24-08-18 | [Agentic-RAG](https://arxiv.org/abs/2408.14484) | KDDW 2024 | Agentic Retrieval-Augmented Generation for Time Series Analysis | None |
 | 24-10-05 | [TS-Reasoner](https://arxiv.org/abs/2410.04047) | Arxiv 2024 | Domain-Oriented Time Series Inference Agents for Reasoning and Automated Analysis | None |
 | 25-04-14 | [IA_news_model](https://arxiv.org/abs/2504.10210) | Arxiv 2025 | Can Competition Enhance the Proficiency of Agents Powered by Large Language Models in the Realm of News-driven Time Series Forecasting? | [IA_news_model](https://anonymous.4open.science/r/IA_news_model-D7D6) |
-| 25-04-14 | [AION](https://arxiv.org/abs/2605.25045) | Arxiv 2026 | AION: Next-Generation Tasks and Practical Harness for Time Series | [AION](https://github.com/ztxtech/aion) |
+| 26-05-24 | [AION](https://arxiv.org/abs/2605.25045) | Arxiv 2026 | AION: Next-Generation Tasks and Practical Harness for Time Series | [AION](https://github.com/ztxtech/aion) |
 
 
 </details>
